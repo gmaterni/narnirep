@@ -1,0 +1,53 @@
+<div class='help'>
+<button  type='button' onclick="UaWindowAdm.close('hlp__');">X</button>
+<p>
+<h4>Regole per la ricerca</h4>
+Digitare nei campi della maschera i valori per effettuare la selezione. Se ad esempio si digita
+<b>Fiera</b> nel campo <b>"Argomento:"</b> saranno selezionati tutti i record che contengono quel determinato valore
+nel campo indicato.
+Per facilitare il compito nei campi contenenti un set definito di possibili valori sono disponibili dei popup
+che permetttono di selezionare i possibili valori.<br/>
+Per rendere più flessibile la ricerca è possibile utilizzare un <span >wilcard</span> <b>%</b> da utilizzare
+secondo le seguenti regole:
+</p><p>
+<b>Campo:</b><b>%valore%</b>  sono selezionati tutti i record nei quali il testo nel <b>Campo</b> CONTIENE almeno una volta la
+parola <b>"valore"</b>.<br/>
+Es.  <b>Argomento:</b><b>%gabell%</b> si ha:<br/>
+Esenzione da gabella<br/>
+Gabella cenciaria<br/>
+Gabella dei frutti<br/>
+</p><p>
+<b>Campo:valore%</b>  sono selezionati tutti i record nei quali il testo in  <b>Campo</b> INIZIA con <b>"valore"</b>.<br/>
+Es. <b>Argomento:gabell%</b> si ha:<br/>
+Gabella cenciaria<br/>
+Gabella dei frutti<br/>
+</p><p>
+<b>Campo:*</b> sono selezionati tutti i record nei quali il testo in <b>Campo</b> NON è nullo.<br/>
+Es. <b>Argomento:*</b> si ha:<br/>
+...<br/>
+Eredità<br/>
+Esenzione da gabella<br/>
+Festività religiose e profane<br/>
+Fiera<br/>
+...<br/>
+</p><p>
+Inoltre:<br/>
+Non viene fatta distinzione fra maiuscole e minuscole.<br/>
+E' possibile modificare, aggiungendo la <span>wilcard</span><b> %</b> i valori selezionati dai <span>popup</span>.
+</p> <p><br/>
+<b>Report1</b>
+</p><p>
+La risposta data da Report1 metterà in evidenza, per ciascuna seduta legata al criterio di ricerca prescelto, la Tipologia di Consiglio e il nome dei Consiglieri.
+</p><p>
+<b>Report2</b><br/>
+</p><p>
+La risposta data da Report2 metterà in evidenza, per ciascuna seduta legata al criterio di ricerca prescelto: 1) la presenza eventuale di Deputati e l’argomento della loro Deputatio; 2) tutti gli altri Assistenti a vario titolo alla seduta, con specifica della loro Carica.
+</p>
+</div>
+
+
+
+
+<script>
+  $('close_id').onclick = function(event){ alert('close');}
+</script>

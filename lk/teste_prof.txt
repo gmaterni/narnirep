@@ -1,0 +1,6 @@
+Chirurgo
+Conciatore
+Cuoco
+Fabbro
+Falegname
+Notaio

@@ -1,0 +1,23 @@
+<table id="list1" class="rep">
+<tr>
+<%
+var name;
+for(name in mapCols){
+%>
+<th>
+<%=mapCols[name]%></th>
+<%}%></tr>
+<#
+var i;
+for(i=0;i<rows.length;i++) {
+var row=rows[i];
+var n=(i %2);
+#>
+<tr  class="row<#=n#>
+">
+<%
+for(name in mapCols) {
+%>
+<td><#=row[cols.<%=name%>]#></td>
+<%}%></tr>
+<#}#></table>

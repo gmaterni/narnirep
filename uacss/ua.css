@@ -1,0 +1,482 @@
+body,div,span,table,td,label,p,a,input,ul,li,button {
+    font-family: 'helvetica', tahoma, verdana, sans-serif;
+    font-size: 10pt;
+    padding: 0px;
+    margin: 0px;
+    margin: 0px;
+    border: 0px;
+    border-style: solid;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+body {
+    background: #FFFFFF;
+    color: #696969;
+    border-color: #696969;
+}
+
+#layout div,span,table,td,form,label,p,a,input,ul,li,button {
+    background: inherit;
+    border-color: inherit;
+    color: inherit;
+}
+/*PAGE*/
+#layout {
+    text-align: center;
+}
+
+#div_list {
+    text-align: center;
+}
+
+#div_form {
+    text-align: center;
+}
+
+table.layout {
+    width: 98%;
+}
+
+td.label {
+    font-size: 1.1em;
+    font-weight: bold;
+    padding: 5px 0px 5px 10px;
+}
+/* TOP */
+td.topl {
+    border-width: 1px;
+    border-bottom: hidden;
+    border-right: hidden;
+}
+
+td.top {
+    border-width: 1px;
+    border-bottom: hidden;
+}
+/* MIDDLE */
+td.middlec {
+    width: 95%;
+    height: 600px;
+    vertical-align: top;
+    border-width: 1px;
+}
+/* BOTTOM */
+td.bottom {
+    border-width: 1px;
+    border-top: hidden;
+    text-align: center;
+}
+/*MENU HORIZONTAL*/
+table.menuh {
+    width: 100%;
+    margin-left: 5%;
+}
+
+td.msg {
+    width: 20%;
+}
+
+td.menuh {
+    width: auto;
+}
+
+#msg {
+    color: #696969;
+    font-size: 1.0em;
+    font-weight: bold;
+    white-space: nowrap;
+}
+
+/* FORM */
+form.frm {
+    margin-top: 2px;
+    width: auto;
+    height: auto;
+}
+
+form.frm table {
+    padding: 2px;
+    width: auto;
+}
+
+form.frm td {
+    border-color: #d3d3d3;
+    background: #F5F5F5;
+    border-width: 1px;
+    padding: 3px 0px 2px 0px;
+    text-align: left;
+}
+
+form.frm label {
+    border-color: #F5F5F5;
+    color: #696969;
+    font-size: 1.0em !important;
+    border-width: 1px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+form.frm label.val {
+    color: #6495ED;
+    padding: 0px 0px 0px 5px;
+}
+
+form.frm input {
+    border-color: #d3d3d3;
+    color: #696969;
+    background: #ffffff;
+    border-width: 1px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+form.frm input:hover {
+    border-color: #ff4500;
+}
+
+form.frm input:focus {
+    color: #000000;
+    border-color: #ff4500;
+}
+
+form.frm input:active {
+    background: #696969;
+    color: #FFFFFF;
+}
+
+form.frm button.lookup {
+    border-color: #ffffff;
+    background: #ff4500;
+    color: #ffffff;
+    border-width: 1px;
+    font-weight: bold;
+}
+
+form.frm button.lookup:hover {
+    border-color: #ff4500;
+}
+
+form.frm textarea {
+    border-color: #d3d3d3;
+    border-width: 1px;
+}
+
+form.frm a {
+    border-color: #f0f0f0;
+    color: #696969;
+    font-size: 1.0em !important;
+    border-width: 1px;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    white-space: nowrap;
+}
+
+form.frm a:hover {
+    background: #ffffff;
+    color: #0000ff;
+    text-decoration: underline;
+}
+
+form.frm a:focus {
+    background: #f0f0f0;
+    color: #ff4500;
+}
+
+/* LIST */
+table.list {
+    table-layout: inherit;
+    border-spacing: 3px;
+}
+
+table.list th {
+    background: #6495ed;
+    color: #ffffff;
+    border-width: 1px 1px 1px 0px;
+    border-style: solid;
+    border-color: #ffffff;
+    padding: 4px 2px 4px 2px;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+table.list td {
+    cursor: pointer;
+    border-color: #aaaaaa;
+    background: #fafafa ! important;
+    border-width: 1px 1px 1px 0px;
+    padding: 4px 2px 4px 2px;
+    text-align: left;
+    font-size: 1.0em;
+    font-weight: normal;
+}
+
+table.list tr.row0 td {
+    background: #f0f0f0 ! important;
+}
+
+table.list tr.row1 td {
+    background: #e0e0e0 ! important;
+}
+
+table.list tr:hover td {
+    background: #ffffff !important;
+    color: #1177d9;
+    text-decoration: underline;
+}
+
+table.list tr:hover td.head {
+    background: #6495ed !important;
+    color: #ffffff;
+    text-decoration: none;
+}
+/*PAGINATION*/
+/*
+#div_list div.pagination {
+    font-style: normal;
+    font-weight: bold;
+    margin: 5px 0px 0px 10px;
+    width: 80%;
+}
+
+#div_list div.pagination b {
+    background: #ff4500;
+    color: #FFFFFF;
+    padding: 2px;
+    margin: 0px 2px 0px 2px
+}
+
+#div_list div.pagination label {
+    background: #d3d3d3;
+    color: #ff4500;
+    text-decoration: none;
+    padding: 2px;
+    margin: 0px 2px 0px 2px
+}
+
+#div_list div.pagination label:hover {
+    text-decoration: underline;
+    background: #666666;
+    color: #ffffff;
+}
+
+#xdiv_list div.pagination label:hover {
+    color: #00b060;
+    text-decoration: underline;
+}
+
+#div_list div.pagination label:focus {
+    color: #FF0000;
+}
+*/
+/* MISC*/
+/*
+#title {
+    text-align: center;
+}
+
+#title label {
+    font-style: normal;
+    font-weight: bold;
+}
+
+label.firma {
+    font-size: 0.85em;
+    font-style: normal;
+    font-weight: lighter;
+}
+
+div.popup {
+    border-color: #ff4500 ! important;
+    background: #ffffff !important;
+    border-width: 2px;
+    padding: 2px;
+}
+
+div.popup form {
+    background: inherit;
+}
+
+div.popup td {
+    background: inherit;
+}
+
+div.topbar {
+    background: #6495ed !important;
+    text-align: right;
+}
+
+div.topbar button {
+    border-color: #ff4500;
+    color: #ffffff;
+    background: #ff4500;
+    border-width: 1px;
+    font-weight: bold;
+    font-size: 1.0em;
+}
+
+div.topbar button:hover {
+    border-color: #ffffff;
+}
+
+#dialog {
+    display: none;
+}
+*/
+
+/*CUSTOM*/
+/*
+#menu0 ul {
+    border-width: 0px 2px 2px 2px;
+    border-color: #1e90ff;
+    border-style: solid;
+    padding: 0px;
+    margin-left: 20px;
+    width: 70%;
+}
+
+#menu0 li {
+    border-width: 2px 0px 0px 0px;
+    border-color: #1E90FF;
+    border-style: solid;
+    padding: 10px 0px 10px 0px;
+    width: 100%;
+    margin: 2px 0px 2px 0px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+#menu0 li.label {
+    color: #1E90FF;
+    font-size: 1.1em;
+    font-weight: bold;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+}
+
+#menu0 a {
+    text-decoration: none;
+    padding: 0px;
+    margin-left: 20px;
+}
+
+#menu0 a:hover {
+    background: #F5F5F5;
+    color: #0000aB;
+    text-decoration: underline;
+}
+
+#menu0 a:focus {
+    background: #F5F5F5;
+    color: #FF0000;
+}
+*/
+/*GRID */
+/*
+table.grid {
+    table-layout: inherit;
+    border-collapse: collapse;
+    border-spacing: 1px;
+    border: none;
+    padding: 0px;
+    background: #FFFFFF;
+}
+
+table.grid td {
+    border-color: #aaaaaa;
+    background: #fafafa ! important;
+    border-width: 1px 1px 1px 0px;
+    padding: 2px 2px 2px 2px;
+    text-align: left;
+    font-size: 1.0em;
+    font-weight: normal;
+}
+
+table.grid td.head {
+    background: #6495ed !important;
+    color: #ffffff;
+    border-color: #ffffff;
+    border-width: 2px 2px 2px 0px;
+    padding: 4px 2px 4px 2px;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+table.grid tr:hover td.head {
+    background: #6495ed !important;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+table.grid tr.row0 td {
+    background: #f0f0f0 ! important;
+}
+
+table.grid tr.row1 td {
+    background: #e0e0e0 ! important;
+}
+
+table.grid input {
+    border-width: 1px;
+    border-style: solid;
+    font-style: normal;
+    font-weight: normal;
+    color: #000000;
+}
+
+table.grid tr.row0 input {
+    background: #f0f0f0 ! important;
+    border-color: #f0f0f0;
+}
+
+table.grid tr.row1 input {
+    background: #e0e0e0 ! important;
+    border-color: #e0e0e0;
+}
+
+table.grid tr:hover td {
+    background: #fbfbfb !important;
+}
+
+table.grid tr:hover input {
+    background: #fbfbfb !important;
+}
+
+table.grid tr:hover input:hover {
+    background: #FFFFFF;
+    color: #0000CD;
+    border-color: #FF5500;
+}
+
+table.grid tr input:focus {
+    background: #ffffff !important;
+    border-color: #FF5500 !important;
+}
+
+table.grid tr input.cmd {
+    font-weight: bold;
+    font-size: 1.1em;
+    color: #ff4500;
+    background: #ffffff;
+    border: none;
+}
+
+table.grid tr input.cmd:hover {
+    background: #ff4500 !important;
+    color: #ffffff;
+}
+
+.del {
+    background: #ff5000 !important;
+    font-size: 1.1em;
+    font-weight: bold;
+    font-style: oblique;
+    border: 1px solid #00ff00;
+}
+
+
+*/

@@ -1,0 +1,28 @@
+﻿
+IN RIFORME
+
+Pontificato
+Copiare la lista dei pontefici
+
+Cernita
+Cernita
+Generale
+Numero 18
+Numero 60
+
+
+IN PROPOSTE
+
+LABEL DA METTERE SEMPRE IN PROPOSTE SU
+
+LUOGO
+Per ricavare informazioni sui toponimi utilizzare successivamente tutti e tre i Report. La ricerca dei toponimi si può effettuare anche tramite il campo libero della “Descrizione”.
+
+TOPONIMO
+Toponimo nella forma moderna dei centri urbani (civitas e castrum/castello)
+
+DENOMINAZIONE
+Nome delle singole componenti urbane e rurali. Per disambiguare le ricerche si può combinare la “Denominazione”
+con la “Tipologia”. Es. Strada Romana: “Denominazione” Romana, “Tipologia” Strada;
+Porta Romana: “Denominazione” Romana, “Tipologia” Porta.
+In alternativa porre Strade o Porte nel campo “Argomento” e %roman% nel campo “Descrizione”.

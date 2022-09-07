@@ -1,0 +1,49 @@
+
+body,div,span,table,td,label,p,a,input,ul,li,button {
+ font-size: 1.0em ;
+}
+
+div.help {
+  margin: 5px;
+  padding:5px;
+  border:2px solid #ff4500;
+  background:#ffffff;
+  color:#333333;
+  font-size: 1.0em;
+  font-weight:normal;
+  width: 700px;
+  height: 700px;
+  overflow-y: scroll;
+ }
+
+div.help  h4{
+   text-align: center;
+   margin: 0px 0px 0px 0px;
+   padding: 0px;
+ }
+
+div.help  p{
+   text-align: justify;
+   margin: 0px 0px 5px 0px;
+ }
+
+.txt_c{
+    text-align: center;
+}
+
+.txt_l{
+    text-align: left;
+ }
+
+.txt_r{
+    text-align: right;
+ }
+
+.txt_j{
+   text-align: justify; 
+ }
+
+
+span.i{
+    font-style: italic;    
+}

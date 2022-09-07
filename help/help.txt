@@ -1,0 +1,186 @@
+﻿
+
+IN RIFORME
+
+Pontificato
+Copiare la lista dei pontefici
+
+Report1
+La risposta data da Report1 metterà in evidenza, per ciascuna seduta legata al criterio di ricerca prescelto, la Tipologia di
+Consiglio e il nome dei Consiglieri.
+
+Report2
+La risposta data da Report1 metterà in evidenza, per ciascuna seduta legata al criterio di ricerca prescelto:
+1) la presenza eventuale di Deputati e l’argomento della loro Deputatio;
+2) tutti gli altri Assistenti a vario titolo alla seduta, con specifica della loro Carica.
+
+
+Cernita
+Cernita
+Generale
+Numero 18
+Numero 60
+
+
+IN PROPOSTE
+
+Report1
+La risposta alla ricerca data da Report1 fornisce le informazioni ottenibili tramite i filtri presenti nella sezione “Generale”.
+
+Report2
+La risposta alla ricerca data da Report2 fornisce le informazioni ottenibili tramite i filtri presenti nella sezione “Parte” e “Teste”.
+Utilizzando per la medesima ricerca Report1, si avranno per ciascun record le informazioni generali in forma completa.
+
+Report3
+La risposta alla ricerca data da Report3 fornisce le informazioni ottenibili tramite i filtri presenti nella sezione “Deputato”.
+
+LABEL DA METTERE SEMPRE IN PROPOSTE SU
+
+LUOGO
+Per ricavare informazioni sui toponimi utilizzare successivamente tutti e tre i Report. La ricerca dei toponimi si può effettuare anche tramite il campo libero della “Descrizione”.
+
+TOPONIMO
+Toponimo nella forma moderna dei centri urbani (civitas e castrum/castello)
+
+DENOMINAZIONE
+Nome delle singole componenti urbane e rurali. Per disambiguare le ricerche si può combinare la “Denominazione” con la “Tipologia”. Es. Strada Romana: “Denominazione” Romana, “Tipologia” Strada; Porta Romana: “Denominazione” Romana, “Tipologia” Porta. In alternativa porre Strade o Porte nel campo “Argomento” e %roman% nel campo “Descrizione”.
+
+PROFESSIONE
+Architetto
+Aromatario
+Barbiere
+Bastaro
+Broccaro
+Calzolaio
+Carpentiere
+Chirurgo
+Ciabattino
+Conciatore
+Cuoco
+Fabbro
+Falegname
+Funaro
+Macellaio
+Mastro di strada
+Mattonario
+Medico
+Merciaio
+Molinaro
+Mulattiere
+Muratore
+Notaio
+Olitor
+Orefice
+Orologiaio
+Ortolano
+Oste
+Pastore
+Pittore
+Pizzicarolo
+Maestro
+Ripetitore
+Scalpellino
+Sarto
+Tintore
+
+QUALIFICA CULTURALE
+Artium et medicine doctor/Phisicus
+Legum doctor
+Iuris utriusque doctor
+Doctor artis gramatice poiesis
+
+TIPOLOGIA LUOGO
+
+Castello
+Centro urbano minore
+Civitas
+Chiesa
+Bottega
+Casa
+Fontana
+Palazzo
+Piazza
+Porta
+Ponte
+Torre
+Strada
+Porto
+Bandita
+Fosso/Canale
+Convento/Monastero/Abbazia
+Masseria
+Villa
+Mulino
+Colle/Poggio/Monte
+Località
+Passo
+Regione
+Valle
+
+TOPONIMI
+Acuzzo
+Amelia Arezzo
+Assisi
+Bevagna
+Bologna
+Bolsenaa
+Bomarzo
+Brescia
+Calvi
+Camerino
+Canepina
+Capitone
+Cascia
+Castiglion Fiorentino
+Cesi
+Cittaducale
+Civita Castellana
+Fabriano
+Fano
+Fermo
+Firenze
+Foligno
+Forlì
+Fossombrone
+Gallese
+Gubbio
+Iesi
+Imola
+Ischia di Castro
+Itieli
+L’Aquila
+Leonessa
+Loreto
+Magliano
+Mantova
+Montebuono
+Montecchio
+Montefiascone
+Mugnano
+Napoli
+Narni
+Norcia
+Oriolo
+Orte
+Orvieto
+Perugia
+Rieti
+Rimini
+Roma
+Ronciglione
+San Vibano
+San Gemini
+Sassoferrato
+Siena
+Spello
+Spoleto
+Stifone
+Stroncone
+Sutri
+Tarquinia
+Todi
+Tolentino
+Tuscania
+Urbino
+Vallerano
+Viterbo

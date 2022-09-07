@@ -1,0 +1,100 @@
+
+<form id="form1" class="frm">
+  <table class="frm">
+
+ <tr>
+      <td ><label class='lbl'></label></td>
+       <td> <label>Dal:</label> </td>
+       <td> <input type="text" name="dal" id="dal" value="" size="10" maxlength="10" />  (aaaa-mm-gg)</td>
+       <td> <label>Al:</label> </td>
+       <td> <input type="text" name="al" id="al" value="" size="10" maxlength="20" /> (aaaa-mm-gg) </td>
+    </tr>
+
+  <tr>
+       <td></td>
+      <td><a href="javascript:lk({dataUrl:'lk/volume.txt',lkId:'volume',titolo:'Volume',w:'150px',h:'auto',x:150,y:20});">Volume: ?</a></td>
+      <td> <input type="text" name="volume" id="volume" value="" size="10" maxlength="10" /> </td>
+
+       <td> <label>Pagina:</label> </td>
+       <td> <input type="text" name="pagina" id="pagina" value="" size="10" maxlength="20" /> </td>
+    </tr>
+     <tr>
+       <td></td>
+      <td><a href="javascript:choice({options:'it|lat',lkId:'it_lt',w:'50px',x:200,y:20});">It/Lat.: ?</a></td>
+      <td> <input type="text" name="it_lt" id="it_lt" value="" size="4" maxlength="10" /> </td>
+      <td><a href="javascript:lk({dataUrl:'lk/redazione.txt',lkId:'redazione',titolo:'Redazione',w:'200px',h:'auto'});">Redazione: ?</a></td>
+      <td> <input type="text" name="redazione" id="redazione" value="" size="30" maxlength="60" /> </td>
+    </tr>
+    <tr>
+       <td></td>
+      <td><a href="javascript:lk({dataUrl:'lk/tipoprop.txt',lkId:'tipoprop',titolo:'Tipo Proposta',w:'300px',h:'500px'});">Tipo Proposta: ?</a></td>
+       <td> <input type="text" name="tipoprop" id="tipoprop" value="" size="30" maxlength="60" /> </td>
+      <td><a href="javascript:lk({dataUrl:'lk/argomento.txt',lkId:'argomento',titolo:'Argomento',w:'300px',h:'500px',y:20,x:50});">Argomento: ?</a></td>
+      <td> <input type="text" name="argomento" id="argomento" value="" size="30" maxlength="60" /> </td>
+    </tr>
+    <tr>
+       <td></td>
+      <td><a href="javascript:lk({dataUrl:'lk/areainteresse.txt',lkId:'areainteresse',titolo:'Area Interesse',w:'300px',h:'400px'});">Area Interesse: ?</a></td>
+       <td> <input type="text" name="areainteresse" id="areainteresse" value="" size="40" maxlength="60" /> </td>
+      <td> <label>Descrizione:</label></td> <td> <input type="text" name="descrizione" id="descrizione" value="" size="40" maxlength="100" /> </td>
+    </tr>
+
+   <tr>
+       <td><label class='lbl'>Deputato</label></td>
+      <td> <label>Nome:</label> </td> <td> <input type="text" name="deput_nome" id="deput_nome" value="" size="30" maxlength="30" /> </td>
+      <td> <label>Cognome:</label> </td> <td> <input type="text" name="deput_cognome" id="deput_cognome" value="" size="30" maxlength="30" /> </td>
+    </tr>
+    <tr>
+       <td></td>
+      <td> <label>Patronimico:</label> </td> <td> <input type="text" name="deput_patr_nome" id="deput_patr_nome" value="" size="30" maxlength="30" /> </td>
+      <td><a href="javascript:lk({dataUrl:'lk/deput_carica.txt',lkId:'deput_carica',titolo:'Carica',w:'300px',h:'500px',y:20,x:50});">Carica: ?</a></td>
+       <td> <input type="text" name="deput_carica" id="deput_carica" value="" size="30" maxlength="30" /> </td>
+    </tr>
+<!--- XXXX
+    <tr>
+      <td ><label class='lbl'>Teste</label></td>
+      <td> <label>Nome:</label> </td> <td> <input type="text" name="teste_nome" id="teste_nome" value="" size="30" maxlength="30" /> </td>
+      <td> <label>Cognome:</label> </td> <td> <input type="text" name="teste_cognome" id="teste_cognome" value="" size="30" maxlength="30" /> </td>
+    </tr>
+-->
+    <tr>
+       <td></td>
+      <td> <label>Patronimico:</label> </td> <td> <input type="text" name="teste_patr_nome" id="teste_patr_nome" value="" size="30" maxlength="30" /> </td>
+      <td></td><td></td>
+    </tr>
+    <tr>
+      <td ><label class='lbl'>Parte</label></td>
+      <td> <label>Nome:</label> </td> <td> <input type="text" name="parte_nome" id="parte_nome" value="" size="30" maxlength="30" /> </td>
+      <td> <label>Cognome:</label> </td> <td> <input type="text" name="parte_cognome" id="parte_cognome" value="" size="30" maxlength="30" /> </td>
+    </tr>
+    <tr>
+       <td></td>
+      <td> <label>Patronimico:</label> </td> <td> <input type="text" name="parte_patr_nome" id="parte_patr_nome" value="" size="30" maxlength="30" /> </td>
+      <td><a href="javascript:lk({dataUrl:'lk/parte_prof.txt',lkId:'parte_prof',titolo:'Professione'});">Professione: ?</a></td>
+      <td> <input type="text" name="parte_prof" id="parte_prof" value="" size="30" maxlength="30" /> </td>
+    </tr>
+    <tr>
+       <td></td>
+      <td><a href="javascript:lk({dataUrl:'lk/parte_qualifcult.txt',lkId:'parte_qualifcult',titolo:'Qualif.Culturale',w:'300px',h:'100px'});">Qualif.Culturale: ?</a></td>
+      <td> <input type="text" name="parte_qualifcult" id="parte_qualifcult" value="" size="30" maxlength="30" /> </td>
+      <td><a href="javascript:lk({dataUrl:'lk/parte_carica.txt',lkId:'parte_carica',titolo:'Carica',w:'300px',h:'400px',x:50,y:20});">Carica: ?</a></td>
+     <td> <input type="text" name="parte_carica" id="parte_carica" value="" size="30" maxlength="30" /> </td>
+    </tr>
+
+   <tr>
+      <td ><label class='lbl'>luogo</label></td>
+      <td><a href="javascript:lk({dataUrl:'lk/toponimo.txt',lkId:'toponimo',titolo:'Toponimo',w:'300px',h:'400px'});">Toponimo: ?</a></td>
+      <td> <input type="text" name="toponimo" id="toponimo" value="" size="30" maxlength="30" /> </td>
+      <td><a href="javascript:lk({dataUrl:'lk/denominazluogo.txt',lkId:'denominazluogo',titolo:'Denominazione',w:'300px',h:'400px',x:50,y:0});">Denominaz: ?</a></td>
+      <td> <input type="text" name="denominazluogo" id="denominazluogo" value="" size="30" maxlength="30" /> </td>
+    </tr>
+   <tr>
+       <td></td>
+       <td><a href="javascript:lk({dataUrl:'lk/tipoluogo.txt',lkId:'tipoluogo',titolo:'Tipologia'});">Tipologia: ?</a></td>
+      <td><input type="text" name="tipoluogo" id="tipoluogo" value="" size="30" maxlength="30" /> </td>
+      <td></td><td></td>
+    </tr>
+
+
+  </table>
+</form>

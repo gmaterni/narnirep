@@ -1,0 +1,31 @@
+<%
+    var fn= function (i) {
+        var r=rows[i];
+        $("#toponimo").val(r['toponimo']);
+        UaEjsWndAdm.close(id);
+      };
+      UaEjsWndAdm.setAction(id,fn);
+%>
+
+<div class='lktop' align='right'>
+  <button  type='button' class='close' onclick="UaEjsWndAdm.close('<%=id%>');">X</button>
+</div>
+<div class='lk' >
+<table class='lk' >
+ <thead>
+  <tr> <th><%=dataExt.titolo%></td> </tr>
+  </thead>
+  <tbody>
+<%
+for(var i=0; i<rows.length; i++){
+  var n=(i %2);
+  var r=rows[i];
+ %>
+ <tr class="row<%=n%>" onclick="UaEjsWndAdm.action('<%=id%>',<%=i%>);">
+      <td><%=r.toponimo%></td>
+   </tr>
+ <%}%>
+ </tbody>
+</table>
+</div>
+

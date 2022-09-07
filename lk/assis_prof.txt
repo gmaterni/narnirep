@@ -1,0 +1,10 @@
+Avvocato
+Barilaro
+Bufalaro
+Calderario
+Conciatore
+Fabbro
+Macellaio
+Maestro
+Muratore
+Notaio

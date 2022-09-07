@@ -1,0 +1,2881 @@
+persona_id|nome|cognome|detto|patr_nome|patr_cognome|patr_detto|orig_urb_rur|orig_toponimo|orig_denominazione|res_urb_rur|res_toponimo|res_denominazione|qualifsoc|prof_descr|ordine|note
+1|Ottavio|||Napoleone|||urbano||Tarano|||||Notaio||
+2|Palianoro|||||||||||||||
+3|Nicolò|||||||||||||||
+4|Clemente|||Nicolò||||||||||||
+5|Paolo|Cardono|||||||||||Magister|||
+6|Ausonio|Scotto|||||||||||Dominus|||
+7|Domenico|Cardulo|||||||||||Magister|||
+8|Pamfilo|Cherubino|||||||||||Magister|||
+9|Pier Nicolò|||||||||||||||
+10|Andrea|||Pier Nicolò||||||||||||
+11|Pier Battista|Arca|||||||||||Ser|||
+12|Erasmo|Cardulo|||||||||||Magister|||
+13|Pietrangelo|||Simone||||||||||||
+14|Francesco|||Pietrangelo||||||||||||
+15|Gabriele|Schibonio||||||||||||||
+17|Giovanni Bernardino|Mautino|||||||||||Magister|||
+18|Pompilio |||||||||||||Bastaro||
+19|Massimiano|||Serafino||||||||||||
+20|Domenico|Polinori||||||||||||||
+21|Iacopo|||Costantino||||||||||||
+22|Angelo|||Giovenale||||||||||||
+23|Taddeo|||Andrea||||||||||||
+24|Achille|Racano||Celestino|Racano||||||||Dominus|||
+25|Muzio|Arca|||||||||||Dominus|||
+26|Domiziano|Caldarino||||||||||||||
+27|Sebastiano|||||||||||||||
+28|Corduano|||Sebastiano||||||||||||
+31|Giovanni Giacomo|Alberto|||||||||||Magister|||
+34|Tommaso|Risio|||||||||||Dominus|||
+35|Serafino|||||||||||||||
+36|Giovanni|Brunello||||||||||||||
+37|Baldo|Arca||Giustino|Arca||||||||Capitaneus|||
+38|Francesco|Erolo|||||||||||Dominus|||
+39|Geremia|||||||||||||||
+40|Galieno|Geremia||||||||||||||
+41|Costantino|||||||||||||||
+42|Matteo|||Costantino||||||||||Conciatore||
+43|Quintiliano|Cardulo|||||||||||Dominus|||
+44|Giovanni Paolo|Polidoro||||||||||||||
+45|Andrea|Melino|||||||||||Dominus|||
+46|Giovanni Antonio|Biagiucccio|||||urbano|Assisi|Asisi||||Magister|Medico||
+47|Fulvio|Partenio|||||urbano|Norcia|Norscia||||Magister|Medico||
+48|Antonio|Righio|||||urbano|Sassoferrato|Sassoferrato||||Magister|Medico||
+49|Favorino|degli Aromatari|||||urbano|Assisi|Asisi||||Magister|Medico||
+50|Properzio|Antico|||||urbano|Bevagna|Bevagna||||Magister|Medico||
+51|Pietro|Pollastri|||||urbano|Spoleto|Spoleti||||Magister|Medico||
+52|Camillo|Muzio|||||urbano|Camerino|Camerino||||Magister|Medico||
+53|Pamfilo||||||urbano|Rieti|Rieti||||Magister|Medico||
+54|Papirio|Becoli|||||urbano|Gubbio|Agubio||||Magister|Medico||
+55|Claudio|degli Atti|||||urbano|Todi|Todi||||Magister|Medico||
+56|Stefano|Pontano|||||urbano|Spoleto|Spoleti||||Magister|Medico||
+58|Andrea|Antonelli|||||urbano|Rieti|Rieti||||Magister|Medico||
+63|Giuliano|Pizzuto||||||||||||||
+65|Nerva|Cardulo||Petronio|Cardulo||||||||Dominus|||
+66|Gregorio|Lambardo|||||||||||Dominus|||
+67|Mario|Geremia|||||||||||Magister|||
+68|Febo|Arca||||||||||||||
+69|Baldassarre|degli Alessandri|||||||||||Dominus|||
+70|Cesare|Vipera|||||||||||Dominus|||
+71|Gabriele|Lollio||||||||||||||
+72|Giuliano|||Demostene||||||||||||
+73|Giovenale|Blandolisio||||||||||||||
+74|Emilio|Rubeo||||||||||||||
+75|Andrea|Saviola|||||||||||Dominus|||
+76|Focione|Cardulo|||||||||||Dominus|||
+77|Melchiorre|Lucarino||||||||||||||
+78|Giubileo|||||||||||||||
+79|Giubileo|Giubilei||||||||||||||
+80|Silvio|Massario|||||||||||Dominus|||
+81|Regolo|Boncambio|||||||||||Dominus|||
+82|Spinello|||||||||||||||
+83|Spinello|Spinelli||||||||||||||
+84|Ostilio|Contestabile|||||||||||Dominus|||
+86|Pietro Paolo|degli Alessandri||||||||||||||
+87|Agostino|Racano||||||||||||||
+88|Antonio|de Bene||||||||||||||
+89|Tommaso|Fiaschetta||||||||||||||
+90|Francesco|Andreozzino|||||||||||Dominus|||
+91|Stefano|Balisino|||||||||||Magister|||
+93|Giovanni Muzio|Vipera|||||||||||Dominus|||
+95|Tiburzio|Calderino||||||||||||||
+97|Angelo Antonio|Mancinello||||||||||||||
+98|Simone Pietro||||||||||||Magister|Medico||
+99|Francesco|Vannozio||||||||||||||
+105|Marco|Durante|||||urbano||Meccania||||Capitaneus|||
+106|Cesare|Cataluzio|||||||||||Dominus|||
+108|Pier Marco|||||||||||||||
+109|Mercurio|||Pier Marco|||urbano||Thiulore|||||||
+110|Orazio|Scotto|||||||||||Capitaneus|||
+111|Angelo Antonio||||||urbano|Orte|Horte|||||||
+112|Alberto||||||urbano|Orte|Horte|||||||
+113|Alano|||Alberto|||urbano|Orte|Horte|||||||
+114|Pruinino||||||urbano|Assisi|Asisi|||||||
+115|Ottaviano|Spinelli|||||||||||Magister|||
+117|Gabriele|Spadaro||Domiziano||||||||||||
+118|Francesco|Germanello|||||||||||Magister|||
+121|Concezio|Lollio|||||||||||Ser|||
+122|Giovanni Domenico||||||||||||Magister|Muratore||
+127|Monaldo|||||||||||||||
+128|Ottavio|Bevilacqua||||||||||||||
+129|Cassio|Boccapianella||||||||||||||
+130|Loreto|||||||||||||||
+131|Ippolito|||Loreto||||||||||||
+132|Pietro Paolo|||||||||||||||
+133|Giovanni Battista|||Pietro Paolo||||||||||||
+134|Alessandro||||||urbano|Siena|Siena||||Magister|||
+135|Saul|Spera||||||||||||||
+136|Gioacchino|Marzio||||||||||||||
+137|Michele|Capocaccia|||||||||||Dominus|||
+138|Martino|||||||||||||||
+139|Giubileo|||Martino||||||||||||
+141|Ludovico|Cardulo||Circunziano|Cardulo||||||||Dominus|||
+142|Tullio|Scotto|||||||||||Dominus|||
+144|Gabriele|Schiba||||||||||||||
+145|Giovannuccio|||||||||||||||Fratello di Orazio
+147|Ottaviano|Rodolfino|||||||||||Ser|Notaio||
+148|Cristofano||||||rurale|Perugia|S. Nicola|||||||
+153|Romolo|Risio|||||||||||Ser|||
+154|Pietro|Boccapianella||||||||||||||
+156|Annibale|Risio|||||||||||Dominus|||
+157|Pietro|Rubeo||||||||||||||
+158|Giovanni Battista|Rubeo||Pietro|Rubeo|||||||||||
+159|Paolo|Santellino|||||||||||Dominus|||
+160|Giovanni Antonio|Cardulo|||||||||||Dominus|||
+161|Nefrino|Badisino|||||||||||Dominus|||
+162|Giuseppe|Erolo||||||||||||||
+163|Giacomo|Taloni|||||urbano|Terni|Terni|||||||
+166|Ippolito||||||rurale||Florentillorum||||Ser|||
+168|Cesare||||||||||||Magister|Lavoratore||
+170|Luca Antonio||||||urbano|Acuzzo|Acuzzo|||||||
+171|Facetto||||||urbano|Terni|Terni|||||||
+172|Aloisio||||||||||||Magister|Fabbro||
+173|Nicola||||||rurale||Florentillorum|||||||
+175|Pier Agostino|||||||||||||||
+176|Domenico|||||||||||||||
+177|Adriano|Fior de Ponti|||||urbano|Bevagna|Bevagna|||||||
+179|Vincenzo|||||||||||||||
+180|Carlo|||Vincenzo||||||||||Oste||
+181|Mario|Rodolfino||||||||||||||
+182|Reale|Fusoritto|||||||||||Dominus|||
+183|Giovanni Battista|||Caro||||||||||Lavoratore||
+184|Micoccio |Lollio||||||||||||||
+185|Cassio|Bianchello||||||||||||||
+186|Claudio|Marinata|||||||||||Magister|||
+187|Emilio|Masseo|||||||||||Dominus|||
+188|Sebastiano|||||||||||||Ciabattino||
+189|Attilio|||||||||||||Broccaro||
+191|Leonardo||||||urbano|Amelia|Amelia|||||||
+194|Clemente|Arca|||||||||||Dominus|||
+195|Adriano|Grasso||||||||||||||
+196|Luca|Mavucio|||||urbano||Meccania||||Capitaneus|||
+199|Silvestro|Iovenelli||||||||||||||
+200|Giorgio||||||urbano|Montebuono|Montebono||||Capitaneus|||
+201|Bisavo|||||||||||||Conciatore||
+202|Romolo|Cesi|||||||||||Dominus|||
+203|Giustiniano|Cardulo|||||||||||Dominus|||
+204|Ignazio|Masseo|||||||||||Dominus|||
+205|Valerio|Rinchiusello|||||urbano|Montebuono|Montebono in Sabinis||||Dominus|||
+206|Giovanni|||||||||||||||
+207|Sebastiano|||Giovanni||||||||||||
+208|Giuliano|||||||||||||||
+209|Attilio|Mancini||Giuliano|Mancini|||||||||||
+210|Simoncino|||||||||||||||
+211|Pellegrino|Simoncino||||||||||||||
+212|Marsilio|Vinari|||||urbano|Mantova|Mantua|||||||
+213|Venanzio|Cesareo|||||urbano|Matelica|Mathelica|||||||
+224|Pietro Fabio||||||||||||Dominus|||
+225|Adriano|Moderno||||||||||||||
+226|Claudio||||||||||||Magister|||
+227|Pietro Fabio||||||urbano|Capitone|Capitone||||Magister|||
+228|Giovanni Battista|Chiariello||||||||||||||
+230|Cesarina|||||||||||||||
+231|Andrea|||Cesarina||||||||||||
+232|Mario|Caldarino||||||||||||||
+233|Fulvio|Mangonio|||||||||||Dominus|||
+234|Carlo|Chiariello||||||||||||||
+235|Salvatore|Mautino||||||||||||||
+236|Giordano|Lambardo|||||||||||Dominus|||
+237|Pietro|Petreio|||||||||||Magister|||
+238|Latino|||||||||||||||
+239|Domenico|||||||||||||Fabbro||
+240|Restauro|||||||||||||||
+242|Florio|||Andrea||||||||||||
+243|Tranquillo|Narsini|||||||||||Ser|||
+244|Giovanni Battista|Andreozzino|||||||||||Dominus|||
+245|Egidio|Scotto||||||||||||||
+246|Giovanni Agostino|||||||||||||Sarto||
+247|Pietro|||Massuccio||||||||||||
+248|Giovanni Paolo|Polatti||||||||||||||
+249|Iacopo|Piloro||||||||||||||
+250|Riccardo|Racano||||||||||||||
+251|Giovanni|Sanali|||||||||||Ser|||
+252|Giovanni Bernardino|Giubilei|||||||||||Dominus|||
+253|Ursino|Rodolfino||||||||||||||
+254|Benedetto|Verri||Matteo|Verri|||||||||||
+255|Francesco|Rodolfino|||||||||||Dominus|||
+257|Giovanni Nicolò|Arca||||||||||||||
+258|Angelo|Caldarino||||||||||||||
+259|Diomede|Mechello||||||||||||||
+261|Giuseppe|Carnevale||||||||||||||
+262|Paolo|del Bufalo||||||||||||Mastro di strada||
+263|Properzio|Mautino|||||||||||Dominus|||
+264|Ascanio|Cardulo|||||||||||Magister|||
+266|Francesco|||||||||||||||
+267|Pavonischio|||Francesco||||||||||||
+268|Latino|Gallo||||||||||||||
+269|Bonifacio|Marzio||||||||||||||
+270|Marcello||||||urbano|Capitone|Capitone||||Dominus|||
+271|Enea|Erolo||||||||||||||
+272|Giacomo|Spinelli||||||||||||||
+273|Giovanni Francesco|Germanello||||||||||||||
+274|Damiano|||||||||||||||
+275|Giovanni Agostino|||Damiano||||||||||||
+277|Mercurio|Iliantoni||||||||||||||
+278|Antino|Capesse||||||||||||||
+279|Paolo|||||||||||||||
+280|Gregorio|||Paolo||||||||||||
+281|Monaldo|Vipera||||||||||||||
+282|Virgilio|||Cristofano||||||||||||
+283|Pietro Paolo|||Francesco||||||||||||
+285|Mechello|||||||||||||||
+288|Gabriele|Logio||||||||||||||
+289|Paolo|||Francesco||||||||||||
+291|Giovanni Geronimo|Silvario||||||||||||||
+292|Berto|||||||||||||||
+293|Claudio|Berti||||||||||||||
+294|Cassio|||||||||||||||
+295|Pietro|||Cassio||||||||||||
+296|Bernardo|||||||||||||||
+297|Vincenzo|||Bernardo||||||||||||
+299|Angelo|||Melchiorre||||||||||Falegname||
+300|Massimo|Ciabocchi||||||||||||||
+301|Fabio|Racano||||||||||||||
+302|Giovanni Tommaso|||||||||||||||
+303|Marco|Spera||||||||||||||
+304|Tito||||||||||||Magister|||
+305|Paluzio|||||||||||||||
+306|Matteo|||Paluzio|||urbano||S. Urbano|||||||
+307|Stefano Fabio|||||||||||||||
+308|Federico|Marinata|||||||||||Dominus|||
+309|Carlo|Vittuzio|||||||||||Dominus|||
+312|Livio|||Micoccio||||||||||||
+313|Simone|Rebacaro||||||||||||||
+314|Pietro Paolo|||Francesco|||||||||Magister|Falegname||
+315|Perfetto|||||||||||||||
+316|Pellegrino|Pastacchia||||||||||||||
+317|Eleuterio|Gattara||||||||||||||
+318|Bartolomeo|Ienno||||||||||||||
+319|Giuliano|Lotto||Michelangelo|Lotto|||||||||||
+320|Menicoccio|Lanzi||||||||||||||
+321|Tarquinio|Cardulo|||||||||||Dominus|||
+322|Raffaele|||||||||||||||
+323|Brunoro|||Raffaele||||||||||||
+324|Flaminio|||||||||||||||
+325|Bernardino|||Flaminio||||||||||||
+326|Caterino|Mulio||||||||||||||
+327|Giacomo Filippo|Pastacchia Rapo||||||||||||||
+328|Fulvio|Zanti||||||||||||||
+329|Piero|Vecchiarello||||||||||||||
+330|Angelo|Risello||||||||||||||
+331|Giulio|Cozio|||||||||||Dominus|||
+332|Feliziano|Bartoccio||||||||||||||
+333|Arcangelo|Barrelli||||||||||||||
+334|Santoro|Dolce||||||||||||||
+335|Rosa|||||||||||||||
+336|Fabrizio|||Rosa||||||||||||
+337|Fabiano|||||||||||||||
+338|Vincenzo|||Fabiano||||||||||||
+339|Paolo||||||||||||Magister|Sarto||
+340|Agostino|||Francesco||||||||||||
+341|Domenico|Mautino||||||||||||||
+342|Alessandro||||||||||||Magister|Pittore||
+343|Camillo|Caronesta||||||||||||||
+345|Marco Antonio||||||||||||Magister|Calzolaio||
+346|Iacopo|Marzio||||||||||||||
+347|Bernardino||||||||||||Magister|Calzolaio||
+348|Polo||||||||||||Ser|||
+349|Giovanni Giulio|Polo||||||||||||||
+350|Filippo||||||||||||Magister|Fabbro||
+351|Giovenale|||||||||||||||
+352|Melchiorre|||||||||||||||
+353|Alessio|degli Alessi|||||urbano|Roma|Roma||||Dominus|||
+354|Valerio|||||||||||||||
+355|Agostino|||Valerio||||||||||||
+356|Domenico|Monciatto|||||urbano|Firenze|Florentia|||||||
+357|Provenzio|||||||||||||Mulattiere||
+358|Clemente|Blandolisio||||||||||||||
+359|Crispoldo|Soffio|||||urbano||Meccania||||Dominus|||
+360|Massimiliano|Palorscio||||||||||||||
+361|Anselmo|||||||||||||Olitor||
+362|Angelo|Erolo||Enea|Erolo|||||||||||
+363|Ovidio|Scotto||||||||||||||
+365|Lillo||||||||||||Magister|Fabbro||
+366|Iacopo|Clevari||||||||||||||
+367|Pirro|||||||||||||Olitor||
+368|Andrea|Pielli||||||||||||||
+369|Innocenzo|Chiappino||||||||||||||
+371|Attilio|Morelli||||||||||||||
+372|Pietro|||||||||||||Barbiere||
+373|Giovanni Bernardino|Carnaccia||||||||||||||
+374|Andriello|||||||||||||||
+375|Domenico|||Andriello||||||||||||
+376|Geronimo|||||||||||||Sarto||
+377|Corduano|||||||||||||||
+378|Giuliano|||Corduano||||||||||||
+379|Apollonio|Brisci||||||||||||||
+380|Mario|||||||||||||Sarto||
+381|Pietro|||||||||||||Sarto||
+382|Giovenale|Fusoritto||||||||||||||
+384|Simone|||||||||||||Calzolaio||
+385|Costantino|||||||||||||Calzolaio||
+386|Serrecchia|||||||||||||||
+387|Leone|||Serrecchia||||||||||||
+389|Bartolomeo|||||||||||||||
+390|Agostino|||Bartolomeo||||||||||||
+391|Lorenzo||||||||||||Magister|||
+392|Pier Francesco|||Lorenzo||||||||||||
+393|Properzio|Lambardo|||||||||||Dominus|||
+394|Livio|||Giovanni||||||||||||
+395|Mercurio|||Biagio||||||||||||
+397|Cinzio|Antugnoli||||||||||||||
+398|Angelo|Milano||||||||||||||
+400|Pandolfo|||||||||||||||
+401|Mattia|||||||||||||||
+402|Giovanni|Scacco||Mattia||||||||||||
+404|Lucarino|||||||||||||||
+405|Merchionne|||Lucarino||||||||||||
+406|Gioviniano|Spinelli||||||||||||||
+408|Properzio|||||||||||||Calzolaio||
+409|Annibale|Fraticello||||||||||||||
+410|Anselmo||||||urbano|Mugnano|Mugnano||||Magister|||
+411|Pietro|Sciopera||||||||||||||
+412|Ettore| Chiariello|||||||||||Magister|||
+413|Quinzio|Boncambio|||||||||||Dominus|||
+414|Pietro Paolo|Titiola||||||||||||||
+415|Alessio|||||||||||||||
+416|Giovanni Agostino|||Alessio||||||||||||
+417|Evangelista|Finisdeo||||||||||||||
+418|Battista|Castellano||||||||||||||
+419|Pietro Massimo|||||||||||||||
+420|Domenico||Menicavio|Pietro Massimo|||||||||Magister|||
+421|Biagio|||Giovanni Agostino||||||||||||
+423|Marco Tullio|Iovenelli||||||||||||||
+425|Luciano||||||urbano||Taizano|||||||
+426|Maccario|||||||||||||||
+427|Mercurio|||Maccario||||||||||||
+428|Marzio|||||||||||||||
+430|Donato|||||||||||||||
+431|Bartolomeo |||Donato|||urbano|Castiglion Fiorentino|Castilliono Florentino|||||||
+432|Evangelista|Menecozio||||||||||||||
+433|Antonio|||||||||||||||
+434|Battista |||Antonio||||||||||||
+435|Mercurio|||||||||||||Cuoco||
+436|Antonio|||Mattia||||||||||||
+437|Salvatore|Rodolfino||||||||||||||
+438|Felice|Colainni|||||urbano|Stroncone|Stroncone|||||||
+439|Giovanni Battista|Bagaglia||||||||||||||
+441|Cassio||||||||||||Magister|Sarto||
+442|Andrea|Volpe||||||||||||||
+443|Bonifacio|||||||||||||||
+444|Nunzio|||Bonifacio||||||||||||
+445|Giovanni Antonio|Sanali||||||||||||||
+446|Piero|||||||||||||||
+447|Lattanzio|||Pietro||||||||||Oste||
+448|Aloisio|||||||||||||Molinaro||
+449|Pietro||||||||||||Magister|Scalpellino||
+450|Antonio|Blandolisio|||||||||||Dominus|||
+451|Antino|Staffelli||||||||||||||
+452|Pier Vincenzo|Resta||||||||||||||
+453|Giovanni Geronimo|Piccinino||||||||||||||
+454|Geronimo|||||||||||||||
+455|Ludovico|||Geronimo||||||||||||
+456|Alessandro||||||||||||Magister|Sarto||
+457|Giovanni Maria||||||||||||Magister|Sarto||
+459|Battista |Prospero||||||||||||||
+460|Ostilio|Risio|||||||||||Dominus|||
+461|Giovanni Felice||||||||||||Magister|Falegname||
+463|Nicola||Ciaramacca|||||||||||||
+464|Giovanni|||Antonio||||||||||||
+465|Prudenzio|||||||||||||||
+466|Giulio|||Prudenzio||||||||||||
+467|Anselmo|||||||||||||Fabbro||
+468|Giovanni||Cacco|||||||||||||
+470|Matteo|||||||||||||||
+471|Alessandro|||||||||||||||
+472|Costantino|||Alessandro||||||||||||
+473|Cencio|Paduano|||||urbano|Narni|Narni|urbano|Capitone|Capitone||||
+474|Galeazzo|||Giovanni|||urbano|Gubbio|Agubio|urbano|Capitone|Capitone||||
+475|Livio|||||||||||||||
+476|Benedetto|||Livio|||rurale||Foce|urbano|Amelia|Amelia||||
+477|Nevio|||Giovenale|||urbano|Capitone|Capitone|||||||
+478|Giovanni|||Francesco|||urbano|Capitone|Capitone|||||||
+479|Adriano|||||||||||||||
+480|Vincenzo|||Adriano||||||||||||
+482|Gregorio|Erolo|||||||||||Dominus|||
+483|Andrea||||||urbano|Capitone|Capitone||||Dominus|||
+484|Gordiano|Spera||||||||||||||
+485|Ippolito|Iovenelli||||||||||||||
+486|Anselmo|Benevieni||||||||||||Ortolano||
+487|Marco Tullio|Zuccari||||||||||||||
+488|Papirio|Boncambio||||||||||||||
+489|Ottaviano||||||rurale|Itieli|Ithieli|||||||
+490|Giovanni Geronimo|||||||||||||||
+491|Battista||||||urbano||Cagli|||||||
+492|Carlo Fausto|Orsino|||||urbano|Mugnano|Mugnano||||Dominus|||
+493|Priamo|||||||||||||||
+494|Antonio|||Priamo||||||||||||
+495|Giustino||Cozza|||||||||||||
+496|Cecilia|||||||||||||||
+497|Antonio|||Cecilia||||||||||||
+498|Francesco|Contestabile||||||||||||||
+499|Pirro|Mancinello|||||||||||Dominus|||
+501|Pietro Giovanni|||||||||||||||
+502|Orazio|||Pietro Giovanni||||||||||||
+505|Paolo|Sebio|||||urbano|Perugia|Perugia|||||||
+506|Virgilio|Capobianco||||||||||||||
+507|Giustino|||Iliangelo|||urbano|Narni|Narni|||||||
+509|Sabina|||||||||||||||
+510|Vincenzo|||Sabina||||||||||||
+511|Tullio|||||||||||||||
+512|Sempronio|||Tullio||||||||||||
+513|Pietro |Mautino|||||||||||Dominus|||
+514|Taddeo|Boncambio||||||||||||||
+515|Tommaso|Lambardo||||||||||||||
+516|Nicolò|Celio|||||||||||Ser|||
+517|Deorico|Chiariello|||||||||||Ser|||
+518|Piergilio|Massimo|||||||||||Ser|Notaio||
+519|Massimo|Arca|||||||||||Dominus|||
+520|Domenico|Franco|||||||||||Dominus|||
+521|Ottavio|Clodio|||||urbano||Tarano||||Dominus|||
+522|Giulio|Ranucci|||||urbano||Tarano||||Dominus|||
+523|Antonio|||||||||||||Molinaro||
+524|Alessandro||||||||||||Magister|Maestro||
+525|Marco|Gargano|||||urbano|Gallese|Gallese||||Magister|Maestro||
+526|Giuseppe||||||||||||Magister|Maestro||
+527|Giovanni Battista||||||urbano|Spoleto|Spoleti||||Magister|Maestro||
+528|Aristotele||||||urbano|Spoleto|Spoleti||||Magister|Maestro||
+529|Filippo||||||urbano|Terni|Terni||||Magister|Maestro||
+530|Severo||||||||||||Magister|Maestro||
+531|Lauro|Cataneo|||||urbano|Brescia|Brescia||||Magister|Maestro||
+532|Vincenzo|Vulsinio||||||||urbano|Bolsena|Bolsena|Magister|Maestro||
+534|Francesco|Mancini|||||urbano||Taizano|||||||
+535|Gaspare|Carnaccia||||||||||||||
+536|Giulio||||||urbano|Perugia|Perugia|||||||
+537|Battista|Tepelli||Andrea|Tepelli|||||||||||
+538|Iacopo|Cristallini||||||||||||||
+539|Taddeo Ludovico|||||||||||||||
+540|Conte|||Taddeo Ludovico||||||||||||
+541|Giovanni|||Nicola||Ciaramacca||||||||||
+542|Giovanni Battista|||Giovanni||||||||||||
+543|Ausonio|||Giubileo||||||||||||
+544|Achille|Bazzuccari||||||||||||||
+545|Giovanni Bernardino|||||||||||||||
+546|Cipiccia|||||||||||||||
+547|Abbondanza|||||||||||||||
+548|Soastio|Abbondanza||||||||||||||
+550|Sforza|Orsino|||||||||||Dominus|||
+551|Domizio|||Feliziano||||||||||||
+552|Giovenale|Pitanta||||||||||||||
+553|Aristofilo|Gallo|||||urbano|Spoleto|Spoleti||||Magister|Maestro||
+554|Franceschino|Giovagnoli|||||urbano|Assisi|Asisi||||Magister|Maestro||
+556|Scotto|Scotto|||||||||||Dominus|||
+557|Massimiliano|Scotto|||||||||||Dominus|||
+558|Giovanni Vincenzo|Filio||||||||||||||
+559|Riccio|||||||||||||||
+560|Andrea|Lombardo|||||urbano||Taizano|||||||
+562|Giovanni|Gagliardo||||||||||||||
+563|Matteo|Veio||||||||||||||
+564|Salvatore|||||||||||||||
+570|Francesco|Scindico|||||||||||Dominus|||
+571|Latino|Orsino|||||||||||Dominus|||
+572|Lorenzo|Mancinello||||||||||||||
+573|Cristoforo|Soto|||||||||||Dominus|||
+574|Giovanni Antonio||||||urbano||San Pietro||||Dominus|||
+576|Andrea|Tepelli||||||||||||||
+577|Costantino||||||urbano|Montoro|Montoro||||Dominus|||
+578|Sante|||||||||||||||
+579|Francesco|||Sante||||||||||Ortolano||
+580|Pier Vincenzo|||||||||||||||
+581|Silla|||Pier Vincenzo||||||||||||
+582|Domenico|||||||||||||Molinaro||
+583|Seleuco|Lollio||||||||||||||
+584|Bernardino|Caldarino||||||||||||||
+594|Menicagnilo||||||urbano||Aspra|||||||
+597|Nicolò|Confidati|||||||||||Dominus|||
+598|Pavonischio|||||||||||||||
+599|Salvatore|Mancinello||||||||||||||
+600|Pietro|Vipera||||||||||||||
+601|Martinangelo|||||||||||||||
+602|Giulio|||Martinangelo||||||||||||
+604|Giovanni Angelo|Pacciarella||||||||||||||
+605|Giulio|||||||||||||||
+606|Arcangelo|||Giulio||||||||||||
+607|Ferrante|||||||||||||||
+608|Antonio|||Ferrante||||||||||||
+609|Baldassarre|||||||||||||||
+610|Sensino|||Baldassarre|||||||||Magister|||
+611|Angelo Antonio|Corallo||||||||||||||
+613|Giovanni Geronimo|Santino||||||||||||||
+615|Pompilio|||||||||||||||
+616|Paolo|||Pompilio||||||||||||
+618|Raimondo|Racano||||||||||||||
+619|Agostiniano|||Vincenzo||||||||||||
+620|Dionisio|||||||||||||||
+621|Curzio|Catarcia||||||||||||||
+622|Medeo|||Giovenale||||||||||||
+623|Celestino|||||||||||||||
+624|Cesare|||Celestino||||||||||||
+625|Simone|||||||||||||||
+626|Gregorio|||Simone||||||||||||
+627|Mario|Benigni||||||||||||||
+628|Giovanni Paolo|Saviola||||||||||||||
+629|Ludovico|Geremia||||||||||||||
+630|Dionisio|Scotto||||||||||||||
+631|Bernardo|Fusoritto||||||||||||||
+632|Paolo|Verruzio||||||||||||||
+633|Lorenzo|Risello||||||||||||||
+634|Barnabeo|||||||||||||||
+635|Rinaldo|||Barnabeo||||||||||||
+636|Michelangelo|Piselllo||||||||||||||
+637|Domenico|Pisello||Michelangelo|Piselllo|||||||||||
+638|Cristoforo|||||||||||||||
+639|Giovanni Andrea|||Cristoforo||||||||||||
+640|Tommaso|Loccio||||||||||||||
+641|Pier Giovanni|||Massuccio||||||||||||
+642|Ludovico|||Pier Giovanni||||||||||||
+643|Antino|||||||||||||||
+644|Livio|||Antino||||||||||||
+645|Raniero||||||||||||Magister|Chirurgo||
+646|Alessandro|degli Alessandri|||||||||||Dominus|||
+647|Angelo Antonio|||||||||||||||
+648|Francesco|Caroccio||||||||||||||
+649|Giovanni Francesco||Pacchiarella|||||||||||||
+651|Cristiano|Moretti||||||||||||||
+652|Polluce|Durante|||||urbano||Gualdo||||Dominus|||
+653|Caterino|||||||||||||||
+654|Sebastiano|||Caterino||||||||||||
+655|Francesco|||Giovanni Angelo|Pacciarella|||||||||||
+656|Filippino|||||||||||||||
+657|Giovanni Felice|||Filippino||||||||||||
+658|Marardo|Rodolfino||||||||||||||
+659|Camillo|||||||||||||||
+660|Battista|||||||||||||||
+661|Domenico|||Battista|||urbano|Todi|Todi|||||||
+663|Fortunato|||||||||||||||
+664|Bartolomeo|||Fortunato|||urbano||Serra Comite|||||||
+665|Vicino|Orsino|||||||||||Dominus|||
+666|Bernardino|Sabuzio|||||||||||Dominus|||
+667|Angelo Antonio|Fusoritto||||||||||||||
+668|Vincenzo|Faldoro||||||||||||||
+669|Antonio|Malafoglia||||||||||||||
+670|Vincenzo||||||urbano|Rieti|Rieti|||||||
+671|Giovanni Geronimo|||Antino||||||||||||
+672|Giovanni Angelo|||||||||||||Sarto||
+673|Scacco|||||||||||||||
+674|Cesare|||||||||||||Fabbro||
+675|Fabrizio|Laverni||||||||||||||
+676|Dionisio|Caronesta||||||||||||||
+677|Virgilio|Caronesta||Dionisio|Caronesta|||||||||||
+678|Pietro Paolo|Piccinino||||||||||||||
+679|Geronimo|||Giustino||Cozza||||||||||
+680|Tommaso|Fraole||||||||||||||
+681|Martinangelo|||Tullio||||||||||||
+682|Paolo Emilio|||Pier Vincenzo||||||||||||
+683|Bernardino||||||urbano|Todi|Todi|||||||
+684|Vincenzo|Bartoccio||||||||||||||
+685|Giulio|Mangonio||||||||||||||
+686|Giovanni Angelo|||Giuliano||||||||||||
+687|Giovanni|Bolginio|||||||||||Magister|||
+688|Pietro |||Glorizia||||||||||||
+689|Alessandro|||Giulio||||||||||||
+690|Nicolò|Ciaramacca||||||||||||||
+692|Pietro |Lambardo|||||urbano|Capitone|Capitone||||Magister|||
+693|Micoccio|||||||||||||||
+694|Federico|Cesi|||||||||||Dominus|||Marchese
+695|Matteo|Spinarello||||||||||||||
+696|Pietro Paolo||||||urbano||Meccania|||||Funaro||
+698|Tullio||||||||||||Frater|||
+699|Valerio||||||||||||Ser|||
+701|Pelleo||||||||||||Magister|||
+702|Giovanni Battista|Cardulo||||||||||||||
+703|Antonio|Coluzzello|||||urbano|Canepina|Canepina|||||||
+704|Napoleone|||||||||||||||
+705|Piero|Mautino|||||||||||Magister|||
+706|Paolo Emilio|Prospero|||||||||||Ser|||
+707|Renzo|||||||||||||||
+708|Girolamo|||Renzo|||||||||Magister|||
+709|Cesare|||||||||||||||
+710|Paolo Emilio|||Cesare|||||||||Dominus|||
+711|Biagio|||Alessandro||||||||||||
+712|Costanze|||||||||||||||
+713|Sebastiano|||Costanze||||||||||||
+714|Iacopo||Paladino|Gaspare||||||||||||
+715|Gaspare|||||||||||||||
+716|Basilio|||||||||||||||
+717|Sante|||Basilio|||urbano||Pisciano|||||||
+718|Antonio|Mancinetto||||||||||||||
+719|Silvio||Relluzzo|||||||||||||
+720|Apollonio|Spera||||||||||||||
+722|Salvatore|||Antonio||||||||||||
+723|Francescone|||||||||||||||
+725|Domenico|Saracino|||||urbano|Collescipoli|Collescipoli||||Magister|Molinaro||
+726|Vincenzo||||||rurale|Finocchieto|Finocchieto|||||||
+727|Angelo|Marinello||||||||||||||
+728|Filippo|Marinello||Angelo|Marinello|||||||||||
+729|Pietro|||Vincenzo|||||||||Magister|||
+731|Pirro|Lambardo|||||||||||Magister|||
+732|Danese|||||||||||||||
+733|Minicacchino|||Danese||||||||||||
+734|Iaco||||||||||||Magister|||
+735|Prezio|||Iaco||||||||||||
+736|Andrea|Narsini|||||||||||Dominus|||
+737|Giacomo Filippo|Arca|||||||||||Magister|||
+739|Bernardino|Marzio||||||||||||||
+740|Sebastiano|Zaccarelli|||||urbano|Norcia|Norscia|||||||
+741|Giovanni Filippo|Rubeo|||||urbano||Colle vetus|||||||
+742|Domenico|Lucarello|||||urbano|Cittaducale|Civitas ducalis|||||||
+743|Baldovino|Cardulo||||||||||||||
+744|Sebastiano|Spinarello||||||||||||||
+745|Giacomo|||Gaspare||||||||||||
+746|Adriano|Pizzuto|||||||||||Dominus|||
+747|Mariano|Cuccino||||||||||||||
+748|Mario|||||||||||||||
+749|Trinchetto|||||||||||||||
+751|Sebastiano||||||urbano|Bologna|Bononia|||||||
+752|Cassio|||||||||||||Bufalaro||
+753|Circunziano|||Matteo||||||||||||
+756|Scipione|Baldello|||||urbano|Gubbio|Agubio||||Magister|Chirurgo||
+757|Terenzio|||||||||||||||
+758|Maulio|||Terenzio||||||||||||
+760|Cosmo|Camaiano|||||||||||Dominus|||
+761|Angelo|||||||||||||||
+762|Luca Antonio|||Angelo|||urbano|Tarquinia|Corneto|||||||
+763|Giovanni Paolo|Belluccio||||||||||||||
+764|Antonio|Iliangeli||||||||||||||
+765|Ascanio|||Giovanni Matteo||Spagna||||||||||
+766|Galeotto|Marzio|||||||||||Ser|||
+767|Orazio|Chiariello||||||||||||||
+769|Giovanni Filippo||||||||||||Ser|||
+770|Matteo|||Terenzio||||||||||Macellaio||
+771|Parmilio||||||rurale||Vasciano|||||||
+772|Bertoldo||||||||||||Magister|Muratore||
+773|Antonio|Porso|||||||||||Magister|Medico||
+774|Geronimo|Cordella|||||||||||Magister|Medico||
+775|Giovanni|Pelusio|||||urbano|Napoli|regno di Napoli||||Magister|Maestro||
+776|Antonio||||||urbano|Norcia|Norscia|||||||
+777|Cinzio|||Antonio||||||||||Molinaro||
+778|Perfetto|||Angelello||||||||||||
+779|Dionisio||||||urbano|Cascia|Cascia||||Magister|Medico||
+780|Baldino|Chiocci|||||urbano|Gubbio|Agubio||||Magister|Medico||
+781|Francesco||||||urbano||Colle||||Magister|Medico||
+782|Andrea|Andreoli|||||urbano|Gubbio|Agubio||||Magister|Medico||
+783|Giubileo|||Mauro|||urbano||Torre||||Magister|Medico||
+784|Paolo Emilio|Costa|||||urbano|Norcia|Norscia||||Magister|Medico||
+785|Giovanni Francesco|Costa|||||urbano|Norcia|Norscia||||Magister|Medico||
+786|Mauro|||||||||||||||
+787|Domenico|Rodolfino||||||||||||||
+788|Marco Tullio|Rodolfino||||||||||||||
+789|Pietro|Rodolfino||||||||||||||
+791|Sostimo|Alberto||||||||||||||
+792|Domiziano|||||||||||||Spadaro||
+793|Pompilio|||Morgante||||||||||||
+794|Patrizio||||||urbano|Stroncone|Stroncone||||Magister|Maestro||
+795|Corduano|Spera||||||||||||||
+796|Silvestro|Mautino||||||||||||||
+797|Angelo|Chiariello||||||||||||||
+798|Morgante|||||||||||||||
+799|Geronimo|Donzelli|||||urbano|Fabriano|Fabriano||||Magister|Medico||
+803|Sulpicio|||Cesare||||||||||||
+805|Pompeo |Simonio|||||urbano|Sutri|Sutri||||Magister|Medico||
+806|Baldovino||||||||||||Magister|Maestro||
+807|Claudio|Sirio|||||urbano||Monteregale||||Magister|Maestro||
+808|Bernardino|||||||||||||Ortolano||
+809|Stefano|Fiaschetta||||||||||||||
+810|Domenico|Danesio|Menecine|Francesco||||||||||||
+811|Andrea||||||urbano|Bologna|Bononia|||||||
+812|Giovanni Antonio|Oliva|||||urbano|L'Aquila|Aquila||||Dominus|||
+813|Gabriele|||||||||||||||
+814|Ascanio|||Gabriele|||rurale||Florentillorum|||||||
+815|Filippo|||||||||||||||
+816|Tito|||Filippo||||||||||||
+819|Romolo|Lambardo|||||||||||Dominus|||
+820|Antonio|Nobili|||||urbano||Trevi|||||||
+821|Matteo|||Costantino||||||||||||
+822|Ausonio||||||urbano|Capitone|Capitone|||||||
+823|Primanno|Stati||||||||||||||
+825|Nevio|||Francesco||||||||||||
+826|Pellegrino||||||||||||Magister|||
+828|Innocenzo|Narsini|||||||||||Ser|||
+829|Antonio||||||||||||Magister|Scalpellino||
+830|Orsino|Rodolfino||||||||||||||
+831|Gabriele|Blandolisio|||||||||||Magister|||
+832|Giovanni Andrea|Erolo|||||||||||Ser|||
+833|Prospero|Lambardo|||||||||||Magister|||
+835|Ascanio|Nisti||||||||||||||
+836|Giovanni||Sciarpa|||||||||||||
+837|Giovanni Marino||||||urbano|Norcia|Norscia|||||Tintore||
+838|Rosato|||||||||||||||
+840|Romolo||||||urbano|Cesi|Cesae||||Magister|||
+841|Livio||||||urbano||Scantriglia||||Dominus|||
+842|Evangelista|Argenti|||||urbano|Cesi|Cesae|||||||
+843|Pavolo|Cardono|||||||||||Magister|||
+844|Clemente|Lambardo|||||||||||Magister|||
+845|Angelello|||||||||||||||
+846|Ottavio|||Serafino||||||||||||
+847|Orazio|Renzi||||||||||||||
+848|Geronimo|Renzi||Orazio|Renzi|||||||||||
+849|Feliziano|||||||||||||||
+850|Annibale|Treuzio||||||||||||||
+851|Mezenzio|Spinello|||||||||||Magister|||
+854|Orazio|||||||||||||Barbiere||
+856|Agostino|||Giovenale||||||||||||
+858|Angelo|Maccaruccio||||||||||||||
+859|Biagio|Mautino||||||||||||||
+860|Stefano|||Giustina||||||||||||
+861|Troiano|||||||||||||||
+862|Alessandro|||Troiano||||||||||||
+863|Fulvia|Cottia||||||||||||||
+865|Giovanni Pulio|||Polo||||||||||||
+866|Arcangelo||||||rurale|Narni|di Cipiccia|||||||
+867|Agostino|||||||||||||||
+868|Angelo|Renzi||Orazio|Renzi|||||||||||
+869|Tarquinio|Lambardo|||||urbano||Castiglione||||Magister|||
+870|Filippo||||||urbano|Terni|Terni|||||||
+871|Paolo Emilio|Cesi|||||||||||Dominus|||
+872|Marco|Laudonia||||||||||||||
+875|Vincenzo|Padicani||||||||||||||
+876|Orazio|||Alessandro|||urbano|Acuzzo|Acuzzo|||||||
+877|Vincenzo|Lucatello|||||||||||Monsignore|||
+878|Dario|Moricotti|||||urbano|San Gemini|San Gemini||||Ser|||
+879|Agostino||||||||||||Frater|||
+880|Geronimo|Orsino|||||||||||Dominus|||
+881|Alessandro|Lucido|||||urbano|Siena|Siena||||Magister|Maestro||
+882|Francesco|Spinarello||||||||||||||
+885|Salvatore||||||rurale||Vasciano|||||||
+886|Pietro|Mangonio|||||||||||Dominus|||
+887|Giovanni Angelo||Merlatta|||||||||||||
+888|Calennio|Andrielli||||||||||||||
+889|Stefano||||||urbano||Taizano|||||||
+890|Ludovico|Arca|||||||||||Dominus|||
+891|Troiano||||||||||||Dominus|Architetto||
+892|Pietro|||||||||||||||
+893|Cassio|||Pietro||||||||||||
+894|Cinzio|||||||||||||||
+895|Angelo Antonio|Spera||||||||||||||
+896|Giovanni Battista|Boncambio||||||||||||||
+897|Pietro||||||urbano||Cagli||||Magister|Maestro||
+898|Giovenale|||Angelo||||||||||Sarto||
+899|Antonio|Battaglino||||||||||||||
+901|Battista|Fantozzo||||||||||||||
+903|Ceccarello||||||urbano|Foligno|Foligno|||||Pastore||
+904|Fioravanti||||||urbano|Calvi|Calvi||||Magister|Pastore||
+905|Torquato||||||urbano|Calvi|Calvi||||Magister|Pastore||
+906|Claudio|Militario|||||urbano||Cittanello||||Magister|||
+907|Papirio|Grifonio|||||||||||Magister|||
+908|Giorgio|Caldarino||||||||||||||
+909|Giovanni Battista|Nobili|||||urbano|Rieti|Rieti||||Capitaneus|||
+910|Sforza||||||urbano||Montefianco||||Ser|Notaio||
+911|Michelangelo|||||||||||||||
+912|Pier Agostino|||Michelangelo||||||||||||
+913|Anselmo|||||||||||||||
+914|Mercurio|||Anselmo||||||||||||
+915|Alessio||||||urbano||Serra|||||||
+916|Giulio|Amicio|||||||||||Dominus|||
+917|Giuseppe|Pallenazio|||||urbano|Assisi|Asisi||||Capitaneus|||
+918|Antonio|Petrignano|||||urbano|Spoleto|Spoleti||||Magister|||
+920|Paolo|Fusoritto||||||||||||||
+921|Lorenzo|Carnaccia||||||||||||||
+922|Nunzio|Mosca||||||||||||||
+923|Geminiano|Spinelli|||||||||||Magister|||
+924|Nicola|Ridolfino|||||urbano|Spoleto|Spoleti||||Magister|||
+925|Flavio|Cardulo|||||||||||Magister|||
+927|Giuseppe|Spera||||||||||||||
+928|Giovanni Antonio|||Filippino||||||||||||
+929|Giovanni Paolo|Vipera||||||||||||||
+930|Massimo||||||||||||Magister|Falegname||
+931|Felice Angelo|||||||||||||||
+932|Marco Antonio|||Felice Angelo||||||||||||
+934|Pasquino|||||||||||||||
+935|Marco Antonio|||Antino||||||||||||
+937|Battista|Nicoletti|||||urbano|Terni|Terni|||||||
+938|Andrea||||||||||||Frater|||
+939|Giovanni Tommaso||||||urbano|Terni|Terni|||||||
+941|Giovanni Giacomo|Erolo|||||||||||Magister|||
+944|Sisto|||||||||||||||
+945|Giovanni Battista|Sisto||||||||||||||
+948|Lelio|Ceccolo|||||||||||Dominus|||
+949|Antonio|||Pietro |Lambardo|||||||||||
+950|Arcangelo|||Pier Vincenzo||||||||||||
+951|Giovannuccio|||Antonio||||||||||Sarto||
+952|Flaminio|Angelico|||||||||||Dominus|||
+953|Luca|||||||||||||Ciabattino||
+954|Abbondio|||||||||||||||
+955|Attilio|||Pellegrino||||||||||||
+956|Livio|Iovenelli||||||||||||||
+957|Tiberio|Calvano||||||||||||||
+958|Damiano|||Nicolò|||rurale|Itieli|Ithieli|||||||
+959|Damiano|||Vincenzo||||||||||||
+960|Fabio|Aquilani|||||urbano||Casigliano|||||||
+961|Conte|||||||||||||||
+962|Giulio|Racano||||||||||||||
+963|Giovanni Antonio||||||||||||Magister|Muratore||
+964|Costantino|Montoro||||||||||||||
+965|Ascanio||Spagna|Vincenzo||||||||||||
+966|Giovanni Felice|Calvano||Tiberio|Calvano|||||||||||
+968|Giovanni Stefano|||||||||||||||
+969|Cesare|||Giovanni Stefano|||rurale||del Poggio|||||||
+970|Ottaviano|Fardelletto||||||||||||||
+971|Costantino|||Matteo||||||||||||
+972|Pietro||||||urbano|Todi|Todi|||||||
+975|Pietro|||Giulio||||||||||||
+976|Cruciano||||||urbano|Spello|Spello|||||||
+977|Senzino|Gentileschi|||||urbano|Spoleto|Spoleti|||||||
+978|Pirro|Benevieni||||||||||||||
+979|Antonione|||||||||||||||
+980|Cinzio|||Antonione||||||||||||
+981|Ippolito|||||||||||||||
+982|Manilio|||Ippolito||||||||||||
+984|Domenico|Caronesta||||||||||||||
+986|Annibale|Ceuli||||||||||||||
+987|Francesco Antonio|Spinio|||||urbano|Spoleto|Spoleti||||Magister|Medico||
+988|Giuseppe|Brancaleoni|||||urbano|Spoleto|Spoleti||||Magister|Chirurgo||
+989|Cornelio|Marini|||||urbano||Trievi||||Magister|Chirurgo||
+990|Alberto||||||urbano||Poggio Catino||||Magister|Chirurgo||
+991|Cesare|Scacchi|||||||||||Magister|Chirurgo||
+992|Troilo |Franceschino|||||urbano|Fossombrone|Fossombrone||||Magister|Medico||
+994|Antonio|Tosto|||||urbano||Cerreto||||Magister|Chirurgo||
+995|Falconizio||||||urbano|Spoleto|Spoleti||||Magister|Chirurgo||
+996|Orazio|Cometa|||||urbano|Spoleto|Spoleti||||Magister|Chirurgo||
+997|Giuliano|Rotelli|||||urbano||Ponzano||||Magister|Chirurgo||
+998|Natale|||||||||||||||
+999|Annibale|||Natale|||urbano||Montefalco||||Capitaneus|||
+1000|Angelo||||||urbano||S. Genesi||||Magister|Medico||
+1001|Flaminio||||||urbano|Camerino|Camerino||||Magister|Medico||
+1002|Ippolito|Concioli|||||urbano||Cantiano||||Magister|Medico||
+1003|Geronimo|Sforza||||||||urbano|Spello|Spello|Magister|Medico||
+1004|Paolo|||Andrea|||rurale||Florentillorum||||Capitaneus|||
+1005|Ettore|Quarantucci|||||urbano|Fano|Fano|||||||
+1006|Sante|||Andrea|||urbano||Gualdo|||||||
+1007|Gismondo||||||urbano||Tarano||||Magister|Chirurgo||
+1008|Pietro Paolo|Cattano|||||urbano|Foligno|Foligno||||Magister|Medico||
+1009|Favorino|Favorini|||||urbano|Fossombrone|Fossombrone||||Magister|Medico||
+1010|Stefano|Febei|||||urbano|Orvieto|Orvieto||||Magister|Medico||
+1011|Pirro|Coliozzi|||||urbano|Montecchio|Montecchio||||Magister|Medico||
+1012|Amico|Gentile|||||urbano||Camporeondo||||Magister|Chirurgo||
+1013|Giovanni|Lambardo||||||||||||||
+1014|Cristoforo|Lambardo||Giovanni|Lambardo|||||||||||
+1015|Marardo|||||||||||||||
+1016|Alessandro|Massario|||||||||||Magister|||
+1017|Geronimo|Malafoglia||||||||||||||
+1019|Mariano||||||urbano|Narni|Narni|urbano|Terni|Terni||||
+1020|Paolo|||Vincenzo||||||||||||
+1023|Camillo||Mezzanarni||||urbano|Borgaria|Borgaria|||||||
+1024|Persio||||||urbano|Capitone|Capitone|||||||
+1025|Pier Giovenale|Bevilacqua||||||||||||||
+1026|Biagio|Cicipici||||||||||||||
+1027|Cipriano|Mosca||Roberto|Mosca|||||||||||
+1028|Cinzio|Massimo|||||||||||Ser|||
+1029|Biagio|||Alessio||||||||||||
+1030|Vincenzo|Pielli||||||||||||||
+1032|Clemente|Caroso|||||urbano|Spoleto|Spoleti|||||||
+1033|Ippolito|||Agostino|||urbano|Gubbio|Agubio|||||||
+1034|Angelo|Filalete|||||urbano|Spoleto|Spoleti||||Magister|Maestro||
+1035|Camillo|Mazzi|||||urbano||Bettona||||Magister|Maestro||
+1036|Giovanni|Salvato|||||urbano|Norcia|Norscia||||Magister|Maestro||
+1037|Florito|Finisdeo||||||||||||||
+1038|Evangelista|Marchiola||||||||||||||
+1039|Vincenzo|Nardini|||||urbano|Fermo|Fermo||||Magister|Maestro||
+1040|Riccardo|Pontani|||||urbano||Cerreto||||Magister|Maestro||
+1041|Felice Angelo|||Dionisio|||urbano|Capitone|Capitone|||||||
+1042|Lorenzo|Scotto|||||||||||Dominus|||
+1044|Vincenzo|||||||||||||Sarto||
+1045|Giovanni Giulio|Melone|Melone|Giuliano||||||||||||
+1046|Giacomo|Bonfatto|||||urbano||Cantiano||||Magister|Maestro||
+1047|Vincenzo|Renzi|Vincenzetto|||||||||||||
+1050|Pier Vincenzo|Arca|||||||||||Dominus|||
+1052|Angelo|Micciuco|||||urbano||Schifanoia|||||||
+1053|Fazio|Cardano||||||||||||||
+1054|Bartolomeo|Petrignano||||||||||||||
+1055|Fiorentino|||||||||||||||
+1056|Sebastiano|||Fiorentino|||rurale|Finocchieto|Finocchieto|||||||
+1058|Giuliano|Cerqueti||||||||||||||
+1059|Berardo|||||||||||||||
+1060|Agabito|||Berardo||||||||||||
+1061|Luca|||||||||||||||
+1062|Gilio Antonio|||Luca||||||||||||
+1063|Rainaldo|||||||||||||||
+1064|Giacomo|||Rainaldo||||||||||||
+1065|Giovanni Battista|Prospero|||||||||||Ser|||
+1067|Gregorio|Risio|||||||||||Ser|||
+1068|Francesco|Ternibile||||||||||||||
+1069|Virgilio|Masseo||||||||||||||
+1070|Bartolomeo|Pancallo|||||urbano|Collescipoli|Collescipoli|||||||
+1071|Fazio|||||||||||||||
+1072|Angelo|||Fazio|||urbano|Camerino|Camerino||||Magister|Maestro||
+1073|Taddeo|Nobili||||||||||||||
+1075|Antonio|Ciabocchi||||||||||||||
+1076|Giovanni Angelo|Mariucci||Mariuccio||||||||||||
+1077|Maurizio|||||||||||||Ripetitore||
+1079|Pier Agostino|Lollio||||||||||||||
+1080|Francesco|Rubeo||Pietro|Rubeo|||||||||||
+1081|Tarquinio|Mautino||||||||||||||
+1082|Pier Donato|Rodolfino||||||||||||||
+1083|Bernardino|Rodolfino||||||||||||||
+1084|Federico|Arca|||||||||||Magister|||
+1086|Giovanni Bernardino|Fraticello||Annibale|Fraticello|||||||||||
+1087|Loreto|Ricci|||||urbano|Collescipoli|Collescipoli|||||||
+1088|Pier Nicolò|Schibonio|||||||||||Ser|||
+1089|Giuliano|Galluzzi||Luca|Galluzzi|||||||||||
+1090|Riccio|||Terenzio||||||||||Sarto||
+1092|Michelangelo|Arroni||||||||||||||
+1093|Francesco|Romano||||||||||||||
+1094|Angelo|Andreozzino|||||||||||Dominus|||
+1095|Ludovico|Fieschi||||||||||||||
+1096|Gabriele|Fieschi||Ludovico|Fieschi|||||||||||
+1097|Bernardino|||||||||||||||
+1098|Marinangelo|||Bernardino||||||||||||
+1099|Cardulo|Cardulo||||||||||||||
+1100|Simone|Lambardo||Matteo|Lambardo|||||||||||
+1101|Matteo|Lambardo|||||||||||Magister|||
+1102|Erasmo|Loccio||||||||||||||
+1103|Gregorio|||Bernardino|||||||||Ser|||
+1104|Geronimo|Rodolfino||||||||||||||
+1105|Giustino|Arca||||||||||||||
+1106|Teodoro|Cardono||||||||||||||
+1107|Nicolò|Arca||||||||||||||
+1108|Domenico| Marinata||||||||||||||
+1109|Antonio|Erolo|||||||||||Ser|||
+1110|Simone|Andreozzino|||||||||||Dominus|||
+1111|Angelo|Capocaccia|||||||||||Dominus|||
+1112|Biagio|Cardulo||||||||||||||
+1114|Francesco|Coragli||||||||||||||
+1115|Giovenale|Mascioni||Luca|Mascioni|||||||||||
+1116|Alessio|Cicipici||||||||||||||
+1117|Angelo|Risio||Francesco|Risio|||||||||||
+1118|Peruzio|||||||||||||||
+1119|Geronimo|Vittorelli|||||||||||Magister|Chirurgo||
+1120|Simoncino|Brunello||Giovanni|Brunello||urbano|Stifone|Stifone|||||||
+1121|Giuliano|Germanello||||||||||||||
+1122|Battista|Mattiucci||Geronimo|Mattiucci||urbano|Gubbio|Agubio|||||||
+1124|Giuliano|Galvano|||||||||||Dominus|||
+1125|Mattia Angelo|Micciuco|||||urbano||Schifanoia|||||||
+1126|Angelo|Germanello|||||||||||Dominus|||
+1127|Felice|||||||||||||||
+1128|Pietro Paolo|||Felice||||||||||Macellaio||
+1129|Giovanni Maria|Lancia||||||||||||||
+1130|Martinangelo|Puracciatti|||||urbano|Terni|Terni|||||||
+1131|Cesare|||||||||||||Oste||
+1132|Valerio|Pollastri|||||urbano|Spoleto|Spoleti||||Magister|Medico||
+1133|Gilio|||||||||||||||
+1134|Giovanni Paolo|||||||||||||||
+1135|Giovanni Battista|||||||||||||||
+1136|Mattia Angelo|||||||||||||||
+1137|Gioacchino|||||||||||||||
+1138|Florido|||||||||||||||
+1139|Andrea Angelo|||||||||||||||
+1140|Bernardino|Troili||||||||||||||
+1142|Geronimo|||Cassio||||||||||||
+1143|Giovanni Antonio|Vipera|||||||||||Dominus|||
+1144|Pancrazio||||||rurale||Vasciano|||||||
+1145|Corradino||||||||||||Magister|||
+1146|Gabriele|Cesano|||||||||||Magister|||
+1147|Giovanni Antonio|Sanpietro||||||||||||||
+1148|Antonio|Romagnolo||||||||||||||
+1149|Onofrio|||||||||||||||
+1150|Agostino|||Onofrio||||||||||||
+1151|Marco Antonio|Curio|||||urbano|Forlì|Forlì||||Magister|Medico||
+1152|Giovanni Girolamo|Piccinino||||||||||||||
+1153|Antonino||||||||||||Frater|||
+1154|Sensionne|||||||||||||||
+1155|Alessandro|Orio|||||urbano|Rimini|Rimini||||Dominus|||
+1156|Francesco|Bandini|||||urbano|Imola|Imola|||||||
+1157|Ludovico|||Galeotto|Marzio|||||||||||
+1158|Orsello|Santello|||||urbano|Orte|Horte||||Magister|Maestro||
+1159|Livio|Borioni|||||urbano|Todi|Todi||||Magister|Maestro||
+1160|Fulgenzio|Pasqualoni|||||urbano||Accumulo||||Magister|Maestro||
+1161|Costantino|Arrigoni|||||urbano|Rimini|Rimini||||Dominus|||
+1162|Pietro Paolo|de Andrielli||||||||||||||
+1163|Zaffiro|Farratino|||||||||||Dominus|||
+1164|Nicolò|Germanello|||||||||||Dominus|||
+1165|Zaffiro||||||||||||Dominus|||
+1167|Pompeo||||||urbano|Spoleto|Spoleti||||Dominus|||
+1168|Vittorio||||||||||||Ser|||
+1169|Vittorio|||Vittorio||||||||||||
+1170|Ludovico|Boncambio||Taddeo|Boncambio|||||||||||
+1171|Michele|Caldarozzo||||||||||||||
+1173|Giovanni Battista||||||urbano|Montoro|Montoro||||Dominus|||
+1174|Dionisio|Cardulo|||||||||||Dominus|||
+1176|Bernardino|Prospero||||||||||||||
+1177|Giacomo|||Bernardino|Prospero|||||||||||
+1178|Egidio|||||||||||||||
+1179|Cristoforo|||Egidio||||||||||Mattonario||
+1181|Antonio|||Pietro Paolo|||||||||Ser|||
+1182|Teodoro|Succursio||||||||||||||
+1183|Domenico|||Rosa||||||||||||
+1184|Marino||||||urbano|Stroncone|Stroncone||||Ser|||
+1185|Agostino||||||urbano|Rieti|Rieti|||||||
+1186|Clemente||il Conte||||urbano|Capitone|Capitone|||||||
+1187|Dionoro|Setti||||||||||||||
+1188|Marinangelo|Nocchie||||||||||||||
+1189|Geronimo|Nocchie||Marinangelo|Nocchie|||||||||||
+1190|Bernardino||||||||||||Ser|||
+1191|Giovanni Maria|Balisino||||||||||||||
+1192|Tiberio|Vipera||||||||||||||
+1193|Bisiello|||||||||||||||
+1194|Marinangelo|||||||||||||Calderario||
+1195|Novizio|Mantino|||||urbano||Configni|||||||
+1197|Polidoro||||||urbano||Cottanello|||||||
+1198|Stefano|Paduano||||||||||||||
+1199|Stefano|Masseo|||||||||||Dominus|||
+1200|Paolo|Cesi|||||||||||Dominus|||
+1201|Arcangelo|Malafoglia||||||||||||||
+1202|Domenico|Chiariello||||||||||||||
+1204|Giacomo Filippo|Rapo||||||||||||||
+1205|Domenico||||||urbano||Meccania|||||||
+1206|Arcangelo|||||||||||||||
+1207|Leonoro|||Arcangelo|||urbano||Thiulore|||||||
+1209|Luigi|Bentivoglio|||||||||||Magister|||
+1210|Giovanni Antonio|Borghi|||||urbano|Firenze|Florentia||||Magister|Maestro||
+1211|Valerio|Ferretto|||||urbano||Campello||||Capitaneus|||
+1212|Corradino|Orsino|||||urbano|Bomarzo|Bomarzo||||Dominus|||
+1213|Pompeo|Rubeo|||||urbano||Moliano||||Capitaneus|||
+1214|Aloisio |Bentivoglio|||||urbano||Forosempione||||Dominus|||
+1216|Pietro|Boncambio|||||||||||Magister|||
+1218|Giovanni Angelo|||Domenico||||||||||||
+1219|Porzia Vitella|Orsino|||||||||||Domina|||
+1221|Fabio|Pontani||Riccardo|Pontani||urbano||Cerreto||||Magister|Maestro||
+1222|Gaspare|Circino|||||urbano|Spoleto|Spoleti||||Magister|Maestro||
+1223|Eleuterio|Penzio|||||urbano|Todi|Todi||||Magister|Maestro||
+1224|Virgilio|Confetti|||||urbano|San Gemini|San Gemini||||Magister|||
+1225|Lattanzio||||||urbano|Capitone|Capitone|||||||
+1226|Teodoro|||Lattanzio|||urbano|Capitone|Capitone|||||||
+1227|Sebastiano|Mangonio|||||||||||Dominus|||
+1228|Costantino|Caracciolo||||||||||||||
+1229|Innocenzo||Ciccurello||||||||||Ser|||
+1230|Valerio|Cossegrosse||||||||||||||
+1231|Mattia Angelo|||Giubileo||||||||||||
+1232|Cesare Ottavio||||||urbano|Montalto|Montealto||||Ser|||
+1233|Ippolito|||Cristoforo|||urbano||Poreta||||Magister|Fabbro||
+1234|Antonio|Tonto|||||urbano||Monteregale|||||||
+1235|Gabriele|||Demostene||||||||||||
+1236|Gioacchino|Geremia||||||||||||||
+1237|Andrea Angelo|Rubeo|||||||||||Ser|||
+1238|Samuele|||||||||||||||
+1239|Bernardino|||Samuele|||||||||Ser|||
+1240|Luciangelo|||||||||||||||
+1241|Florido|||Luciangelo|||||||||Ser|||
+1242|Giovanni Battista|Scotto||||||||||||||
+1243|Anselmo|de Facisbonis|||||urbano|San Gemini|San Gemini||||Dominus|||
+1244|Giovanni Battista||Capone|||||||||||||
+1245|Pietro|Logio||||||||||||||
+1246|Domenico|Logio||Pietro|Logio|||||||||||
+1247|Giovanni Antonio||Pastinaccio|Pietro Paolo||||||||||||
+1248|Virgilio|||Battista||||||||||||
+1249|Michele|||||||||||||||
+1250|Giacomo||Verrizo|Michele||||||||||||
+1251|Luca|Coffari||||||||||||||
+1252|Giulio|Cataluzio||||||||||||||
+1253|Pamfilo|||||||||||||||
+1254|Francesco|||Pamfilo||||||||||||
+1255|Giulio|Arca|||||||||||Ser|||
+1256|Vincenzo|Logio||Pietro|Logio|||||||||||
+1257|Michelangelo|||Francesco||||||||||||
+1258|Ludovico|Rodolfino||||||||||||||
+1262|Andrea Angelo|||Antonio|||||||||Ser|||
+1263|Piero|Spera||||||||||||||
+1264|Giovanni Oddono|Scotto||||||||||||||
+1265|Giovanni Maria|Marzio|||||||||||Ser|||
+1266|Virgilio|||Serafino|||||||||Ser|||
+1267|Pietro|Marzio||||||||||||||
+1268|Ludovico|Marzio||Pietro|Marzio|||||||||||
+1270|Marco Antonio|Arca|||||||||||Ser|||
+1271|Battista|Iacobuzzi||||||||||||||
+1272|Sante|Petronci||||||||||||||
+1273|Paolo|Orsino||||||||||||||
+1274|Francesco|Scacchi||||||||||||||
+1275|Agostino|Abunanzio||||||||||||||
+1276|Michele|Traversoni||||||||||||||
+1277|Francesco|Sardi||||||||||||||
+1279|Virgilio|Chiavarello|||||||||||Ser|||
+1280|Zuccarello|||||||||||||||
+1281|Tranquillo|||Antonio|||||||||Ser|||
+1284|Bonifacio|Magnolonti||||||||||||||
+1285|Pietrangelo||||||rurale||Florentillorum|||||||
+1286|Agostino||||||rurale||Florentillorum|||||||
+1287|Agostino||Malvestito|Sebastiano|||urbano||Collescipione|||||||
+1288|Ludovico|||||||||||||||
+1289|Pietro Paolo|||Ludovico||||||||||||
+1290|Terenzio|Cossegrosse||Francesco|Cossegrosse|||||||||||
+1291|Dionisio||||||urbano|Mantova|Mantua|||||||
+1292|Cristiano||||||urbano|Terni|Terni|||||Pastore||
+1293|Antonio|Caronesta||||||||||||||
+1294|Bianchello|Anisello||||||||||||||
+1295|Bernardino|Censio|Andrello|||||||||||||
+1297|Pizzicono|||||||||||||||
+1298|Michelangelo|Fardelletto||||||||||||||
+1299|Ciccorello||||||||||||Ser|||
+1300|Menichella|||||||||||||||
+1302|Pier Francesco|Baldi||||||||||||||
+1303|Fabio|Arca|||||||||||Ser|||
+1304|Angelo|||Francescone||||||||||||
+1305|Innocenzo|Baldi||||||||||||||
+1307|Celestino|Racano||Callisto|Racano|||||||||||
+1308|Serafino||Bianchello|||||||||||||
+1309|Cesare|Comunale||||||||||||Oste||
+1310|Adamo|Boncambio||||||||||||||
+1311|Giovanni||||||urbano|Amelia|Amelia|||||||
+1312|Pamfilo||||||urbano|Lugnano|Lugnano|||||||
+1313|Gaspare||||||urbano|Capitone|Capitone|||||||
+1314|Filippo||||||urbano|Capitone|Capitone|||||||
+1315|Fabrizio||||||urbano|Lugnano|Lugnano|||||||
+1316|Ludovico||||||urbano|Lugnano|Lugnano|||||||
+1317|Bellezza||||||rurale||del Poggio|||||||
+1319|Clemente|Mautino|||||||||||Magister|||
+1320|Angelo|||||||||||||Pizzicarolo||
+1321|Tito|||Agostino|||||||||Magister|||
+1323|Nicolò|||Bartolomeo|||||||||Magister|||
+1324|Boncambio|Boncambio||||||||||||||
+1325|Gregorio|Mangonio||||||||||||||
+1326|Massimiano|||||||||||||||
+1327|Giuseppe|Risio|||||||||||Magister|||
+1328|Pier Vincenzo|Staffelli||||||||||||||
+1329|Quirino|Cardulo|||||||||||Magister|||
+1330|Adamo|||||||||||||||
+1331|Massenzio|||Adamo||||||||||||
+1332|Giovanni|Bolli|||||||||||Magister|Calderario||
+1333|Simone|Bolli|||||||||||Magister|Calderario||
+1334|Cristoforo|Verri||||||||||||||
+1335|Scotano|Verri||Cristoforo|Verri|||||||||Conciatore||
+1336|Giacomo|||Costantino||||||||||||
+1338|Pandolfo|||Nicolò|||urbano|Capitone|Capitone|||||||
+1339|Marco|Maritani|||||urbano|Capitone|Capitone|||||||
+1340|Giovanni Maria|Mullione||Francesco||||||||||||
+1341|Camillo|||Berto||||||||||||
+1342|Siro|degli Alessandri||||||||||||||
+1344|Bernardino|||Salvatore|||urbano|Stroncone|Stroncone|||||||
+1345|Cattilio|||Salvatore|||urbano|Stroncone|Stroncone|||||||
+1346|Marco|Mangonio|||||||||||Magister|||
+1347|Pier Domenico|Schiavi||||||||||||||
+1348|Giovanni|Schiavi||Pier Domenico|Schiavi|||||||||||
+1349|Lazzaro|||||||||||||||
+1350|Paris|||Lazzaro||||||||||||
+1351|Menicoccio|||Filippo||||||||||||
+1352|Pellegrino|||||||||||||||
+1353|Giovanni Battista|||Pietro||||||||||||
+1356|Romolo||||||urbano|Collescipoli|Collescipoli|||||||
+1357|Ennio|Massario|||||||||||Dominus|||
+1358|Carlo|Mautino||||||||||||||
+1359|Brizio|||||||||||||||
+1360|Anselmo|||Brizio||||||||||||
+1361|Giovanni Vincenzo|Belluccio||||||||||||||
+1362|Giovanni Antonio|Risio||||||||||||||
+1363|Natalino|||||||||||||||
+1364|Sante|||Natalino||||||||||||
+1365|Zerbino|||Felice||||||||||||
+1366|Meo|Piccinino||||||||||||||
+1367|Bernabeo|||||||||||||||
+1368|Mario|||Bernabeo||||||||||Sarto||
+1369|Lucido|||||||||||||Mercante||
+1370|Diofebo|||||||||||||||
+1371|Tommaso|||Diofebo||||||||||||
+1372|Camillo|Piccinino||||||||||||||
+1373|Giovanni Paolo|||Filippo||||||||||||
+1374|Germanico|Germanello||||||||||||||
+1375|Zemperello|||||||||||||||
+1376|Giovanni Angelo|||Zemperello||||||||||||
+1377|Antonio|||Giubileo||||||||||||
+1378|Griffone|||||||||||||||
+1379|Francesco|||Griffone||||||||||||
+1380|Clemente|Boccapianella||||||||||||||
+1381|Vincenzo|Capobianco||Virgilio|Capobianco|||||||||||
+1383|Arcangelo|Mautino||||||||||||||
+1384|Giacomo|Risio||||||||||||||
+1385|Morello|||||||||||||Falegname||
+1387|Trivulzio|||||||||||||Sarto||
+1388|Pietro|||Trivulzio|||||||||Magister|||
+1389|Francesco|Tepelli||||||||||||||
+1390|Biagio|Criccante||||||||||||||
+1391|Giovanni Bernardino|Aloisio||||||||||||||
+1392|Antonio|Aloisio||Giovanni Bernardino|Aloisio|||||||||||
+1393|Costantino|||Adriano||||||||||Conciatore||
+1394|Gaudenzia|||||||||||||||
+1395|Agostino|||Gaudenzia||||||||||||
+1396|Bellisario|Marzio||||||||||||||
+1397|Bastianello|||||||||||||||
+1398|Giuliano|||Bastianello||||||||||||
+1399|Andrea|Froscia||||||||||||||
+1400|Giulio|Froscia||Andrea|Froscia|||||||||||
+1401|Attilio|Palorscio||||||||||||||
+1403|Francesco||||||||||||Magister|Calzolaio||
+1404|Pier Antonio|||||||||||||||
+1405|Turpizio|||Pier Antonio||||||||||||
+1406|Francesco|Bono||||||||||||||
+1407|Domenico|Bono||Francesco|Bono||||||||Magister|||
+1408|Giovanni Agostino|||||||||||||||
+1409|Evangelista|||Giovanni Agostino||||||||||||
+1410|Venio||||||urbano|Spoleto|Spoleti|||||||
+1411|Taddeo|Volpe||||||||||||||
+1412|Clemente|Sprecamore||||||||||||||
+1413|Vincenzo|Caronesta||||||||||||||
+1414|Bernardo|Caldarino||||||||||||||
+1415|Marco Antonio||||||urbano|Urbino|Urbino|||||||
+1416|Achille||||||urbano|Norcia|Norscia||||Frater|Medico||
+1417|Lollio||||||urbano|San Gemini|San Gemini||||Magister|Medico||
+1418|Claudio|Scacchi|||||||||||Magister|Medico||
+1419|Roberto|||||||||||||||
+1420|Pietro Antonio|||Roberto||||||||||||
+1421|Pietro|Santellino|||||||||||Dominus|||
+1422|Porzio|||||||||||||Calzolaio||
+1423|Marco|||||||||||||||
+1424|Lisandro|||Marco||||||||||||
+1426|Girolamo||||||urbano|Civita Castellana|Civita Castellana||||Magister|Medico||
+1427|Alessandro|Coluzio|||||urbano|Montefiascone|Montefiascone|||||||
+1428|Giovanni Pietro|||||||||||||||
+1429|Lattanzio|||Giovanni Pietro||||||||||||
+1430|Illuminato||||||urbano|Amelia|Amelia|||||||
+1432|Stefano|||Serafino||Bianchello||||||||||
+1433|Pier Biagio|Cardulo||||||||||||||
+1434|Giovenale|||Serafino||Bianchello||||||||||
+1435|Agostino|||Valerio|||urbano|Todi|Todi|||||||
+1436|Pier Marco||||||urbano||Thiulore|||||||
+1437|Alessandro|Piccolomini|||||||||||Episcopus|||
+1438|Luca Antonio|Cardulo||||||||||||||
+1440|Francesco|Lelli|||||||||||Ser|||
+1441|Fabio|Cardulo||||||||||||||
+1442|Adriano|||||||||||||Calzolaio||
+1443|Camillo|||||||||||||Calzolaio||
+1444|Pier Domenico|||Geronimo||||||||||Sarto||
+1445|Serafino|||||||||||||Orefice||
+1446|Bartolomeo|||||||||||||Fabbro||
+1447|Ludovico|Merlo||||||||||||||
+1448|Scarufa|||||||||||||||
+1449|Giovanni Domenico|||||||||||||Orefice||
+1450|Giovanni|||||||||||||Calzolaio||
+1451|Piero|||Pietro Paolo||||||||||||
+1452|Piero|Blandolisio|||||||||||Ser|||
+1453|Giacomo|Malafoglia||||||||||||||
+1454|Tonia|||||||||||||||
+1455|Stefano|||Tonia||||||||||||
+1456|Claudio|Prospero||Giovanni Battista|Prospero|||||||||||
+1457|Bernardino|Fiorello||||||||||||||
+1458|Vincenzo|delle Poste||||||||||||||
+1459|Giacomo|Cesi||Orsino|Cesio||||||||Dominus|||
+1460|Bella|||||||||||||||
+1461|Nicolò|||Bella||||||||||||
+1462|Francesco|Troili||||||||||||||
+1463|Vincenzo|Arca||Nicolò|Arca|||||||||||
+1464|Battista|Strengario||||||||||||||
+1465|Silvario|||||||||||||Sarto||
+1466|Giovanni Battista|Vipera||||||||||||||
+1467|Virgilio|Mandolino||||||||||||||
+1468|Stefano|Chiariello||||||||||||||
+1469|Nerazio|Andreozzino|||||||||||Dominus|||
+1471|Nicolò|Petreio||||||||||||||
+1473|Corduano|Geremia||||||||||||||
+1474|Giovanni||||||urbano||Giulianello||||Magister|Orologiaio||
+1475|Meo|||||||||||||||
+1476|Marsilio|||Meo|||urbano|Leonessa|Lionessa|||||||
+1477|Giacomo|Orsino||||||||||||||
+1478|Camillo|Cataluzio||||||||||||||
+1479|Battista|Caselle||||||||||||||
+1480|Ludovico|Cecalasina||||||||||||||
+1481|Antonio|Lollio||||||||||||||
+1482|Camillo|Massario|||||||||||Dominus|||
+1483|Giovanni Maria|Valisino|||||||||||Dominus|||
+1484|Antonio|Caldarino||||||||||||||
+1485|Giovanni Domenico|Salvato||||||||||||||
+1486|Pier Martino|||||||||||||||
+1487|Ottaviano|||Pier Martino||||||||||||
+1488|Antonio|Florano|||||||||||Ser|||
+1489|Marinangelo|||||||||||||||
+1490|Angelo|||Marinangelo||||||||||||
+1491|Mattia|Carnevale||||||||||||||
+1493|Cherubino|Sanelli||||||||||||||
+1494|Vincenzo|Piccinetti||||||||||||||
+1495|Orsino|Cesio||||||||||||||
+1496|Gabriele|Santellino|||||||||||Dominus|||
+1497|Pier Agostino|Scotto|||||||||||Dominus|||
+1498|Aurelio|Petreio|||||||||||Ser|||
+1499|Bernardino|Egizio||||||||||||||
+1500|Pier Giovanni|Massario||||||||||||||
+1501|Paolo|Caldarino|||||||||||Ser|||
+1503|Bisiello|Camerario||||||||||||||
+1504|Vincenzo|Sammelli||||||||||||||
+1505|Camillo|||Alessandro||||||||||||
+1506|Andrea|Erolo|||||||||||Dominus|||
+1508|Merchionne|||Giuliano||||||||||||
+1509|Francesco|Atracino|||||||||||Magister|Medico||
+1510|Stefano|Vipera||||||||||||||
+1511|Giovanni|Comunale||||||||||||||
+1512|Antonio|Comunale||Giovanni|Comunale|||||||||||
+1513|Dolio||||||||||||Ser|||
+1514|Giulio|||Dolio||||||||||||
+1515|Melchiorre|||Giuliano||||||||||||
+1516|Nicolò|Finetto|||||urbano|Siena|Siena||||Magister|Medico||
+1517|Bernardino|Giorgio|||||urbano|Siena|Siena||||Magister|Medico||
+1518|Angelo||||||urbano||Fossato||||Magister|Medico||
+1519|Giovanni Domenico|||||||||||||||
+1520|Giovanni Francesco|||Giovanni Domenico||||||||||||
+1521|Nicolò|Lambardo||||||||||||||
+1522|Giovanni Antonio||||||urbano||Valvano|||||||
+1523|Agostino|||Bernardino|||urbano|Narni|Camartana|||||||
+1524|Berto|Pelli||Cenzio|Pelli||urbano|Stifone|Stifone|||||||
+1525|Pasquino|Risio||||||||||||||
+1526|Paduano|Risio||Pasquino|Risio|||||||||||
+1527|Battista||||||||||||Magister|Medico||
+1530|Tommaso|||||||||||||||
+1531|Cherubino|||Tommaso||||||||||||
+1533|Flaminio|||Angelo||||||||||||
+1534|Giovanni Domenico|Silvario||||||||||||||
+1535|Valoriano|Mautino||||||||||||||
+1536|Mario|Arca|||||||||||Dominus|||
+1537|Morello|Pelloccio||||||||||||||
+1538|Giovanni Francesco|||||||||||||||
+1539|Spera|||Giovanni Francesco||||||||||||
+1540|Francesco||||||urbano||Castello|||||||
+1541|Ciano|||||||||||||||
+1542|Giovanni Antonio Risello|Cossegrosse||||||||||||||
+1544|Pietro Francesco|Mautino||||||||||||||
+1545|Sebastiano|||Michele|||rurale||Palaziolo|||||||
+1546|Raffaele|||Michele|||rurale||Palaziolo|||||||
+1547|Marco Tullio||||||urbano|Stroncone|Stroncone|||||||
+1549|Marinangelo||||||||||||Clericus|||
+1550|Anzano|Ispano|||||||||||Magister|Chirurgo||
+1551|Pietro||||||||||||Magister|Muratore||
+1552|Orazio|Prospero|||||||||||Magister|Maestro||
+1553|Tullio|||Pier Nicolò||||||||||||
+1554|Luberto|||Nicolò||||||||||||
+1555|Felice|Chiappino||||||||||||||
+1556|Pietro|Bruschi||||||||||||||
+1557|Giovanni Giulio|||Geronimo||||||||||||
+1558|Simone|||Luca|||urbano|Gubbio|Agubio|||||||
+1559|Valentino|||||||||||||||
+1560|Filippo|||Valentino||||||||||||
+1563|Nero|Facchini||||||||||||||
+1564|Fabio|||Battista||||||||||||
+1565|Cesare||||||urbano|Gubbio|Agubio|||||||
+1566|Pier Vincenzo|Dolce||||||||||||||
+1567|Baldassarre |Pizio||||||||||||||
+1568|Matteo|Iorio||||||||||||||
+1569|Giovanni Paolo|Germanello||||||||||||||
+1570|Cesarino|||||||||||||||
+1571|Battista|||Cesarina||||||||||||
+1572|Stefano|||Tommaso||||||||||||
+1573|Giovanni Nicolò|Lambardo||||||||||||||
+1574|Michele|Andreozzino||||||||||||||
+1575|Vincenzo|Boncambio|||||||||||Dominus|||
+1576|Laura|||||||||||||||
+1577|Domenico|||Laura||||||||||||
+1578|Circunziano|Cardulo||||||||||||||
+1579|Marco Antonio|||||||||||||||
+1580|Giovanni Battista||||||urbano|Sicilia|Sicilia||||Magister|Fabbro||
+1581|Giuliano|Mancini||||||||||||||
+1582|Geronimo||||||||||||Magister|Muratore||
+1583|Mazatana|||||||||||||||
+1584|Fortunata|||||||||||||||
+1585|Persea|||Giovanni Domenico||||||||||||
+1586|Adriano||||||urbano|Capitone|Capitone||||Ser|||
+1588|Valentino|Brunello||||||||||||||
+1589|Ceccolello|||||||||||||||
+1590|Pier Michele|||||||||||||||
+1591|Galieno|||Pier Michele||||||||||||
+1592|Vincenzo|Germanello||||||||||||||
+1593|Costantino|Erolo|||||||||||Dominus|||
+1594|Serafino|Orfi||||||||||||||
+1595|Filippo|Orsi||Serafino|Orfi|||||||||||
+1596|Giacomo|Migliorino|||||urbano|Siena|Siena|||||||
+1597|Giovenale|||Geronimo||||||||||||
+1599|Finisdeo|||Francesco||||||||||||
+1600|Agostino|||Abbondanza||||||||||||
+1601|Giacomo|Franceschino||||||||||||||
+1602|Loreto||||||rurale||Vasciano|||||||
+1603|Fabio|||||||||||||||
+1604|Cesare|||Fabio||||||||||||
+1605|Meo||||||urbano|Leonessa|Lionessa|||||||
+1606|Pompeo|||Meo|||urbano|Leonessa|Lionessa|||||||
+1608|Nucciolo|Risio||||||||||||||
+1609|Giacomo|Equitano||||||||||||||
+1610|Cassio|Morgnono||||||||||||||
+1611|Teofilo|||Sisto||||||||||||
+1612|Ettore||Siculo|Cristoforo||||||||||||
+1613|Ludovico||Fanello|Sante||||||||||||
+1615|Sostimo|Brizio||||||||||||||
+1616|Mattia Angelo|Cicipici||||||||||||||
+1617|Lorenzo|Chiariello||||||||||||||
+1619|Cristiano||||||||||||Ser|||
+1620|Sante|||Cristiano|||rurale||Florentillorum||||Ser|||
+1621|Antonio|Scotussio|||||urbano|Norcia|Norscia||||Magister|Medico||
+1622|Bonifacio|||Giovenale||||||||||||
+1623|Cristoforo|Primanni||||||||||||||
+1624|Giovanni|Ercolarno|||||urbano||Castro Durante||||Magister|Medico||
+1625|Marcello|Arroni|||||||||||Dominus|||
+1626|Serena|||||||||||||||
+1627|Benedetto|||Serena||||||||||||
+1628|Evangelista|||||||||||||||
+1629|Battista|||Evangelista||||||||||||
+1630|Battista|||Sebastiano||||||||||||
+1631|Porfirio|||||||||||||||
+1632|Andrea|||Porfirio||||||||||||
+1635|Giovanni Giacomo|Cesi|||||||||||Dominus|||
+1636|Maritata|||||||||||||||
+1637|Ilario|||Maritata||||||||||||
+1638|Bernardino|Gioannicola||||||||||||||
+1639|Piero|Ciopti||||||||||||||
+1640|Giovanni Battista|Massario|||||||||||Dominus|||
+1641|Stefano||||||urbano||Confinio||||Ser|||
+1643|Vincenzo|Caldoro||||||||||||||
+1644|Lattanzio|||||||||||||||
+1645|Giovanni Francesco|||Lattanzio||||||||||||
+1646|Lucio||||||urbano||Mosellere|||||||
+1647|Colantonio|||Lucio||||||||||||
+1648|Lucio|||Lucio|||urbano||Mosellere|||||||
+1649|Lamberto|Malatesta||||||||||||||
+1650|Polissena|||||||||||||||
+1651|Domenico|||Polissena|||urbano||S. Urbano|||||||
+1652|Alessandro||||||urbano|Siena|Siena||||Magister|Falegname||
+1654|Giovanni Battista|Lionelli|||||urbano|Assisi|Asisi||||Magister|Medico||
+1656|Clemente|||||||||||||||
+1657|Marco Curzio|||Clemente|||urbano||Tarano||||Ser|||
+1658|Gregorio|||||||||||||||
+1659|Porzio|||Gregorio||||||||||||
+1660|Pisandro|||Marco||||||||||||
+1661|Natalino|||||||||||||Oste||
+1662|Alessandro||||||rurale|Narni|Fabrucciano|||||||
+1663|Francesco Maria|Rosati|||||urbano|Terni|Terni|||||||
+1664|Rosciolo||Polo||||urbano|Collescipoli|Collescipoli|||||||
+1665|Ludovico|Caldarino||||||||||||||
+1666|Taddeo|||||||||||||||
+1667|Simone|||Taddeo||||||||||||
+1668|Iliantonio|||||||||||||||
+1669|Diofebo|||Iliantonio||||||||||||
+1670|Daniele|||Camillo||||||||||||
+1672|Mente|||||||||||||||
+1673|Domenico|||Mente||||||||||||
+1674|Martinangelo|Pielli||||||||||||||
+1678|Orazio|Caldarino||||||||||||||
+1680|Michele||Cipolletta|Bernardino||||||||||||
+1681|Picciarella|||||||||||||||
+1682|Giovanni Giacomo|||Picciarella||||||||||||
+1684|Iliangelo|Polso||||||||||||||
+1685|Giovanni Maria|Polso||Iliangelo|Polso|||||||||||
+1686|Vincenzo|||Lorenzo||||||||||||
+1687|Manilio|||||||||||||||
+1688|Simone|||Manilio||||||||||||
+1689|Agostino Angelo|||Vincenzo||||||||||||
+1692|Giustino|||||||||||||Speziale||
+1693|Soastio|Alberto||||||||||||||
+1694|Giovanni Nicolò|Spera||||||||||||||
+1695|Lorenzo|||||||||||||Barilaro||
+1696|Angelo|||Giubileo||||||||||||
+1698|Alessandro|Fabrianello||||||||||||||
+1699|Gilio|Zerenga||||||||||||||
+1700|Anselmo|Zerenga||Gilio|Zerenga|||||||||||
+1701|Mercurio|||Tullio||||||||||||
+1702|Girolamo||||||urbano|Todi|Todi|||||||
+1703|Mercurio|Ferretto||Girolamo||||||||||||
+1705|Mercurio|Miniano||||||||||||||
+1706|Biagio|||||||||||||||
+1707|Angelo|||Giacomo||||||||||||
+1708|Sebastiano|||Giovanni Felice||||||||||||
+1709|Pier Francesco|||Priamo||||||||||||
+1710|Glorizia|||||||||||||||
+1711|Mario|Casolo||||||||||||||
+1714|Giovenale|Casella||||||||||||||
+1715|Giovanni Felice|Casella||Giovenale|Casella|||||||||||
+1716|Cecco|||Taddeo||||||||||||
+1717|Agostino|||Natalino||||||||||||
+1718|Nicolò|||||||||||||Falegname||
+1719|Pietro Paolo|Volpe||||||||||||||
+1720|Merchionne|Volpe||Pietro Paolo|Volpe|||||||||||
+1721|Ottavio|Franceschessio||||||||||||||
+1722|Giovanni|Caldarino|||||||||||Magister|||
+1723|Giovanni Battista|Morelli||Attilio|Morelli|||||||||||
+1724|Fiorenzo|||Pietro Paolo||||||||||||
+1725|Giuseppe|||Giovanni Domenico||||||||||Oste||
+1729|Alfonso|||||||||||||||
+1730|Giovanni Giacomo|||Alfonso||||||||||||
+1735|Balletta||||||||||||Capitaneus|||
+1736|Giulio Cesare|Rodolfino|||||urbano|Camerino|Camerino||||Magister|||
+1737|Marco|Curzio|||||||||||Magister|||
+1738|Farina|||||||||||||||
+1739|Ottaviano|||Farina||||||||||||
+1740|Francesco||||||||||||Magister|||
+1741|Prodozio|||Francesco||||||||||||
+1742|Sinibaldo||Bisavo|Antonio||||||||||||
+1743|Cosmo|||||||||||||Fabbro||
+1744|Paolo Emilio|Silvario||||||||||||||
+1745|Giovanni Giacomo|||Geronimo||||||||||||
+1746|Lucullo|Spinelli|||||||||||Dominus|||
+1747|Attilio|||Giuliano||||||||||||
+1749|Stefano|||||||||||||Ciabattino||
+1750|Agostino|Blandolisio||||||||||||||
+1752|Leonardo|||Giuliano||||||||||||
+1753|Menicoccio|||||||||||||||
+1754|Silla|||Menicoccio||||||||||||
+1755|Ludovico|Pelloccio||||||||||||||
+1756|Bernardino|Squarta||||||||||||||
+1757|Antino|Lelli||||||||||||||
+1758|Marco Antonio|||Bernardino||||||||||||
+1759|Filippo|Luparelli|||||||||||Magister|||
+1760|Pompeo|||Vincenzo|||||||||Magister|||
+1761|Paolo|Bartoccio||||||||||||||
+1762|Giovanni Bernardino|Scotto|||||||||||Dominus|||
+1763|Giovanni Giacomo|Ferretto||||||||||||||
+1764|Giovanni Domenico|Lambardo||||||||||||||
+1765|Anselmo|Mancia||||||||||||||
+1766|Bernardino|Bianchino||||||||||||||
+1769|Geronimo|||Bernardino||||||||||||
+1770|Zita|de Agostini||||||||||||||
+1771|Giacomo|Marzio||||||||||||||
+1772|Lucido|Lucido||||||||||||||
+1773|Vincenzo|Fabrianello||||||||||||||
+1774|Pandolfo|||Martinangelo||||||||||||
+1775|Francesco Angelo|Tosto||||||||||||||
+1776|Marinangelo|Cossegrosse||||||||||||||
+1777|Cassio|Benincasa||||||||||||||
+1778|Agostino|Stinchellio||||||||||||||
+1779|Carduccio|Poeti||||||||||||||
+1780|Giovanni Battista|Mancinello||||||||||||||
+1781|Teodoro|||||||||||||Broccaro||
+1782|Giovanni Andrea|||||||||||||||
+1783|Simeone|||Giovanni Andrea||||||||||||
+1784|Leone|||||||||||||||
+1785|Spaziano|||Leone||||||||||||
+1786|Severo|||Alessandro||||||||||||
+1787|Gregorio|||Tommaso||||||||||||
+1788|Pier Giovanni|||||||||||||||
+1789|Ludovico|||Pier Giovanni||||||||||||
+1790|Circunziano|Verri||||||||||||||
+1791|Pietro Paolo|Franceschessio||||||||||||||
+1792|Giovanni Vincenzo|Pielli||||||||||||||
+1793|Agostino|||Ferrante||||||||||||
+1794|Cesare|Pasquinucci||||||||||||||
+1795|Angelo|Andriani||||||||||||||
+1796|Tommaso|Cardarello||||||||||||||
+1797|Domenico|Pelloccio||||||||||||||
+1798|Lattanzio||Scopa|||||||||||||
+1799|Pietro|Castellano||||||||||||Oste||
+1800|Pietro|Iovenelli||||||||||||||
+1802|Giovanni Maria|||||||||||||||
+1803|Giovanni Angelo|||Giovanni Maria||||||||||||
+1804|Arcangelo|||Virgilio||||||||||||
+1805|Geronimo|Lambardo||||||||||||||
+1806|Proscepio|||||||||||||Calzolaio||
+1807|Sempronio|||Meo||||||||||||
+1808|Paolo|Cicchi||||||||||||||
+1809|Lorenzo|Iovenelli||||||||||||||
+1810|Alessandro|Frabucciano||||||||||||||
+1812|Gregorio|Gravita||||||||||||||
+1813|Vincenzo|Poibonzi||||||||||||||
+1814|Francesco|||Pascuzio||||||||||||
+1815|Pier Agostino|||||||||||||Molinaro||
+1816|Lorenzo|Benevieni||||||||||||||
+1817|Annibale|Narsini||||||||||||||
+1818|Anselmo|||Giovanni Domenico||||||||||||
+1819|Angelo|||Giovanni Domenico||||||||||||
+1820|Giuseppe|||||||||||||||
+1821|Pietro Agostino|||Giuseppe||||||||||||
+1822|Pompeo|||||||||||||Barbiere||
+1824|Giovanni Geronimo|||Fabiano||||||||||||
+1825|Fulgenzio|||Domenico||||||||||||
+1826|Mercurio|||Giovanni Maria||||||||||||
+1827|Alessio|||Giovanni||Sciarpa||||||||||
+1828|Giorgio|||Tommaso||||||||||||
+1829|Virgilio|||||||||||||||
+1830|Isidoro|Celio||||||||||||||
+1831|Pier Agostino|Carnevale||||||||||||||
+1832|Angelo|Stufa|||||urbano|Firenze|Florentia||||Dominus|||
+1833|Lucido|||Fabio|||urbano||Petrogio|||||||
+1834|Giovanni|||Lucido||||||||||||
+1835|Attilio|||Lucido||||||||||||
+1836|Domenico|||Lucido||||||||||||
+1837|Alessandrina|||Lucido||||||||||||
+1838|Venere|||Lucido||||||||||||
+1839|Isabella|||Lucido||||||||||||
+1840|Fabio||||||urbano||Petrogio|||||||
+1841|Giovanni Matteo||Spagna|||||||||||||
+1842|Domenico||Menico|Francesco||||||||||||
+1843|Tommaso|Mazzuto|||||urbano||S. Severino|||||||
+1844|Vincenzo|Cardulo||Nerva|Cardulo||||||||Magister|||
+1845|Barbarossa||||||urbano|Collescipoli|Collescipoli|||||||
+1846|Matteo||||||rurale||Florentillorum|||||||
+1847|Giulio|||Matteo|||rurale||Florentillorum|||||||
+1848|Pasquale|||||||||||||||
+1849|Domenico|||Pasquale|||urbano||Meccania|||||||
+1850|Crisogono|Cardulo|||||||||||Magister|||
+1851|Mariano|||Domenico|||urbano|Roma|Roma|||||||
+1852|Pietrangelo|||||||||||||||
+1853|Geronimo|||Pietrangelo||||||||||||
+1854|Mariuccio|||||||||||||||
+1856|Felice|||Menicoccio|||urbano|Acuzzo|Acuzzo|||||||
+1857|Bernardo|||Adriano|||urbano||S. Urbano|||||||
+1858|Angelo|Racano|||||||||||Magister|||
+1859|Bartolomeo|Genna||||||||||||||
+1860|Domenico|Calennio||||||||||||||
+1862|Medeo|Macaracio||||||||||||||
+1863|Carlo|Moscatello||||||||||||||
+1864|Matteo|Spinelli||||||||||||||
+1866|Angelo|Carpentino||||||||||||||
+1867|Giovanni Lorenzo|||||||||||||||
+1868|Marco Antonio|||Giovanni Lorenzo||||||||||||
+1869|Restauro|||Francesco||||||||||||
+1870|Angelo|Franceschessio||||||||||||||
+1871|Postumo|Arca||||||||||||||
+1872|Pietro Paolo||Gambacorta|||||||||||||
+1873|Clementonio|||||||||||||||
+1874|Calennio|||||||||||||||
+1875|Soastio|||Michele||||||||||||
+1876|Matteo|||Mario||||||||||||
+1878|Simone|||Ludovico||||||||||||
+1879|Antonio|Ricci||||||||||||||
+1880|Eusebio|Tomassini||||||||||||||
+1881|Antonio||||||urbano|Assisi|Asisi|||||||
+1882|Nicolò|||||||||||||Fabbro||
+1883|Giovanni Battista|||||||||||||Sarto||
+1884|Marco|||Bartolomeo||||||||||||
+1885|Silvestro|||||||||||||||
+1886|Salvatore|||Silvestro||||||||||||
+1887|Simone Angelo|||||||||||||||
+1888|Matteo|||Simone Angelo||||||||||||
+1889|Matteo|||||||||||||Capraio||
+1890|Marinangelo|||Iliantonio||||||||||||
+1891|Diodato|Lambardo||||||||||||||
+1892|Giovanni Egidio|Petricca||||||||||||||
+1893|Giovanni||||||urbano|Spoleto|Spoleti|||||||
+1894|Bernardino|Tepelli||||||||||||||
+1895|Giovanni Domenico|||Prudenzio||||||||||||
+1896|Giacomo|Zuccari||||||||||||||
+1897|Malatesta|Onofrio||||||||||||||
+1898|Francesco|||Domenico||||||||||||
+1899|Geronimo||||||urbano||Vacone|||||||
+1900|Pietro Tedesco|||||||||||||||
+1901|Sebastiano|Tedesco||Pietro Tedesco||||||||||||
+1902|Giovanni|Peri|||||rurale||Florentillorum|||||||
+1903|Fabrizio|Peri||Giovanni|Peri||rurale||Florentillorum|||||||
+1905|Nicodemo|||||||||||||||
+1906|Mattia Angelo|||Nicodemo||||||||||||
+1907|Tranquillo||||||||||||Ser|||
+1908|Francesco Angelo|||||||||||||||
+1909|Spera|||||||||||||||
+1910|Leonardo||||||urbano||Taizano|||||||
+1911|Pier Santo|||Leonardo|||urbano||Taizano|||||Pastore||
+1914|Giovanni Paolo||||||urbano||Monteregale|||||||
+1915|Pietro|||Giovanni Paolo|||urbano||Monteregale|||||||
+1916|Domenico|Lombardo|||||||||||Magister|||
+1917|Badino|||||||||||||||
+1918|Salvatore|Ospite||||||||||||||
+1919|Marco|Cioffi||||||||||||||
+1920|Cristoforo|||||||||||||Ortolano||
+1923|Cozetto|||||||||||||||
+1924|Geronimo|Malfetta|||||||||||Frater||Francescani|
+1927|Pastinaccio|||||||||||||||
+1928|Verruzio|||||||||||||||
+1929|Tiberio|Ciopti|||||||||||Ser|||
+1930|Giovanni Maria||||||||||||Ser|||
+1931|Pavonischio|Polidoro|||||||||||Dominus|||
+1932|Fabio|Risio|||||||||||Dominus|||
+1933|Giulio|Brunello|||||||||||Dominus|||
+1934|Nicolò|||Luca|||||||||Dominus|||
+1935|Giulio|||Gioacchino|||||||||Ser|Notaio||
+1936|Massimo|Caldarino|||||||||||Dominus|||
+1937|Alessandro|Tolesano|||||||||||Magister|Pittore||
+1938|Concezio|||Flaminio|||||||||Dominus|||
+1939|Pietro|||Flaminio||||||||||||
+1940|Proserpio|Cerquezzo||||||||||||||
+1941|Giovanni Ranaldo|Monaldesco||||||||||||||
+1942|Giovanni Battista|Baffi|||||||||||Magister|Medico||
+1943|Stefano|Speranzi|||||urbano||Giano||||Magister|||
+1944|Enrico|||||||||||||||
+1945|Damiano|||Enrico|||urbano|Cittaducale|Civitas ducalis|||||||
+1946|Astolfo||||||rurale||castro Cupparo/dalle Coppe|||||||
+1947|Volunnio|Boncambio|||||||||||Dominus|||
+1948|Persilio|||Paolo|||urbano||S. Urbano|||||||
+1949|Antonio|Basso|||||urbano|Sassoferrato|Sassoferrato||||Magister|Medico||
+1950|Zerbino|||||||||||||Oste||
+1951|Marzocco|||||||||||||||
+1952|Mario|||Marzocco||||||||||||
+1953|Pascuccio|||Mario|||urbano|Gubbio|Agubio|||||||
+1954|Lorenzo||||||urbano|Gubbio|Agubio|||||||
+1955|Giovanni Battista|||Luca||||||||||||
+1956|Sensino||||||||||||Magister|Muratore||
+1957|Baccio|||||||||||||Sellaio||
+1958|Orsino||||||urbano||Piediluco|||||Pescivendolo||
+1959|Zanobio|Romano||||||||||||||
+1960|Geronimo|Bonafolia||||||||||||||
+1961|Bernardino|||Geronimo||||||||||||
+1962|Aloisio|||Angelo|||||||||Magister|||
+1963|Bartolozio|||||||||||||Muratore||
+1964|Giovanni Domenico||||||||||||Magister|Falegname||
+1965|Massimiliano|||||||||||||Cavallario||
+1967|Pietro Agostino|||Paolo||||||||||||
+1968|Pietro|Cronizio||||||||||||||
+1969|Bisavo|||Giovenale||||||||||||
+1970|Michele|Lombardo|||||||||||Magister|||
+1971|Stefano|Tepelli||||||||||||||
+1973|Girolamo|Orsino||||||||||||||
+1974|Giovanni Giacomo|||Giovanni Agostino||||||||||||
+1975|Giovanni Domenico|Santellino||||||||||||||
+1976|Francesco|Santellino||Giovanni Domenico|Santellino||||||||Dominus|||
+1977|Pietro Paolo|Santello|||||rurale|Itieli|Ithieli|||||||
+1978|Paolo Emilio|Piccinino||||||||||||||
+1979|Innocenzo|Bubalo|||||||||||Dominus|||
+1980|Alberico|||Fanello||||||||||Mulattiere||
+1981|Francesco|Pecoli||||||||||||Mercante||
+1982|Giovenale|Pitanta||Giovanni|Pitanta|||||||||||
+1983|Alessandro|Zefiro||||||||||||||
+1984|Pier Agostino|||||||||||||Scalpellino||
+1985|Simone|||Angelo||||||||||||
+1986|Evangelista|||Simone||||||||||||
+1987|Nevio|||||||||||||||
+1988|Agostino Angelo|Stati||||||||||||||
+1989|Matteo|Lollio||||||||||||||
+1990|Prudenzio|||||||||||||Mulattiere||
+1991|Domenico|Vipera||||||||||||||
+1992|Pietro Paolo|||Gregorio||||||||||||
+1993|Orazio|Pica||||||||||||||
+1994|Sebastiano|||||||||||||Falegname||
+1995|Circunziano|||||||||||||||
+1996|Pier Agostino|||Michele||||||||||||
+1997|Silvestro|Blandolisio||||||||||||||
+1998|Marilo|||Giovanni||Sciarpa|rurale|Finocchieto|Finocchieto|||||||
+2000|Fulvio|Tanzio||||||||||||||
+2001|Marchionne||||||urbano|Montoro|Montoro||||Dominus|||
+2002|Biagio|||Antonio||||||||||||
+2003|Giovanni Battista|Bona||||||||||||||
+2004|Timoteo|||Giovenale||||||||||||
+2005|Arcangelo|Bonafolia||||||||||||||
+2006|Stefano|Balegini||||||||||||||
+2007|Giovanni|dalle Coppe||||||||||||||
+2008|Arcadio|Bazzuccari||Achille|Bazzuccari|||||||||||
+2009|Costumio|||||||||||||||
+2010|Dionisio|Braccio|||||||||||Magister|Medico||
+2012|Marco|Titiola||||||||||||||
+2013|Giovanni Battista||||||urbano|Leonessa|Lionessa|||||||
+2014|Orsino|||Leone|||urbano||Piediluco|||||Pescivendolo||
+2015|Alessandro|Boncambio|||||||||||Magister|Macellaio||
+2017|Arminio|||||||||||||||
+2018|Pietro|||Arminio||||||||||||
+2019|Emilio|||Pier Marco||||||||||||
+2020|Cristoforo|Guerra||||||||||||||
+2021|Giovanni|Ponga di Ferro||||||||||||||
+2022|Pietro Paolo|||||||||||||Macellaio||
+2023|Sensino|||||||||||||||
+2024|Mercurio|||Sensino||||||||||||
+2025|Paola|Capogrosso||||||||||||||
+2027|Porzia|||Lazzaro||||||||||||
+2028|Eusebio|||||||||||||Fornaio||
+2029|Loreto|||||||||||||Mulattiere||
+2032|Giubilia|||Menicoccio||||||||||||
+2034|Attilio|Arca||||||||||||||
+2035|Giovanni Giacomo|Nerotti||||||||||||||
+2036|Urbano|Celio||||||||||||||
+2037|Giorgio|||Mattia||||||||||||
+2038|Attilio|Marcellino|||||urbano||Monte Poliziano||||Dominus|||
+2040|Vincenzo|Tonto||||||||||||||
+2041|Clemente|Oddo||||||||||||||
+2042|Giovanni Battista|Iacobilli|||||urbano||Montefalco||||Magister|Chirurgo||
+2043|Bernardino|Colangelo|||||urbano||Colle vetus||||Ser|||
+2044|Caro|||Cipiccia|||rurale|Itieli|Ithieli|||||||
+2045|Francesco|Fardelletto||||||||||||Fornaio||
+2046|Daniele|Birago|||||||||||Dominus|||
+2047|Giovanni|||||||||||||Macellaio||
+2048|Ippolito||||||||||||Magister|Sarto||
+2050|Giovanni Bernardino|Pastacchia||||||||||||||
+2051|Graziano|||||||||||||||
+2052|Massimiliano|||Graziano||||||||||||
+2053|Pietro|Treuzio||||||||||||||
+2054|Stefano|Cozio||||||||||||||
+2055|Giovanni Domenico|Rodolfino||||||||||||||
+2056|Mercurio|Prospero||||||||||||||
+2057|Domenico|Catana||||||||||||||
+2058|Monaldo|||Serafino||Bianchello||||||||||
+2059|Grifone|Arca||||||||||||||
+2060|Francesco|Arca||Grifone|Arca||||||||Dominus|||
+2061|Giovanni|Ticinello||||||||||||||
+2062|Giovanni Antonio|Lombardo||||||||||||||
+2063|Pietro Paolo|||||||||||||Falegname||
+2064|Giulio|Belluccio||||||||||||||
+2065|Anselmo|Sintio||||||||||||||
+2066|Nicolò|Morone|||||urbano||Gualdo|||||||
+2067|Giulio|||Luca|||||||||Ser|Notaio||
+2068|Pietro|Todino||||||||||||Mulattiere||
+2069|Baldassarre|Mangonio|||||||||||Magister|||
+2070|Bernardino|Benevieni||||||||||||||
+2072|Vincenzo|Paduano||||||||||||||
+2074|Giovanni Geronimo|Lotto||||||||||||||
+2075|Crescenzio|||||||||||||||
+2076|Ottaviano|Ottone||||||||||||||
+2077|Giovenale|||Marco Antonio||||||||||||
+2078|Ludovico|Petreio||||||||||||||
+2079|Giacomo|Palorscio||||||||||||||
+2080|Caldarozzo|||||||||||||||
+2081|Andreono|||||||||||||||
+2082|Petrino|Lombardo|||||||||||Magister|||
+2083|Bertoldo|Lombardo|||||||||||Magister|||
+2084|Giovanni Bernardino|||Paolo||||||||||||
+2085|Laudeno|||Battista||||||||||||
+2086|Ippolito|Pagnolo||||||||||||||
+2087|Giustino|Celio||||||||||||||
+2088|Tulio|||||||||||||||
+2089|Andrea|||Tulio||||||||||||
+2091|Costantino|||Lorenzo||||||||||||
+2092|Francesco|||Pietrangelo||||||||||||
+2093|Massimo|||Barnabeo||||||||||||
+2094|Tommaso|Germanello||||||||||||||
+2095|Vincenzo|Deriese||||||||||||||
+2096|Lucido|Mencario||||||||||||||
+2097|Angelo Antonio|Romano||||||||||||||
+2098|Angelo|||Pietro Paolo||Gambacorta||||||||||
+2099|Francesco Angelo|||Giovenale||||||||||||
+2100|Massimo|||||||||||||Sarto||
+2101|Marco|||Pandolfo||||||||||||
+2102|Ettore|||||||||||||||
+2103|Cristoforo|||Ettore||||||||||||
+2104|Antonio|||Giovanni Bernardino||||||||||||
+2105|Pietro Paolo|Gulpi||||||||||||||
+2106|Antonio|||Lorenzo||||||||||||
+2107|Marinangelo|Fantozzi||||||||||||||
+2108|Giuseppe|||Mattia||||||||||||
+2109|Francesco|||Giovenale||||||||||||
+2110|Tullio|||Meo||||||||||||
+2111|Proserpio|||Giuliano||||||||||||
+2112|Monaldo|||Filippo||||||||||||
+2113|Ludovico|Tossechi||||||||||||||
+2114|Paolo|Resenga||||||||||||||
+2115|Giovanni Battista|Lombardo||||||||||||||
+2117|Bisavo|||||||||||||||
+2118|Sinibaldo|||Bisavo||||||||||||
+2119|Pier Luigi|||||||||||||||
+2120|Antonio|Giudici|||||urbano|Leonessa|Lionessa||||Ser|||
+2121|Giulio|||||||||||||Bastaro||
+2122|Pascuzio|||||||||||||||
+2123|Pietro Alberto|Saviola||||||||||||||
+2124|Paride|Petronci||||||||||||||
+2125|Pier Domenico|||||||||||||||
+2126|Giovanni|||Pier Domenico||||||||||||
+2127|Vincenzo|Pazzaglia||||||||||||||
+2128|Pietro Francesco|Malafoglia||||||||||||||
+2129|Giustino|||||||||||||Funaro||
+2130|Apollonio|Blandolisio||||||||||||||
+2131|Antonio|Petrucci|||||urbano|Bevagna|Bevagna||||Ser|||
+2132|Aristeo|Fiorello|||||rurale||Florentillorum||||Magister|||
+2133|Ranuccio|Baschi||||||||||||||
+2134|Vincenzo|Iovenelli||Livio|Iovenelli|||||||||Ripetitore||
+2135|Geronimo|Bandini|||||urbano|Imola|Imola|||||||
+2136|Marco Tullio|||||||||||||Macellaio||
+2137|Serafino|||||||||||||Calzolaio||
+2138|Costantino|||Felice||||||||||||
+2139|Romolo|Arca||Clemente|Arca|||||||||||
+2140|Muzio|||Luca Antonio|||urbano|Tarquinia|Corneto|||||||
+2141|Zita||||||||||||Magister|||
+2142|Domenico|||Attilio||||||||||Broccaro||
+2143|Vico|Piccinino||||||||||||||
+2144|Geronimo||||||||||||Magister|Scarsellaro||
+2145|Ceccofreddo|||||||||||||||
+2146|Vincenzo|||Ceccofreddo||||||||||||
+2147|Francesco||Maschiolo|Evangelista||||||||||||
+2148|Caro||||||||||||Magister|||
+2149|Lancillotto|Cardulo|||||||||||Magister|||
+2150|Evangelista|||||||||||||Oste||
+2151|Sensino|||Matteo||||||||||||
+2152|Cortone|Pielli||||||||||||||
+2154|Carissa|||||||||||||||
+2155|Giovenale|||Carissa||||||||||||
+2156|Cesare|||Giovenale||||||||||||
+2157|Paolo|||Ludovico||||||||||||
+2158|Gaspare|||Angelo||||||||||||
+2159|Agostino Angelo|||Geronimo||||||||||||
+2160|Michelangelo|Lotto||||||||||||||
+2161|Domizio|||Iliantonio||||||||||||
+2162|Fanello|||||||||||||||
+2163|Marzio|Fanelli||||||||||||||
+2164|Muzio|Saviola||||||||||||||
+2166|Alessandro|||Piero||||||||||||
+2168|Carlo|Fabrucciano||||||||||||||
+2169|Giovanni|||Martinangelo||||||||||||
+2170|Marco Curzio||||||||||||Magister|||
+2171|Mercurio||||||urbano||Servigliano||||Capitaneus|||
+2172|Giovanni Domenico|Bianchi|||||||||||Magister|Architetto||
+2173|Alfonso|||Matteo||||||||||||
+2174|Delio|Rodolfi|||||urbano|Todi|Todi|||||Studente||
+2175|Francesco||||||||||||Magister|Falegname||
+2176|Fausto|Gentile|||||urbano|Spello|Spello||||Dominus|||
+2178|Cencio|Bisogni||||||||||||||
+2179|Gregorio|||Mattia Angelo||||||||||||
+2180|Giovenale|||Ettore||||||||||||
+2181|Bernardino|Siringa||||||||||||||
+2182|Pirro|||||||||||||Ortolano||
+2183|Ilario|Chiappino||||||||||||||
+2184|Mattista|||||||||||||||
+2185|Pietro|||Mattista||||||||||||
+2186|Postumo|||Luca||||||||||||
+2187|Giacomo|Checcari||||||||||||||
+2188|Erasmo|||Virgilio||||||||||||
+2189|Andrea|Titiola||||||||||||||
+2190|Lucido|Catarino||||||||||||||
+2191|Giovanni Vincenzo|||||||||||||Calzolaio||
+2195|Sabatino|||Gregorio|||rurale||Vasciano|||||Bufalaro||
+2196|Beffanio|||Francesco|||urbano|Capitone|Capitone|||||||
+2197|Gabriele|||Giovanni Angelo||Merlatta|urbano||Taizano|||||||
+2198|Aurelio|Arroni|||||||||||Magister|||
+2199|Pietro|Corrado|||||||||||Dominus|||
+2200|Pietro|Pacetto|||||||||||Ser|||
+2201|Francesco|Roccio|||||||||||Ser|||
+2202|Fedro|Scevola|||||urbano|Spoleto|Spoleti||||Domina|Avvocato||
+2203|Bernardino|Arca|||||||||||Dominus|||
+2204|Andrea Battista|||Cesarino||||||||||||
+2205|Orazio|Cattarcia||||||||||||||
+2206|Vincenzo|||Andrea||||||||||||
+2207|Marziano|Queto||||||||||||||
+2208|Paolo|Pelloccio||||||||||||||
+2209|Caterino|Borghi||||||||||||||
+2210|Mercurio|Molenari|||||||||||Capitaneus|||
+2211|Sensionne||||||urbano||abbatia Firentili||||Capitaneus|||
+2214|Guidone||||||rurale|Itieli|Ithieli|||||||
+2215|Venturino|||Andrea||||||||||||
+2216|Pier Agostino|Tonto||||||||||||||
+2217|Antonio|Tonto||Pier Agostino|Tonto|||||||||||
+2218|Maulo|||Giovanni||Sciarpa|rurale|Finocchieto|Finocchieto|||||||
+2219|Andrea|||Cesarino||||||||||Fabbro||
+2220|Giacomo|||Pasquino||||||||||||
+2221|Iliano|||Michelangelo||||||||||||
+2222|Piero|||Andrea|||urbano|Bologna|Bononia|||||||
+2223|Baldo|||Sensino||||||||||||
+2224|Perello|||Francesco||||||||||||
+2225|Ponca di Ferro|||||||||||||||
+2226|Giovanni|||Ponca di Ferro||||||||||||
+2227|Cataluccio|Cataluzio||||||||||||||
+2228|Consalvo|||Livio||||||||||||
+2229|Marchionne|||Pietro Paolo||Gambacorta||||||||||
+2230|Petrino|||||||||||||||
+2231|Giovanni Giacomo|||Petrino||||||||||||
+2232|Giacomino|||||||||||||||
+2233|Mattia Antonio|||Giacomino||||||||||||
+2235|Pasquino|||Mercurio||||||||||||
+2236|Francesco|||Valerio||||||||||||
+2237|Paolo|Cardulo||||||||||||||
+2238|Domizio|||Diofebo||||||||||||
+2239|Domenico|||Clemente||||||||||||
+2240|Bruschetto|||||||||||||||
+2241|Famiano|||Bruschetto||||||||||||
+2242|Pier Lattanzio|||||||||||||||
+2243|Giuliano|||Pier Lattanzio||||||||||||
+2244|Cristoforo||||||||||||Magister|Muratore||
+2245|Damiano|||Andrea||||||||||||
+2246|Giovanni Vincenzo|Iovenelli||||||||||||||
+2247|Giovanni|Ferratini|||||urbano|Amelia|Amelia|||||||
+2248|Marco Antonio|||Giuliano||||||||||||
+2249|SImone|||Pietro Paolo||Gambacorta|urbano|Stroncone|Stroncone|||||||
+2250|Alessandro||Perugia|||||||||||Fornaio||
+2251|Evangelista|Cherubino||||||||||||Fornaio||
+2252|Severo|||||||||||||Fornaio||
+2253|Flaminio|Pantanelli||||||||||||||
+2254|Ulisse|||Paolo|||urbano||S. Urbano|||||||
+2255|Agabito||||||urbano|Spoleto|Spoleti|||||||
+2256|Felice|||Agabito|||urbano|Spoleto|Spoleti|||||||
+2257|Americo|||||||||||||||
+2258|Vincenzo|||Americo||||||||||||
+2259|Domenico|||Simone|||urbano|Capitone|Capitone|||||||
+2260|Fulvio|Pallica|||||urbano||San Polo|||||||
+2262|Fabio|Luzi|||||urbano|Vignanello|Vignanello|||||||
+2263|Giovanni|Nicolini|||||rurale||Abbadia|||||||
+2264|Demetrio|Giudici|||||urbano|Leonessa|Lionessa||||Magister|Maestro||
+2265|Vincenzo||||||urbano|Marta|Marta|||||||
+2266|Adriano|||Vincenzo|||urbano|Marta|Marta|||||||
+2267|Papirio|||||||||||||||
+2268|Ludovico|||Papirio|||urbano||Ripatransona|||||||
+2270|Marzio|||Felice Angelo|||urbano|Capitone|Capitone|||||||
+2271|Giovanni|Simoncelli|||||||||||Ser|Notaio||
+2272|Paolo|Capotosto|||||rurale||Abbadia||||Ser|Notaio||
+2273|Giustiniano|Giustiniani|||||urbano|Acquasparta|Acquasparta|||||||
+2275|Massimo|||Domenico||||||||||||
+2276|Pietro|||Francesco||||||||||||
+2277|Giovanni Battista|||Pietro||||||||||||
+2278|Antonio|||Fabio|||urbano||Taizano|||||||
+2279|Pietrino||||||||||||Magister|Muratore||
+2280|Flamino|Rotelli||Giuliano|Rotelli|||||||||||
+2281|Manfredo|||||||||||||||
+2282|Muttio|||Manfredo||||||||||||
+2283|Nicolò|Passero|||||urbano|Montefalco|Montefalco||||Capitaneus|||
+2284|Brancazio|||Domenico||||||||||||
+2286|Zanobio||||||urbano|Borgaria|Borgaria|||||||
+2287|Cinzio|Iovenelli||||||||||||||
+2288|Angelo|Boccapianella||||||||||||||
+2289|Francesco|Schibonio||||||||||||||
+2290|Silla|Mangonio||||||||||||||
+2291|Giovanni Antonio|||||||||||||||
+2292|Biagio|||Giovanni Antonio|||urbano|Capitone|Capitone|||||||
+2294|Vincenzo|Bensivenuto|||||urbano|Capitone|Capitone|||||||
+2295|Giovanni|Braccio|||||urbano||Vacone|||||||
+2296|Cristo|||||||||||||||
+2297|Piero|||Cristo||||||||||||
+2298|Angelo|||Piero||||||||||||
+2299|Francesco|Malfettano|||||urbano|Stroncone|Stroncone|||||||
+2300|Cerrone|||||||||||||||
+2301|Domenico|Cerrone|||||urbano|Collescipoli|Collescipoli|||||||
+2302|Innocenzo|||Cerrone|||urbano|Collescipoli|Collescipoli|||||||
+2303|Narsino|Narsini||||||||||||||
+2304|Bernardino|Bianco|||||||||||Magister|||
+2305|Giovanni|||Filippo|||urbano|Todi|Todi||||Magister|Muratore||
+2308|Domenico|Tempestino||||||||||||||
+2309|Giordano|Benevieni||Anselmo|Benevieni|||||||||||
+2310|Sciurta|||||||||||||||
+2311|Domenico|||Sciurta||||||||||||
+2312|Giovanni Paolo|Boncavalli||||||||||||||
+2313|Lattanzio||||||rurale||Abbadia|||||||
+2314|Sebastiano||||||||||||Ser|||
+2315|Aurelio|Pellino|||||urbano|Perugia|Perugia||||Magister|Maestro||
+2316|Tiburzio|||Pietro||||||||||||
+2317|Petronio|Cardulo||||||||||||||
+2318|Spagnoletto|||||||||||||Tessitore||
+2319|Manano|||Serafino||Bianchello||||||||||
+2320|Bernardino|||Pietrangelo||||||||||||
+2321|Muzio|Corallo||||||||||||||
+2322|Gregorio|Tradite||||||||||||||
+2323|Giovanni|Crocicchia||||||||||||||
+2324|Francesco Angelo|||||||||||||Calzolaio||
+2325|Giovanni Antonio|Morruzze||||||||||||||
+2326|Santino|Lombardo||||||||||||||
+2327|Pamfilo|||||||||||||Sarto||
+2328|Giovanni Agostino|||Pancrazio||||||||||||
+2329|Sebastiano|Picchio||||||||||||||
+2330|Giovanni|Scacchi||||||||||||||
+2331|Francesco Angelo|||||||||||||Funaro||
+2332|Maulo|||||||||||||||
+2333|Maulo|||Maulo||||||||||||
+2334|Mitrano|Feliziani||||||||||||||
+2335|Ulisse|||Taddeo||||||||||||
+2336|Paolo|Magnavacca|||||urbano||Monte Leone|||||||
+2337|Claudio|Benigni|||||urbano|Assisi|Asisi|||||||
+2338|Febo|Cardulo||||||||||||||
+2339|Pietro|Piccinino||||||||||||||
+2340|Giovanni Andrea|Fardelletto|||||||||||Magister|||
+2341|Francesco|Capocaccia||||||||||||||
+2342|Sensino|Verri||||||||||||||
+2343|Giovanni Domenico||||||urbano|Acquasparta|Acquasparta|||||Architetto||
+2344|Aurelio|Ridolfi|||||urbano|Spoleto|Spoleti|||||||
+2345|Giuseppe|Lilio||||||||||||Libraio||
+2346|Sante|||Pellegrino|||urbano||Gualdo|||||||
+2347|Fulvio|||Pietro Paolo||Gambacorta|urbano||Gualdo|||||||
+2348|Terenzio|Bernabei|||||urbano||Gualdo|||||||
+2349|Filippo|Fabriani|||||urbano||Gualdo|||||||
+2350|Pietro|Fontana|||||||||||Magister|Scalpellino||
+2352|Francesco|Liberati|||||urbano|Nocera|Nucera|||||||
+2353|Niccolò|Acciarino|||||||||||Magister|Maestro||
+2354|Ottavio|Renzi||||||||||||||
+2355|Maria|||||||||||||||
+2356|Paolo|||Maria||||||||||||
+2357|Gregorio|||Paolo||||||||||||
+2358|Simone||||||urbano|Spoleto|Spoleti|||||||
+2359|Cristoforo|||Simone|||urbano|Spoleto|Spoleti|||||||
+2361|Angelo||||||urbano|Spoleto|Spoleti|||||||
+2362|Domenico|||Angelo||||||||||||
+2363|Venio|||Domenico|||urbano|Spoleto|Spoleti|||||||
+2364|Muzio|Orfino||||||||||||||
+2365|Giovanni|Gubernali||||||||||||||
+2366|Baldo|||||||||||||Oste||
+2367|Antonello|||Taddeo||||||||||Oste||
+2368|Ortensio|Taddeo|||||||||||Magister|Medico||
+2369|Giovanni Battista|Recco|||||||||||Magister|Chirurgo||
+2371|Michele Panicello|Gallo||||||||||||Cuoco||
+2372|Summo|Cardulo||||||||||||||
+2373|Marco|Lollio||||||||||||||
+2374|Lelio|Fino|||||urbano|Mirandola|Mirandola||||Dominus|||
+2375|Niccolò|Coffari||||||||||||||
+2376|Pietro|Glorizia||||||||||||||
+2377|Anselmo|Iovenelli||||||||||||||
+2378|Antonio|Risio||||||||||||||
+2379|Mercurio|Petrarchino||||||||||||||
+2380|Aurelio|Franco||||||||||||||
+2381|Antonio|Spera||||||||||||||
+2382|Simone|Boccardino|||||||||||Magister|Falegname||
+2383|Giacomo|||||||||||||||
+2384|Annibale|||Giacomo|||||||||Magister|Fabbro||
+2386|Fabio||||||rurale||Guadamello|||||||
+2387|Vito|||Fabio|||rurale||Guadamello|||||||
+2388|Giovanni Tommaso|Menca|||||urbano|Norcia|Norscia|urbano|Terni|Terni||Macellaio||
+2389|Giulio|Corbitelli|||||urbano|Civita Castellana|Civita Castellana|||||||
+2390|Tullio|Bino|||||urbano|Assisi|Asisi|||||||
+2391|Biagio|Mechello||||||||||||||
+2394|Giuseppe|Catarino|||||urbano|Todi|Todi|||||||
+2395|Marcello|Lambardo||||||||||||||
+2396|Sabatino|||Cristoforo|||urbano||Frontignano|||||||
+2397|Memmo|||Cristoforo|||urbano||Bettona|||||||
+2398|Cherubina|||||||||||||||
+2399|Corinzia|||Cherubina||||||||||||
+2400|Risello|||||||||||||||
+2401|Frosina|||Risello||||||||||||
+2402|Virginia|Capesse||Antino|Capesse|||||||||||
+2403|Smeralda|||Giovanni Battista||Capone||||||||||
+2404|Bisandro|||||||||||||||
+2405|Claudina|||Bisandro||||||||||||
+2406|Mercuria|||||||||||||||
+2407|Benedetto|||||||||||||||
+2408|Lunidia|||Benedetto||||||||||||
+2409|Girollo||||||rurale|Itieli|Ithieli|||||||
+2410|Lavinia|||Girollo||||||||||||
+2411|Basilia|||Antonio||||||||||||
+2412|Virgilio|||Fiorenzio||||||||||||
+2413|Giuliano|||Sebastiano||||||||||||
+2414|Pamfilo||||||rurale|Itieli|Ithieli|||||||
+2415|Ostilio|||Pamfilo|||rurale|Itieli|Ithieli|||||||
+2416|Silvio||||||urbano|Todi|Todi|||||||
+2417|Properzio|||Silvio|||urbano|Todi|Todi|urbano|Narni|Narni||||
+2418|Geronimo|Fabrianelli||||||||||||Pizzicarolo||
+2419|Antonio|Citarella||||||||||||||
+2421|Giacomo|||Riccardo||||||||||Oste||
+2422|Lorenzo|||Marzio||||||||||Oste||
+2423|Alessandro|||||||||||||Oste||
+2424|Giovanni Domenico|Buratto||||||||||||Oste||
+2425|Postumo|||Cristino||||||||||Oste||
+2426|Marco|||Tiburzio|||urbano||Gualdo|||||||
+2427|Ausonio||||||urbano|Spoleto|Spoleti|||||Oste||
+2428|Corinzio|||||||||||||||
+2429|Michele|||Corinzio||||||||||Oste||
+2430|Marziale|||Marco||||||||||Oste||
+2431|Ausonio|||||||||||||||
+2432|Gentile|||Ausonio||||||||||Oste||
+2433|Pantaleone|||||||||||||Oste||
+2434|Tiburzio||||||urbano||Gualdo|||||||
+2435|Niccolò|||||||||||||||
+2436|Ilio|||Niccolò||||||||||Oste||
+2437|Giovenale|||||||||||||Oste||
+2438|Tranquillo|||||||||||||||
+2439|Biagio|||Tranquillo||||||||||Oste||
+2440|Pier Felice|||Piero||||||||||Oste||
+2441|Michele|Rinaldo||||||||||||Oste||
+2442|Cinzio|||Giovanni||Sciarpa||||||||Oste||
+2443|Luca|||Francesco||||||||||Oste||
+2444|Bernardino||||||urbano|Milano|Milano|||||Oste||
+2445|Pietro|Leto|||||urbano|Sabaudia|Sabaudia|||||||
+2446|Pier Lorenzo|Bracciolini||||||||||||||
+2448|Adriana|Marinata||||||||||||||
+2449|Evangelista|Fortunato||||||||||||||
+2450|Luigi|||||||||||||Fabbro||
+2451|Costantino|Petrarchino||||||||||||||
+2452|Fausto|Scotto||||||||||||||
+2453|Andrea||||||urbano|Montefalco|Montefalco|||||||
+2454|Giacomo Antonio|||Andrea|||urbano|Montefalco|Montefalco|||||||
+2455|Giovanni Felice|||Salvatore|||urbano|Calvi|Calvi|||||||
+2456|Margarita|||||||||||||||
+2457|Benedetto|||Margarita||||||||||||
+2459|Federico|Montoro||||||||||||||
+2460|Pietro|||Leone|||urbano|Amelia|Amelia|||||||
+2461|Campilio|Petrarca|||||urbano|Piediluco|Piediluco|||||||
+2462|Germanico|Moriconi|||||rurale||Florentillorum|||||||
+2463|Galeotto||||||urbano|Roma|Roma|||||||
+2464|Angelo|Cappelletti||Damiano||||||||||||
+2465|Francesco|Lionelli||||||||||||||
+2466|Muzio|Boncambio||||||||||||||
+2467|Giulio|Gualterio||||||||||||||
+2468|Marsilio|||Marco|||urbano|Camerino|Camerino|||||||
+2469|Antonio|||Giuliano||||||||||||
+2470|Bernardino|||Andrea||||||||||||
+2471|Francesco|Benigni|||||urbano|Assisi|Asisi|||||||
+2472|Candido |Benigni|||||urbano|Assisi|Asisi|||||Notaio||
+2473|Rinaldo|||||||||||||||
+2474|Nervio|||Rinaldo|||urbano|Stifone|Stifone|||||||
+2475|Marino||||||urbano|Stifone|Stifone|||||||
+2476|Leoncino|||Marino||||||||||||
+2477|Soastio|||||||||||||||
+2478|Pier Antonio|Mosca||||||||||||||
+2480|Lionello|||||||||||||||
+2481|Francesco|||Lionello|||rurale||del Poggio|||||||
+2482|Sterpino|||||||||||||||
+2483|Pietro|||Sterpino|||urbano|Carbognano|Carbognano|||||||
+2484|Giovanni Battista|Arca||||||||||||||
+2485|Francesco|Gabriello||||||||||||Notaio||
+2486|Plano|Plani|||||urbano|Orte|Horte|||||||
+2487|Piersante|Palorscio||||||||||||||
+2488|Giuseppe|Magnavacca|||||urbano||Monte Leone|||||||
+2489|Ruggiero|Filippini|||||rurale||Florentillorum||||Capitaneus|||
+2490|Evangelista|||||||||||||Sarto||
+2491|Settimio|Pellegrino||||||||||||||
+2492|Ignazio|Celio||||||||||||||
+2493|Prezio|Betici||||||||||||||
+2494|Flaminio|Marinata||||||||||||||
+2495|Giuseppe|Cozio||||||||||||||
+2496|Agostino|Maccaruccio||||||||||||||
+2497|Gaspare|Cozio||||||||||||||
+2499|Francesco|Cellino||||||||||||||
+2501|Angelo|||Gaspare|||rurale||Florentillorum|||||||
+2502|Troilo|Arca||||||||||||||
+2503|Bernardino|||Domenico||||||||||||
+2504|Vincenzo|Grisciolo||||||||||||||
+2505|Giovanni Battista|Caldarino||||||||||||||
+2508|Gregorio|Salario|||||||||||Magister|Maestro||
+2509|Giuliano|||Luca||||||||||||
+2510|Mercurio|||Pasquino||||||||||||
+2511|Maulio|||||||||||||Oste||
+2512|Giorgio|||||||||||||||
+2513|Carlo|Gastorio||Giorgio|||urbano|Firenze|Florentia|||||||
+2514|Vincenzo|Mancini|||||urbano|Tivoli|Tivoli|||||||
+2515|Pietro Paolo|Santellino||||||||||||||
+2516|Imperio|||Adamo||||||||||||
+2518|Settimio|Mautino||||||||||||||
+2519|Pietro|Pacelli||||||||||||||
+2520|Silvio|||Salvatore|||urbano||San Polo|||||||
+2521|Pancrazio|||||||||||||||
+2522|Rosa|||Pancrazio|||rurale||del Poggio|||||||
+2523|Lorenza|||Rosa|||rurale||del Poggio|||||||
+2524|Antonio|Carissimo||||||||||||||
+2525|Giorgio|||||||||||||Fornaio||
+2526|Giovanni Marzio|||Angelo||||||||||||
+2527|Cristina|||||||||||||||
+2528|Costantino||Cicca|Cristina||||||||||||
+2529|Livio|Pontano|||||urbano|Spoleto|Spoleti||||Magister|Medico||
+2530|Onorio|Rossi||||||||||||||
+2531|Ercole|Marcucci|||||urbano|Arezzo|Aretio||||Magister|Chirurgo||
+2532|Mideo|Maccaruccio||||||||||||||
+2533|Evangelista|Gallo||||||||||||||
+2534|Mattia||||||urbano|Cesi|Cesae|||||||
+2535|Domenico|||Giovanni Paolo|||rurale|Finocchieto|Finocchieto|||||||
+2536|Lelio|Moricotti|||||urbano|Spoleto|Spoleti||||Magister|Medico||
+2538|Pietro|Mosco||||||||||||||
+2539|Fabrizio|||Francesco||||||||||Vetturino||
+2540|Ridolfi||||||urbano|Todi|Todi||||Magister|Chirurgo||
+2541|Annibale|Petronio|||||rurale||Florentillorum|||||Chirurgo||
+2542|Bernardino|Acquario|||||urbano|Spoleto|Spoleti|||||Chirurgo||
+2543|Sigismondo|Chiarini|||||urbano||Tarano|||||Chirurgo||
+2544|Curzio|Ottaviani|||||urbano||Montopoli|||||Chirurgo||
+2545|Marzio|||Camillo|||urbano|Calvi|Calvi|||||Chirurgo||
+2546|Martinangelo|||Domenico||||||||||||
+2547|Lorenzo|Manuzio|||||urbano||Gualdo|||||||
+2548|Ilio|||Nicolò|||urbano||Gualdo|||||||
+2549|Ostilio|||Pompilio|||rurale|Itieli|Ithieli|||||||
+2550|Flaminio|Ranucci|||||urbano||Tarano|||||||
+2552|Silvestro|||||||||||||Macellaio||
+2553|Principio|Fabrizio|||||urbano|Teramo|Teramo|||||||
+2554|Francesco|Zeccadoro||||||||||||||
+2555|Giovanni |Trento||||||||||||Copista||
+2556|Matteo|||Antonio|||urbano|Milano|Milano|||||||
+2557|Mainardo|||||||||||||Notaio||
+2558|Biagio|||Agostino||||||||||||
+2559|Pietro||Sciarpa|Giovanni||Sciarpa||||||||||
+2560|Antonio|Vipera||||||||||||||
+2561|Antonio|Manciotti||Domenico|Manciotti|||||||||||
+2562|Manilio|Stati||||||||||||||
+2563|Paolo|Boncambio||||||||||||||
+2565|Costantino Cesare|Pasquinucci||||||||||||||
+2566|Silvestro|Bisogni||Cencio|Bisogni|||||||||||
+2567|Cristiano|Cantalacqua||||||||||||||
+2568|Giordano|||Lattanzio||Scopa||||||||||
+2569|Giovanni Maria||||||urbano||Gualdo Nucerie|||||||
+2571|Pancrazio|||Domenico||||||||||||
+2572|Marzio|Lausta||||||||||||||
+2573|Paolo||||||urbano|Firenze|Florentia|||||||
+2574|Giovanni Vincenzo|Atti|||||urbano|Leonessa|Lionessa|||||||
+2575|Marcello|||Sensino||||||||||||
+2576|Giovanni Pietro|||Sensino||||||||||||
+2577|Simone|Minzio|||||urbano|Spoleto|Spoleti|||||||
+2578|Fabrizio|Mazzagna|||||urbano|Cesena|Cesena|||||||
+2579|Gabriele|Lunardi||||||||||||||
+2580|Paolo|Glorizia||||||||||||||
+2581|Francesco|||||||||||||Barilaro||
+2582|Giovanni|Rubeo||||||||||||||
+2583|Lorenzo|||Geremia|||urbano|Gubbio|Agubio|||||||
+2584|Cinzio|Caronesta||||||||||||||
+2585|Tommaso|||Marco Antonio||||||||||||
+2586|Angelo|Maccario||||||||||||||
+2587|Giano|||||||||||||||
+2588|Andrea Roseo|||Giano||||||||||||
+2589|Siro|Alessi||||||||||||||
+2590|Carlo|||||||||||||||
+2591|Giacomo|||Carlo||||||||||Cordario||
+2592|Federico|Mancinello||||||||||||||
+2593|Tommaso|Erolo||||||||||||||
+2594|Salvatore|||Angelo||||||||||||
+2595|Roberto|Cavi|||||urbano|Poggio Catino|Poio Catino|||||Chirurgo||
+2596|Ercole|Carnaccia||||||||||||||
+2597|Settimio|Lambardo||||||||||||||
+2599|Volpiano|Vezzani|||||urbano|Amatrice|Amatrice|||||||
+2600|Clemente||||||urbano|Spoleto|Spoleti|||||||
+2601|Lucio|Caldarino||||||||||||||
+2602|Marco|Palma|||||urbano||Monte Leone|||||||
+2603|Andrea|||Domenico|||urbano|Assisi|Asisi|||||||
+2605|Antonio Maria|Petriccioli|||||urbano|Assisi|Asisi|||||Medico||
+2606|Camillo|Flavio|||||urbano|Fano|Fano|||||Medico||
+2607|Fabio|Moriconi|||||urbano|Amelia|Amelia|||||Medico||
+2608|Antonio|Gentile|||||urbano||Trevi|||||Medico||
+2609|Giovanni Battista|Graziosi dalla Pergola||||||||||||Medico||
+2610|Romolo|Cirocco|||||urbano|Foligno|Foligno|||||Medico||
+2611|Pietro Paolo|Cataneo|||||urbano|Foligno|Foligno|||||Medico||
+2612|Giovanni Battista||||||urbano|Lucca|Lucca|||||Medico||
+2613|Giuseppe|Eritrei|||||urbano|Todi|Todi|||||Medico||
+2614|Girolamo|Baldoli|||||urbano|Foligno|Foligno|||||Medico||
+2615|Giovanni Battista|Salvato|||||urbano|Foligno|Foligno|||||Medico||
+2616|Giacomo|Vittori|||||urbano|Spello|Spello|||||Maestro||
+2617|Antino|||Nevio||||||||||||
+2618|Paolo|Marescotto||||||||||||||
+2619|Battista|Caldarozzo||Michele|Caldarozzo|||||||||||
+2620|Felice||||||urbano||S. Angelo|||||||
+2622|Crescino|||||||||||||||
+2623|Agostino|||Crescino||||||||||||
+2624|Virgilio|||Giovanni Francesco|||urbano||Trevi|||||||
+2625|Giuseppe|||Francesco||||||||||||
+2626|Orazio|Borghi||||||||||||||
+2627|Luca|||Francesco|||urbano|Milano|Milano|||||||
+2628|Giuseppe|Poli||||||||||||||
+2629|Domenico|Vaconi||||||||||||||
+2630| Camillo|||Paolo|||urbano||S. Urbano|||||||
+2632|Giuliano||||||urbano|Leonessa|Lionessa|||||Cuoco||
+2633|Pompeo||||||||||||Magister|Orefice||
+2634|Timideo|Maccaruccio||||||||||||||
+2635|Pietro|Giudici|||||urbano|Leonessa|Lionessa|||||||
+2636|Andrea|de Grandi|||||urbano|Roma|Roma|||||||
+2637|Lattanzio|Mancini|||||||||||Capitaneus|||
+2638|Marchionne|Mancinetto||||||||||||||
+2639|Federico|Agatonio|||||urbano|Montefalco|Montefalco||||Magister|Medico||
+2640|Giovanni Paolo|Mautino||||||||||||||
+2641|Federico|Bozio|||||urbano||Camporeondo|||||||
+2642|Giovanni Antonio|Orsino||||||||||||||
+2643|Vittore|||||||||||||||
+2644|Listante|||Vittore||||||||||||
+2645|Domenico|Boccardino||||||||||||||
+2646|Achille|Porchiano||||||||||||||
+2647|Giovanni Battista|||Pietro Giovanni||||||||||||
+2648|Giovanni Paolo|||Polo||||||||||||
+2649|Pier Antonio|Catarino||||||||||||||
+2650|Giovannello|||||||||||||Oste||
+2652|Benedetto|||||||||||||Funaro||
+2653|Damiano|||||||||||||Fornaio||
+2654|Delio|Arca||||||||||||||
+2655|Mercurio|||||||||||||Calderario||
+2656|Pietro|Gallo||||||||||||||
+2657|Giovanni Francesco|||Rosato|||urbano|Todi|Todi|||||||
+2658|Leandro|Mautino||||||||||||||
+2659|Giovanni Giulio|Fardelletto||||||||||||||
+2660|Cardono|Cardono||||||||||||||
+2661|Filippo|degli Alessandri||||||||||||||
+2662|Paolo|Mangonio||||||||||||||
+2663|Pietro|Andreozzino||||||||||||||
+2664|Vincenzo|Contestabile||||||||||||||
+2665|Giovanni Battista|Gallo||||||||||||||
+2666|Vincenzo|Tinto||||||||||||Macellaio||
+2667|Muzio|Alberto||||||||||||||
+2668|Carlo|Schiavi||||||||||||Notaio||
+2669|Paris|||||||||||||Falegname||
+2670|Giulio|Ruggerio|||||urbano|Sorano|Sorano|||||||
+2671|Orazio|Taddeo|||||||||||Magister|Medico||
+2672|Nicolò|Benigni|||||urbano|Todi|Todi|||||||
+2673|Tommaso|||Andrea|||urbano|Amelia|Amelia|||||||
+2674|Bernardo|Canale|||||urbano|Amelia|Amelia|||||||
+2675|Orazio|Lelio|||||urbano|Magliano|Magliano|||||||
+2676|Paolo|Coperchio||||||||||||||
+2677|Marzio|Mosca||||||||||||||
+2678|Mariano|||||||||||||||
+2679|Livio|||Mariano|||urbano|Amelia|Amelia|||||||
+2680|Giuseppe|Iocco||||||||||||||
+2681|Domenico|Pellegrino||||||||||||||
+2682|Francesco|Pellegrino||Domenico|Pellegrino|||||||||||
+2683|Prodozio|||||||||||||||
+2684|Ascanio|||Prodozio||||||||||||
+2685|Volunnio|||||||||||||||
+2686|Sciarra|Rubeo|||||urbano||Colle vetus|||||||
+2687|Giovanni Giacomo|||||||||||||Falegname||
+2688|Marzio|||||||||||||Mulattiere||
+2689|Giacomo|Stefanelli||||||||||||||
+2690|Bernardo||||||urbano|Stabbia|Stabbia|||||||
+2691|Terenzio|Caupidio|||||urbano|Montefalco|Montefalco||||Magister|Medico||
+2692|Geronimo|Arca||||||||||||||
+2693|Francesco|Schiavi||||||||||||||
+2694|Francesco|Caldarino||||||||||||||
+2695|Benedetto|Menecozio||||||||||||||
+2696|Giovanni Domenico||||||urbano|Stabbia|Stabbia|||||||
+2697|Cristoforo||||||urbano|Stabbia|Stabbia|||||||
+2698|Enrico|Scalabrino||||||||||||||
+2699|Giovanni Battista|Caldoro||||||||||||||
+2700|Domenico Angelo|||||||||||||||
+2701|Venio|||Domenico Angelo|||urbano|Spoleto|Spoleti|||||||
+2702|Silvano|||||||||||||Muratore||
+2704|Terenzio|Mansueli||||||||||||||
+2705|Brandimarte|Giuliano||||||||||||||
+2706|Evangelista|Papa|Papa|||||||||||||
+2707|Andrea|delle Vacche||||||||||||||
+2709|Ortensio|||Antonio|||rurale|Finocchieto|Finocchieto|||||||
+2710|Romolo|Celio||||||||||||||
+2711|Filippo|Antonioni||||||||||||||
+2712|Giulio Cesare|Mancinello|||||urbano|Todi|Todi|||||||
+2713|Antinoro|Grassello|||||urbano||Monte Leone|||||||
+2714|Biagio|||Simone||||||||||||
+2715|Geronimo|Zampocchi||||||||||||||
+2716|Francesco|Canneia||||||||||||||
+2717|Cristoforo|Torisani||Alessandro||||||||||Pittore||
+2718|Fulvio|Lambardo||||||||||||||
+2719|Alessandro|Scotto||||||||||||||
+2720|Andrea Angelo|Belluccio||||||||||||||
+2721|Andrea|||||||||||||Calzolaio||
+2722|Aloisio|Braccio||||||||||||||
+2723|Antonio|Turnario||||||||||||||
+2724|Agostino|de Agostini||||||||||||||
+2725|Giordano|||Domenico||||||||||||
+2726|Giovanni Geronimo|Palorscio||||||||||||||
+2727|Orsino|Poli|||||||||||Dominus|||
+2728|Geronimo Leone|||||||||||||||
+2729|Vespasiano|Leone||Geronimo Leone||||||||||||
+2730|Marzio|||Simone||||||||||||
+2731|Cipriano|||||||||||||||
+2732|Bernardo|||Cipriano||||||||||||
+2734|Angelo|||||||||||||Fabbro||
+2735|Carlo|||Giulio||||||||||||
+2736|Francesco||||||urbano|Perugia|Perugia|||||||
+2737|Lorenzo||||||urbano|Spoleto|Spoleti|||||||
+2738|Luigi|||||||||||||||
+2739|Antonio|||Luigi||||||||||||
+2740|Giovanni Giordano|Tofonio|||||urbano|Leonessa|Lionessa|||||||
+2741|Giovanni Francesco|Andreozzino|||||||||||Dominus|||
+2742|Giacomo|Bino||||||||||||||
+2743|Pietro|Boncavalli||||||||||||||
+2744|Innocenzo|||Battista||||||||||||
+2745|Arcangelo|Belluccio||||||||||||||
+2746|Evangelista|Bonafolia||||||||||||||
+2747|Vincenzo|||||||||||||Calderario||
+2748|Biagio|Lepore||||||||||||||
+2749|Stefano|Iovenelli||||||||||||||
+2750|Geronimo|Plani||||||||||||||
+2751|Tommaso|Boncavalli||||||||||||||
+2752|Giuseppe|Croce||||||||||||||
+2753|Mercurio|||Diofebo||||||||||||
+2754|Innocenzo|Caldarozzo||||||||||||||
+2755|Vincenzo|Andreozzino||||||||||||||
+2756|Giovanni Battista|||||||||||||Barbiere||
+2757|Costumio|||Cristino||||||||||||
+2758|Tommaso|Mosca||||||||||||||
+2759|Marcoccio|Moriconi||||||||||||||
+2760|Tebaldo|||Gregorio||||||||||||
+2762|Secondo|||Pietro||||||||||||
+2763|Anselmo|||||||||||||Sarto||
+2764|Mattia|Belluccio||||||||||||||
+2765|Famiano|Preci||||||||||||||
+2766|Luca|Pellegrino||||||||||||||
+2767|Francesco|Pelle||||||||||||||
+2768|Cesario|||Alessandro||||||||||||
+2769|Vincenzo|Belluccio||||||||||||||
+2770|Pellegrino|Piccinino||||||||||||||
+2771|Paolo|||||||||||||Bastaro||
+2772|Mercurio|||||||||||||||
+2773|Alessandro|||Mercurio||||||||||||
+2774|Michelangelo|||||||||||||Pittore||
+2775|Crisogono|Iovenelli||||||||||||||
+2776|Dionisio|||Bernardino||||||||||||
+2777|Orazio|Costantino||||||||||||||
+2778|Giovanni Sante|||||||||||||Muratore||
+2779|Curzio||Morte|||||||||||||
+2780|Costantino|de Rosso||||||||||||||
+2781|Rinaldo|||||||||||||Sarto||
+2782|Loreto|Mascolo||||||||||||||
+2783|Silvestro|Croce||||||||||||||
+2784|Antonio|||||||||||||Fornaio||
+2785|Lelio|Cozio||||||||||||||
+2787|Matteo|Geremia||||||||||||||
+2788|Cosmo|Vipera||||||||||||||
+2789|Pier Agostino|Zerenga||||||||||||||
+2790|Taddeo|||Gregorio||||||||||||
+2791|Agostino Angelo|Stabile||||||||||||||
+2792|Martinangelo|Lollio||||||||||||||
+2794|Pietro Paolo|||Marco Antonio||||||||||||
+2796|Geremia|Geremia||||||||||||||
+2797|Rinaldo|||Pier Agostino||||||||||||
+2798|Nicolò|Spera||||||||||||||
+2799|Francesco|Mascolo||||||||||||||
+2800|Cesarino|||Cesarino||||||||||||
+2802|Angelo|||Sante||||||||||||
+2803|Benigno|Benigni||||||||||||||
+2804|Giovanni Vincenzo|Resta||||||||||||||
+2805|Tebaldo|Gravita||||||||||||||
+2806|Angelo|||||||||||||Fornaio||
+2807|Proconio|Caronesta||||||||||||||
+2808|Luca|Simoncino||||||||||||||
+2809|Pietro|Menecozio||||||||||||||
+2810|Geronimo|Macista||||||||||||||
+2811|Pier Agostino|Berenga||||||||||||||
+2812|Alessandro|Boccardino||||||||||||||
+2813|Angelo|||Celestino||||||||||||
+2814|Giovanni|Mosca||||||||||||||
+2815|Giovanni Battista|Schibonio||||||||||||||
+2816|Pietro Paolo|Gravita||||||||||||||
+2817|Angelo Giovanni|||Geronimo||||||||||||
+2818|Paolo|Carnevale||||||||||||||
+2819|Martinangelo|Menecozio||||||||||||||
+2820|Teodoro|||||||||||||||
+2821|Pier Tommaso|||Teodoro||||||||||||
+2822|Giacomo|||||||||||||Broccaro||
+2823|Nevio|Cicchi||||||||||||||
+2824|Massenzio|Spinelli||||||||||||||
+2825|Calennio|||Bernardino||||||||||||
+2826|Giovanni Angelo|Sciurta||||||||||||||
+2827|Giovanni|Zerenga||||||||||||||
+2828|Vincenzo|Cortona||||||||||||||
+2829|Stefano|||Geronimo||||||||||||
+2830|Ottavio|Bagaglia||||||||||||||
+2831|Sebastiano|||Domenico||||||||||||
+2832|Marinangelo|||Lorenzo||||||||||||
+2833|Paolo|Belluccio||||||||||||||
+2834|Giuseppe|Lucizio||||||||||||||
+2835|Antonio|||||||||||||Funaro||
+2836|Giovanni Maria|Speranza||||||||||||||
+2837|Bernardino|||||||||||||Molinaro||
+2838|Giovanni|Catarino||||||||||||||
+2839|Giovanni||||||urbano|Bologna|Bononia|||||||
+2840|Riccardo|Verri||||||||||||||
+2841|Lorenzo|Onofrio||||||||||||||
+2842|Muzio|||||||||||||Sarto||
+2843|Antonio||||||urbano|Piacenza|Piacenza|||||||
+2844|Giordano|Pelle||||||||||||||
+2845|Giordano|||Teodoro||||||||||||
+2846|Agostino|||Battista||||||||||||
+2847|Aloisio|||Donato||||||||||||
+2848|Callisto|Racano||||||||||||||
+2849|Riccardo|||||||||||||||
+2850|Bernardino|Iapirra||||||||||||||
+2851|Orazio|Begio||||||||||||||
+2852|Antonio|Sambelli||||||||||||||
+2853|Domenico|Vanni||||||||||||||
+2854|Alessandro|Saviola||||||||||||||
+2855|Tradito|Rodolfino||||||||||||||
+2856|Bisello|Chiariello||||||||||||||
+2857|Bartolomeo|Cesio||||||||||||||
+2858|Martinangelo|Sardi||||||||||||||
+2859|Silvio|Pipi||||||||||||||
+2860|Tullio|||Pier Michele||||||||||||
+2861|Testa|Onofrio||||||||||||||
+2862|Evangelista|Sbroiavacca|||||||||||Dominus|||
+2863|Ascanio|Tome||||||||||||||
+2864|Filippo|||||||||||||Orefice||
+2865|Mente|||Filippo||||||||||||
+2866|Silvario|Piccinino||||||||||||||
+2867|Stefano|Ciccia||||||||||||||
+2868|Giovanni Agostino|Cicipici||||||||||||||
+2869|Cristino|||||||||||||Calzolaio||
+2870|Antonio|Boncambio||||||||||||||
+2871|Giulio|||||||||||||Calzolaio||
+2872|Marco|Pesalova||||||||||||||
+2873|Attilio|Iliani||||||||||||||
+2874|Paolo Bernardo|||||||||||||||
+2875|Angelo Antonio|||Paolo Bernardo||||||||||||
+2876|Meio|Pipi||||||||||||||
+2877|Giovanni|||Verruzio||||||||||||
+2878|Trivulzio|||Marco||||||||||||
+2879|Leonardo|Facchini||||||||||||||
+2880|Antonio|||Tremilia||||||||||||
+2881|Livio|Boncambio||||||||||||||
+2882|Baldassarre|Gaccioli||||||||||||||
+2883|Angelo|Petreio||||||||||||||
+2884|Gentile|Cardulo||||||||||||||
+2885|Luca|Montagelli||||||||||||||
+2886|Tiburzio|Valisino||||||||||||||
+2887|Paolo|||Bernardo||||||||||||
+2888|Paolo|||||||||||||Muratore||
+2889|Tommaso|Improvvisi||||||||||||||
+2891|Glouzio|||Bernardo||||||||||||
+2892|Mattia Angelo|Tepelli||||||||||||||
+2893|Cherubino|||||||||||||Funaro||
+2894|Fattore|||||||||||||Calzolaio||
+2895|Mente|||Serafino||Bianchello||||||||||
+2896|Costantino|Piccini||||||||||||||
+2897|Cassio|||||||||||||Aromatario||
+2898|Giovenale|Chiariello||||||||||||||
+2899|Conte|Spera||||||||||||||
+2900|Baldassarre|||Camillo||||||||||||
+2901|Stefano|Germanello||||||||||||||
+2902|Battista|Micheletti||||||||||||||
+2903|Francesco|Pacciarella||||||||||||||
+2904|Iliantonio|||||||||||||Cimatore||
+2905|Pietro|Petronzi||||||||||||||
+2906|Gismondo|||||||||||||||
+2907|Mente|||Gismondo||||||||||||
+2908|Tarannino|||||||||||||Broccaro||
+2909|Ilianello|||||||||||||||
+2910|Cassio|Betrichelli||||||||||||||
+2911|Fiorito||||||||||||Ser|||
+2912|Tullio|||Fiorito||||||||||||
+2913|Papirio|Bene||||||||||||||
+2914|Tizio|Trente||||||||||||||
+2916|Francesco|Spera||||||||||||||
+2917|Vincenzo|Marinata||||||||||||||
+2919|Martino|Tepelli||||||||||||||
+2921|Sabatino|||||||||||||||
+2922|Andrea|||Sabatino||||||||||||
+2923|Pietro Antonio|||||||||||||Sellaio||
+2924|Alessandro|Cardulo||||||||||||||
+2925|Fattore||||||urbano|Stifone|Stifone|||||||
+2926|Clemente|||Giorgio||||||||||||
+2927|Orazio|Trente||||||||||||||
+2928|Ettore|||Giovanni Antonio||||||||||||
+2929|Tiburzio|Cossegrosse||||||||||||||
+2930|Quinzio|||Salvatore||||||||||||
+2931|Ettore|Sardi||||||||||||||
+2932|Giovenale|||||||||||||Bombardiere||
+2933|Pietro Paolo|Sciurta||||||||||||||
+2934|Bernardino|||Giacomo||||||||||||
+2935|Glorizio|||Bernardo||||||||||||
+2936|Attilio|||Giovenale||||||||||||
+2937|Angelo|Erasimi||||||||||||||
+2938|Filippo|Pellegrino||||||||||||||
+2939|Tarquinio|Pallozio||||||||||||||
+2940|Pier Agostino|||Andrea||||||||||||
+2941|Mazzatana|||||||||||||||
+2942|Benedetto|||Costantino||||||||||||
+2943|Giovanni|Dionore||||||||||||||
+2944|Tommaso|||Ludovico||||||||||||
+2945|Cristino|Rubei||||||||||||||
+2946|Mattia Antonio|Cardulo||||||||||||||
+2947|Tullio|||Geremia||||||||||||
+2948|Bernardo|Grezzi||||||||||||||
+2949|Francesco|||Simone||||||||||||
+2950|Tremilia|||||||||||||||
+2951|Angelo|Signoretti||Sante|Signoretti|||||||||||
+2952|Giulio|Saleti||||||||||||||
+2953|Baldo|Mautino||||||||||||||
+2954|Ottavio|Cardulo||||||||||||||
+2955|Serafino|||Pietro||||||||||||
+2956|Bianchello|Cacco||||||||||||||
+2957|Pompilio|Roscetti||||||||||||||
+2958|Berico|||||||||||||||
+2959|Lelio|||Berico||||||||||||
+2960|Scalotto|||||||||||||||
+2961|Giovanni Paolo|||Scalotto||||||||||||
+2962|Miantonio|||Diofebo||||||||||||
+2963|Francesco|Loccio||||||||||||||
+2964|Giovanni|Lionori||||||||||||||
+2965|Priamo|Malafoglia||||||||||||||
+2966|Clemente|Orfi||Serafino|Orfi|||||||||||
+2967|Angelo|Cesi||||||||||||||
+2968|Pietro|Bono||Francesco|Bono|||||||||||
+2969|Arminio|Vanni||||||||||||||
+2970|Innocenzo|Mautino||||||||||||||
+2971|Stefano|||||||||||||Fabbro||
+2972|Lamberto|Vittuzio||||||||||||||
+2973|Matteo|||||||||||||Sarto||
+2974|Ascanio|||||||||||||Fabbro||
+2975|Antonio|Tossechi||||||||||||||
+2976|Antino|||||||||||||Calzolaio||
+2977|Sante|||Geronimo||||||||||||
+2978|Giovenale|||Paolo||||||||||||
+2979|Meo|Caselle||||||||||||||
+2980|Scacco|Scacchi||||||||||||||
+2981|Tullio|Gulpi||||||||||||||
+2982|Fattore|||||||||||||||
+2983|Giovanni Battista|||Fattore||||||||||||
+2984|Emilio|||Andrea||||||||||||
+2985|Andrea||||||||||||Ser|||
+2987|Micoccio|Logio||||||||||||||
+2988|Piero|Mangonio||||||||||||||
+2989|Fabio||||||||||||Ser|||
+2990|Muzio|||Fabio||||||||||||
+2991|Giustina|||||||||||||||
+2992|Fiorenzio|||||||||||||||
+2993|Francesco|Cossegrosse||||||||||||||
+2995|Cristino|||||||||||||||
+2996|Iliangelo|||||||||||||||
+2997|Luca|Galluzzi||||||||||||||
+2998|Giovanni|Pitanta||||||||||||||
+2999|Luca|Mascioni||||||||||||||
+3000|Francesco|||Danese||||||||||||
+3001|Roberto|Mosca||||||||||||||
+3002|Matteo|Verri||||||||||||||
+3003|Geronimo|Mattiucci||||||||||||||
+3004|Domenico|Manciotti||||||||||||||
+3005|Francesco|Risio||||||||||||||
+3006|Giovanni|Verrozio||||||||||||||
+3007|Angelo|||Cristino||||||||||||
+3008|Giovanni Battista|||Michele||||||||||||
+3009|Taddeo|||Conte||||||||||||
+3010|Domenico|||Bernardo||||||||||||
+3011|Falsino|||Paolo||||||||||||
+3012|Iliantonio|||Diofebo||||||||||||
+3013|Giovanni Francesco|||Giovanni Angelo||Merlatta||||||||||
+3014|Biagio|Tramacchio||||||||||||||
+3015|Domizio|||Giovanni||Sciarpa||||||||||
+3016|Domenico|||Tommaso||||||||||||
+3017|Piccino|||||||||||||Calzolaio||
+3018|Carlo|Loccio||||||||||||||
+3019|Virgilio|||Tremilia||||||||||||
+3020|Onofrio|||Giovanni||Sciarpa||||||||||
+3021|Demostene|||||||||||||||
+3022|Mattia Angelo|||||||||||||Sarto||
+3023|Giovanni|Arca||||||||||||||
+3024|Leonardo|Mancini||||||||||||||
+3025|Ostinangelo|||Vincenzo||||||||||||
+3026|Marco|||Giacomo Filippo|Rapo|||||||||||
+3027|Paolo|||Cecilia||||||||||||
+3028|Mancinetto|||||||||||||||
+3029|Paolo|||Samuele||||||||||||
+3030|Vincenzo|||||||||||||Funaro||
+3031|Leone|||Nicolò||||||||||||
+3032|Lauderio|Cattano||||||||||||||
+3033|Vincenzo|||Nicolò||||||||||||
+3034|Marco|Risio||||||||||||||
+3035|Roberto|||Mente||||||||||||
+3036|Giovanni Bernardino|Moriconi||||||||||||||
+3037|Artemio|||Pier Vincenzo||||||||||||
+3038|Cristoforo|||||||||||||Orefice||
+3039|Francesco|Moretti||||||||||||||
+3040|Domizio|Ciaglie||||||||||||||
+3041|Laudenzia|||||||||||||||
+3042|Angelo|||Laudenzia||||||||||||
+3043|Sante|Signoretti||||||||||||||
+3044|Giovanni Domenico|||Lorenzo||||||||||||
+3045|Pietro|||Pier Vincenzo||||||||||||
+3046|Angelo Antonio|||Samuele||||||||||||
+3047|Giovanni|||||||||||||Fornaio||
+3048|Giovanni|Cesio||||||||||||||
+3049|Sciarra|Mancini||||||||||||||
+3050|Giuliano|Tommasuccio||||||||||||||
+3051|Giovanni Bernardino|Arca||||||||||||||
+3052|Benedetto|||Matteo||||||||||||
+3053|Cenzio|Pelli||||||||||||||
+3054|Stefano|||Vincenzo||||||||||Falegname||
+3055|Cherubino|||||||||||||||
+3056|Geronimo|Riccio||Cherubino||||||||||||
+3057|Geronimo||||||urbano|Genova|Genova|||||||
+3058|Francesco|Onofrio||||||||||||||
+3060|Proserpio|||||||||||||Calzolaio||
+3061|Clemente|||Domenico||||||||||||
+3062|Giovanni|Mantuine||||||||||||||
+3063|Ippolito|||||||||||||Tessitore||
+3064|Francesco|||||||||||||Bastaro||
+3065|Giacomo|Pelosi||||||||||||||
+3066|Maulo|||Felice||||||||||||
+3067|Francesco||||||urbano|Milano|Milano|||||||
+3068|Pasquino|||Bernardino||||||||||||
+3069|Antonio|||||||||||||Calzolaio||
+3070|Mattia Antonio|||Nicolò||||||||||||
+3071|Giovenale|||Paolo||||||||||||
+3072|Filippo|Terannini||||||||||||||
+3073|Raimondo|Ciuccio||||||||||||||
+3074|Gerolamo|Rodolfino||||||||||||||
+3075|Giovanni Antonio|Cardulo||Lancillotto|Cardulo|||||||||||
+3076|Michelangelo|||Virgilio||||||||||||
+3077|Pietro|||Domenico||||||||||||
+3079|Gabriele|||Pietro||||||||||||
+3080|Giovanni Vincenzo|||||||||||||||
+3081|Simone||||||urbano|Assisi|Asisi|||||||
+3082|Renzo|||Simone||||||||||||
+3083|Cesare|Sanzio|||||urbano|Spoleto|Spoleti|||||||
+3084|Giovanni Vincenzo|||Giubileo||||||||||||
+3085|Tramacchio|||||||||||||||
+3086|Antonio|||Tramacchio||||||||||||
+3087|Sante|||Pandolfo||||||||||||
+3088|Dolce|Mollario||||||||||||||
+3089|Pietro|Vincenzelli||||||||||||||
+3090|Giovanni Domenico|Benevieni||||||||||||||
+3091|Pamfilo|Roscitti||||||||||||||
+3092|Triuzio|Mollario||||||||||||||
+3093|Francesco|||Biagio||||||||||||
+3094|Matteo|||Celestino||||||||||||
+3095|Severo|Silvanio|||||urbano|Spoleto|Spoleti||||Magister|Maestro||
+3096|Gioacchino|Caffette||||||||||||||
+3097|Virgilio|de Posti||||||||||||||
+3098|Marardo|||Ludovico||||||||||||
+3099|Ottaviano|||Tommaso||||||||||||
+3100|Pasquino|||||||||||||Ortolano||
+3101|Pier Antonio|||||||||||||Sellaio||
+3102|Muzio|Loccio||||||||||||||
+3103|Antonio|Logio||||||||||||||
+3104|Tullio|||Felice Angelo||||||||||||
+3105|Bernardo|Laudonia||||||||||||||
+3106|Valentino|Simoncino||||||||||||||
+3107|Nicolò|Capobasco||||||||||||||
+3108|Giacomo|||Cecilia||||||||||||
+3109|Micoccio|Balzani||||||||||||||
+3110|Tommaso|Rebacaro||||||||||||||
+3111|Timideo|||Giovenale||||||||||||
+3112|Francesco Angelo|Caldarino||||||||||||||
+3113|Muzio|||Matteo||||||||||||
+3114|Andrea|Canneia||||||||||||||
+3115|Giovanni Paolo|Spreca||||||||||||||
+3116|Domenico|Loccio||||||||||||||
+3117|Attilio|Pelloccio||||||||||||||
+3118|Mancinetto|Benevieni||||||||||||||
+3119|Sillo|Peclacchie|||||urbano|Stifone|Stifone|||||||
+3120|Ascanio|perelli|||||urbano|Borgaria|Borgaria|||||||
+3121|Arcangelo|||Marco|||rurale||Guadamello|||||||
+3122|Iliano|Stini|||||urbano||Gualdo|||||||
+3123|Vincenzo|||Francesco||||||||||||
+3124|Fulvio|Renzi||||||||||||||
+3125|Lario|||||||||||||||
+3126|Giovanni|||Lario||||||||||||
+3127|Giovito|||Stefano|||urbano||Taizano|||||||
+3128|Massuccio|||||||||||||||
+3129|Dorizio|||Pietro Paolo||Gambacorta||||||||||
+3130|Livio|||Giovenale||||||||||||
+3131|Muzio|||Giovanni||Sciarpa||||||||||
+3132|Giovanni|Vittuperi||||||||||||||
+3133|Muzio|Chiariello||||||||||||||
+3134|Melchiorre|Caldarino||||||||||||||
+3135|Paradiso|||||||||||||||
+3136|Arcangelo|||Trinca||||||||||||
+3137|Filippo|Nuccioli||||||||||||||
+3138|Giovanni Bernardino|Cosmi||||||||||||||
+3139|Giovanni Felice|Taddeo|||||||||||Magister|Macellaio||
+3140|Stefanicchio|Mezzofrate||||||||||||||
+3141|Mercurio|Scarsella||||||||||||||
+3142|Pellegrino|Orfi||||||||||||||
+3143|Clemente|Orfi||Pellegrino|Orfi|||||||||||
+3144|Filippo|Orsi||Pellegrino|Orfi|||||||||||
+3145|Mercurio|||Paolo||||||||||||
+3146|Valentino|Brunori||||||||||||||
+3147|Domenico|Mattoni||||||||||||||
+3148|Antonio||||||||||||Magister|Fabbro||
+3149|Carlo|Arca||||||||||||||
+3150|Ostilio|Rodolfino||||||||||||||
+3151|Erolo|Erolo||||||||||||||
+3152|Eleno|Mangonio||||||||||||||
+3153|Domenico|Grasso||||||||||||||
+3154|Diomente|Pelloccio||||||||||||||
+3155|Sante|Nocchie||||||||||||||
+3156|Gianni|Cracicchie||||||||||||||
+3157|Crudele|||||||||||||||
+3158|Zaccaria|||||||||||||||
+3159|Domizio|||Dionisio||||||||||||
+3160|Mercurio|Ippoletelli||||||||||||||
+3161|Giacomo|||||||||||||Muratore||
+3162|Angelo Antonio|Chiariello||||||||||||||
+3163|Sensino|Spaccianti||||||||||||||
+3164|Mitrano|Spadaro||||||||||||||
+3165|Clemente|||Cesarina||||||||||||
+3166|Tommaso|||||||||||||Broccaro||
+3167|Bernardo|||Ludovico||||||||||||
+3168|Giovanni Carlo|Cappello|||||urbano||Accumulo|||||||
+3170|Marzio|Zanelli||||||||||||||
+3171|Milano|||||||||||||||
+3172|Giovenale|||Bernardino||||||||||||
+3173|Ettore|Ceciliano||||||||||||||
+3174|Ciaravacca|||||||||||||||
+3175|Boezio|Placiti||||||||||||||
+3177|Marco Antonio|Porchiano||||||||||||||
+3178|Apollonio|Busi||||||||||||||
+3179|Moretto|Benevieni||||||||||||||
+3180|Alfonso|Cossegrosse||||||||||||||
+3181|Luca|||||||||||||Orefice||
+3183|Pier Tommaso|||||||||||||Broccaro||
+3184|Paolo|Zerenga||||||||||||||
+3185|Pier Agostino|Turchetti||||||||||||||
+3186|Pasquinuccio|||||||||||||Olitor||
+3187|Giulio|Cossegrosse||||||||||||||
+3188|Angelo|||||||||||||Sarto||
+3189|Giovanni Maria|||Mariano||||||||||||
+3190|Orsino|Grezzi||||||||||||||
+3191|Rachele|||||||||||||||
+3192|Pier Agostino|||Rachele||||||||||||
+3193|Trinca|||||||||||||||
+3194|Giovanni Battista|Rodolfino||||||||||||||
+3195|Giovanni Domenico|||Ippolito||||||||||||
+3196|Quintilio|Blanconi||||||||||||||
+3197|Filippo|||Angelo||||||||||||
+3198|Pietro|Volpe||||||||||||||
+3199|Massimo|||||||||||||Funaro||
+3200|Ascanio|||Alessandro||||||||||||
+3201|Giovanni|Candie||||||||||||||
+3202|Andrea|Mazzaglia||||||||||||||
+3203|Giacomo Filippo|||||||||||||||
+3204|Giovanni Francesco|Pacciarella||||||||||||||
+3205|Zampero|||||||||||||||
+3206|Angelo|Passarini||||||||||||||
+3207|Domenico|Catarcia||||||||||||||
+3208|Angelo|||Alessandro||||||||||||
+3209|Murello|||||||||||||Carpentiere||
+3210|Bartolomeo|||||||||||||Carpentiere||
+3211|Bartolomeo|||||||||||||Sarto||
+3212|Antonio|Rabocco||||||||||||||
+3213|Carlo|Vipera||||||||||||||
+3214|Battista|Mollario||||||||||||||
+3215|Giovanni Simone|||Ludovico||||||||||||
+3216|Ottaviano|||Andrea||||||||||||
+3217|Pellegrino|||Andrea||||||||||||
+3218|Cannia|||||||||||||||
+3219|Giovanni|||Cannia||||||||||||
+3220|Giovanni|Verruzio||||||||||||||
+3221|Andrea|||Michelangelo||||||||||||
+3222|Pietro Paolo|||Vincenzo||||||||||||
+3223|Francesco|Lanzoni||||||||||||||
+3224|Luca|Lanzoni||Francesco|Lanzoni||urbano||Castro Novo|||||||
+3225|Virgilio|||Marco|||urbano|Cesi|Cesae|||||||
+3226|Filippo|||Serafino||Bianchello||||||||||
+3228|Pietro Antonio|Sperandei||||||||||||||
+3229|Matteo|Caracciolo||||||||||||||
+3230|Guido|Gorgerio|||||urbano|S. Angelo in Vado|||||Magister|Medico||
+3231|Orazio|||||||||||||Calzolaio||

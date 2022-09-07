@@ -1,0 +1,63 @@
+Assetto/Sciaumo/Revisione
+Atto di sequestro/Arresto
+Bando
+Breve/Bolla
+Capitoli/Statuti
+Cassatio/Sospensione incarico/Revocatio
+Comunicazione
+Consilium
+Contestazione/Protestatio/Denuntia
+Controversia/Causa/Lite
+Declaratio/Fede
+Decreto/Ordine/Deliberatio/Obligatio
+Deputatio
+Discussione candidati
+Estrazione/Nomina/Admissio
+Ideo quid agens
+Imbussolatio
+Inibizione/Divieto/Monitorio
+Instrumentum
+Instrumentum appaltus
+Instrumentum census/pecuniae redditae/cautelatio
+Instrumentum emptionis/venditionis/transactionis
+Instrumentum repudiationis hereditatis
+Istanza/Petizione/Richiesta
+Iuramentum/Promissio/Convalidatio
+Lagnanza
+Lettera
+Lettera da agente della comunità
+Lettera di accettazione
+Lettere di raccomandazione/di favore
+Lettere patenti/Licenza
+Locatio/Subastatio
+Mandato di procura/Fideiussione
+Memoriale
+Offerta/Oblatio
+Ordine di esecuzione
+Ordine di pagamento/Rimborso/Ingiunzione
+Principium/Sermocinatio
+Proposta
+Punctatio
+Registrazione pagamento o acquisto/Quietanza/Computo
+Requisitio
+Resoconto/Relazione
+Richiesta di Esonero/Licenza/Cessione
+Richiesta di Fede/Lettere credenziali/Lettere di benservito
+Richiesta di Grazia/Dilazione/Esonero
+Richiesta di Ratifica/Approbatio/Segurtà
+Richiesta di autenticazione
+Richiesta di elezione incaricato
+Richiesta di pagamento/risarcimento
+Richiesta di provvedimento
+Richiesta/Concessione di elemosina/sovvenzione
+Richiesta/Concessione di provvigione
+Richiesta/Ordine di acquisto
+Richiesta/Ordine di lavori di riparazione
+Richiesta/Ordine di vendita
+Risoluzione controversia/Sententia/Absolutio
+Sindacatura/Revisione
+Supplica
+Tassa
+Tavola dei prezzi/Stime
+Termine condotta/Termine appalto
+Testimonianza/Depositio/Informatio

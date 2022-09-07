@@ -1,0 +1,92 @@
+Anteposto
+Avvocato della comunità/Procuratore
+Camerario dell'Arte dei bifolchi
+Cancelliere/Vicecancelliere
+Conduttore del Quatrino a libra/foglietta
+Conduttore della Gabella generale
+Conduttore della Panetteria/del forno
+Consigliere dell'Arte dei bifolchi
+Consigliere della Cernita
+Console dell'Arte dei bifolchi
+Console dell'Arte dell'agricoltura
+Depositario del grano
+Depositario dell'Abbondanza
+Deputato ad discutendum/videndum/calculandum
+Deputato super Archivio
+Deputato super Arte
+Deputato super Bandita
+Deputato super Cancelleria Criminali
+Deputato super Chirurgo
+Deputato super Danno Dato
+Deputato super Macellis
+Deputato super Magistro
+Deputato super Monte Pietatis
+Deputato super Nundinis
+Deputato super Panetteria
+Deputato super Phisico
+Deputato super Pizzicaria
+Deputato super Pontifice
+Deputato super Salara
+Deputato super Saponara
+Deputato super Sussidio
+Deputato super advento/transitu
+Deputato super ambasciata
+Deputato super appaltu/venditione
+Deputato super banditis/securitate communitatis
+Deputato super carreggio
+Deputato super causa/differentia/lite
+Deputato super cisterna/fontana/formina
+Deputato super computis/Computista
+Deputato super confinibus
+Deputato super cura/negotio/computis Abundantiae
+Deputato super cura/venditione Gabellae farinae
+Deputato super cura/venditione Gabellae foliettae extintae
+Deputato super cura/venditione Gabellae generalis
+Deputato super cura/venditione Gabellae quatrini
+Deputato super cura/venditione gabellarum
+Deputato super cura/venditione/distributione grani/farinae
+Deputato super differentiis gabellarum
+Deputato super domibus/apothecis
+Deputato super exactoratu
+Deputato super fabrica
+Deputato super fornu/cura/venditionis panis
+Deputato super hostibus
+Deputato super mercato
+Deputato super militis/armis/guardiis
+Deputato super mulieribus
+Deputato super negotio/occurrentiis
+Deputato super obligationibus
+Deputato super ponderibus et mensuris
+Deputato super ponte
+Deputato super rebus publicis occupatis
+Deputato super sanitate
+Deputato super sciaumo/assetto olei
+Deputato super silvis et montibus
+Deputato super venditione extraordinariatus
+Deputato super viis/Mastro di strada
+Deputato super/Soprastante Santa Maria della Quercia
+Famulo
+Governatore
+Grascerio
+Imbussolatore/Membro del bussolo
+Luogotenente
+Membro del Collegio degli avvocati e dei procuratori
+Membro dell'Arte dei bifolchi
+Membro dell'Arte dell'agricoltura
+Membro della congregazione della bandita
+Notaio
+Notaio dell'Arte dell'agricoltura
+Notaio della bandita
+Podestà
+Primo console dell'Arte dell'agricoltura
+Priore
+Quattro dell'Arte dei bifolci
+Quatuor castri
+Regolatore
+Rettore dell'ospedale
+Revisore del pane
+Sindaco
+Trombettiere
+Uditore
+Ufficiale/Esecutore del Danno Dato
+Venditore della farina

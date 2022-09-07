@@ -1,0 +1,24 @@
+Bandita
+Castello
+Centro urbano minore
+Chiesa
+Civitas
+Colle/Poggio/Monte
+Contrada
+Convento/Monastero/Abbazia
+Fontana
+Fosso/Canale
+Località
+Masseria
+Mulino
+Ostello
+Palazzo
+Passo
+Piazza
+Ponte
+Porta
+Porto
+Strada
+Torre
+Valle
+Villa

@@ -1,0 +1,65 @@
+Ambasciatore/Agente/Nunzio/Oratore
+Depositario
+Depositario della Gabella generale
+Deputato ad discutendum/videndum/calculandum
+Deputato super Arte
+Deputato super Bandita
+Deputato super Cancelleria Criminali
+Deputato super Capitulis
+Deputato super Chirurgo
+Deputato super Danno Dato
+Deputato super Macellis
+Deputato super Magistro
+Deputato super Monte Pietatis
+Deputato super Nundinis
+Deputato super Panetteria
+Deputato super Phisico
+Deputato super Piscatione
+Deputato super Pizzicaria
+Deputato super Pontifice
+Deputato super Salara
+Deputato super Seminario
+Deputato super Sussidio
+Deputato super advento/transitu
+Deputato super appaltu/venditione
+Deputato super banditis/securitate communitatis
+Deputato super bullettinis/fidibus
+Deputato super carreggio
+Deputato super causa/differentia/lite
+Deputato super cisterna/fontana/formina
+Deputato super computis/Computista
+Deputato super concordia
+Deputato super confinibus
+Deputato super cura/negotio/computis Abundantiae
+Deputato super cura/venditione Gabellae farinae
+Deputato super cura/venditione Gabellae generalis
+Deputato super cura/venditione Gabellae quatrini
+Deputato super cura/venditione gabellarum
+Deputato super cura/venditione/distributione grani/farinae
+Deputato super custodia
+Deputato super domibus/apothecis
+Deputato super extirpatione locustarum
+Deputato super fabrica
+Deputato super forensibus
+Deputato super forma facienda
+Deputato super fornu/cura/venditionis panis
+Deputato super hostibus
+Deputato super immutendis scripturis publicis
+Deputato super militis/armis/guardiis
+Deputato super molinis
+Deputato super negotio/occurrentiis
+Deputato super obligationibus
+Deputato super ponderibus et mensuris
+Deputato super ponte
+Deputato super rebus publicis occupatis
+Deputato super sciaumo/assetto olei
+Deputato super venditione extraordinariatus
+Deputato super viis/Mastro di strada
+Deputato super/Soprastante Santa Maria della Quercia
+Imbussolatore/Membro del bussolo
+Notaio
+Paciere
+Portanario
+Priore
+Revisore del pane
+Venditore della farina

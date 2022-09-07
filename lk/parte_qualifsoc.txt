@@ -1,0 +1,9 @@
+Capitaneus
+Clericus
+Domina
+Dominus
+Episcopus
+Frater
+Magister
+Monsignore
+Ser

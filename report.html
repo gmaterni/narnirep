@@ -1,0 +1,151 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Language" content="it">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Report Narni</title>
+    <link rel="stylesheet" type="text/css" href="uacss/reset.css" />
+    <link rel="stylesheet" type="text/css" href="uacss/ua.css" />
+    <link rel="stylesheet" type="text/css" href="css/report.css" />
+    <script type="text/javascript" src="javascript/jquery.min.js"></script>
+    <script type="text/javascript" src="javascript/jquery-ui.min.js"></script>
+
+    <script type="text/javascript" src="javascript/zip.js"></script>
+    <script type="text/javascript" src="javascript/zip-ext.js"></script>
+    <script type="text/javascript" src="javascript/inflate.js"></script>
+
+    <script type="text/javascript" src="uajs/uarq2.js"></script>
+    <script type="text/javascript" src="uajs/uaejs.js"></script>
+    <script type="text/javascript" src="uajs/uawindow.js"></script>
+    <script type="text/javascript" src="uajs/uaejswnd.js"></script>
+    <script type="text/javascript" src="js/uareport.js"></script>
+    <script type="text/javascript" src="js/report.js"></script>
+    <script type="text/javascript">
+    window.onload = function() {
+        setDiv00();
+    }
+    </script>
+</head>
+
+<body>
+
+    <div id='div0'>
+        <div id='info' class="info">
+            <label>Record DB:</label>
+            <label id='rownum'></label>
+            <label>&nbsp;&nbsp;Selezionati:</label>
+            <label id='rowselected'></label>
+        </div>
+        <div id='cmd' class="info">
+            <a href="javascript:closeReport();">Chiudi</a>
+        </div>
+    </div>
+
+    <div id='div0t'>
+        <div>&nbsp;</div>
+        <label> Riformanze Comune di Narni XVI Sec.</label>
+        <div>&nbsp;</div>
+        <div id='xx' > <img src="css/images/logo23.jpg" height="65" width="200" /> </div>
+    </div>
+
+    <div id='div00' class='menuh'>
+        <ul>
+            <li><a href="javascript:fnExit();">Fine</a></li>
+            <li><a href="javascript:riforme();">Riforme</a></li>
+            <li><a href="javascript:proposte();">Proposte</a></li>
+            <li><a href="javascript:persone();">Persone</a></li>
+        </ul>
+    </div>
+    <div id='div01' class='menu'>
+        <ul>
+            <li class='label'>Proposte</li>
+            <li><a href="javascript:setDiv00();">Fine</a></li>
+            <li><a href="javascript:help({url:'html/proposta/help.html'});">Help</a></li>
+            <li><a href="javascript:setProposte1();">Report1</a></li>
+            <li><a href="javascript:setProposte2();">Report2</a></li>
+            <li><a href="javascript:setProposte3();">Report3</a></li>
+            <li><a href="javascript:clsForm();">Annulla Filtro</a></li>
+        </ul>
+    </div>
+    <div id='div02' class='menu'>
+        <ul>
+            <li class='label'>Riforme</li>
+            <li><a href="javascript:setDiv00();">Fine</a></li>
+            <li><a href="javascript:help({url:'html/riforma/help.html'});">Help</a></li>
+            <li><a href="javascript:setRiforme1();">Report1</a></li>
+            <li><a href="javascript:setRiforme2();">Report2</a></li>
+            <li><a href="javascript:clsForm();">Annulla Filtro</a></li>
+        </ul>
+    </div>
+    <div id='div03' class='menu'>
+        <ul>
+            <li class='label'>Persone</li>
+            <li><a href="javascript:setDiv00();">Fine</a></li>
+            <li><a href="javascript:help({url:'html/persona/help.html'});">Help</a></li>
+            <li><a href="javascript:setPersone1();">Report1</a></li>
+            <li><a href="javascript:clsForm();">Annulla Filtro</a></li>
+        </ul>
+    </div>
+    <div id='div1'></div>
+    <div id='div2'> </div>
+    <div id='div0hlp' class='help'>
+        <h4>Indicizzazione del fondo delle Riformanze <br/>del Comune di Narni XVI secolo</h4>
+        <p>
+            Il comune di Narni, come molti dei comuni italiani, conserva presso il proprio Archivio storico un imponente fondo di <span>Riformanze</span>, che coprono un arco cronologico esteso dal XVI al XIX secolo, alla data cioè del 1861 che segna, archivisticamente, lo spartiacque fra i fondi preunitari e quelli postunitari.
+        </p>
+        <p>
+            Parlando di <span>Riformanze</span> (o <span><span >Riforme</span></span>, o <span>Libri</span> dei <span>consigli</span>, a seconda delle località) parliamo di una delle tipologie documentarie più importanti per ricostruire la quotidianità sociale, economica, burocratica ma anche culturale delle nostre comunità urbane, in una dimensione non solo strettamente localistica. Si tratta infatti dei verbali delle sedute, quasi quotidiane, dei consigli comunali.
+        </p>
+        <p>
+            Qualche esempio: lo storico dell’urbanizzazione vi troverà il ricordo della costruzione di opere pubbliche, manutenzioni, realizzazione di strade, acquedotti, palazzi, ponti, fortificazioni ecc.; lo storico delle comunità rurali informazioni sui rapporti istituzionali fra la città e il suo contado, su iniziative di popolamento da parte del comune, sulle tipologie contrattuali diffuse; lo storico del diritto avrà a disposizione una messe infinita di esempi di controversie, liti, questioni di eredità, giurisdizione dei confini, punizione dei delitti ecc.; lo storico dell’economia informazioni sul sistema monetario in uso, sulle gabelle e la loro entità, sui commerci, le importazioni e le esportazioni. Non da ultimo ricordo poi l’imponente numero di antroponimi ricavabili da queste sedute, antroponimi che spaziano dal nome del podestà e dei priori a quello dell’aromatarius o del falegname.
+        </p>
+        <p>
+            Se queste (e quelle elencate non rappresentano che una parte) sono le potenzialità del genere di fonti, passando poi all’effettiva ricerca d’archivio lo studioso, decidendo di sfruttarlo, si scontra con un ostacolo non certo insormontabile ma che pone comunque dei grossi limiti, e ha provocato finora un sostanziale sottoutilizzo delle fonti stesse. I fondi di <span>Riformanze</span> rappresentano infatti un vero e proprio <span>mare magnum </span>per orientarsi all’interno del quale mancano del tutto strumenti, o perlomeno strumenti efficaci; qualsiasi ricerca comporta la consultazione completa dei volumi, pagina per pagina, alla ricerca di ciò che potrebbe interessare, relegando così molto spesso le scoperte all’ambito della pura casualità e avendo anche delle ricadute sullo stato di conservazione dei pezzi archivistici data l’usura che comporta uno spoglio di questo tipo.
+        </p>
+        <p>
+            È perciò su questo punto che ci si è proposto di intervenire.
+        </p>
+        <p>
+            L’obiettivo del progetto è stato quello di indicizzare in maniera esaustiva il contenuto delle <span>Riformanze</span>, agendo dall’interno del documento, “smontando” ciascuna verbalizzazione in tutte le sue componenti e facendo emergere queste ultime come informazioni sulle quali poter effettuare ricerche incrociate: argomenti, antroponimi, toponimi, cariche. Il risultato finale è la possibilità di avere, al termine delle proprie ricerche, una precisa indicazione Volume/Pagina da inoltrare all’Archivio per ottenere copia delle pagine di proprio interesse: l’indicizzazione è stata infatti accompagnata dalla riproduzione digitale integrale dei volumi.
+        </p>
+        <p>
+            Ogni verbalizzazione è stata scomposta in due componenti principali:
+            <br/>
+            <b>“Riforma”</b> che costituisce la cornice generale della verbalizzazione, all'interno della quale è possibile selezionare i documenti per Pontificato, tipologia di Consiglio, nome dei Consiglieri ecc.;
+            <br/>
+            <b>“Proposta”</b>, cioè il singolo punto all’ordine del giorno all’interno di una Riforma, l'elemento base del database in quanto permette di effettuare la ricerca fondamentale, cioè quella relativa agli Argomenti e alla Tipologia dei documenti.
+            <br/> Una terza componente riguarda le <b>Persone</b>: essa da una parte permette di eseguire alcune ricerche autonome (per Professione, Qualifica sociale e Qualifica culturale ecc.), dall’altra, soprattutto, permette di verificare i criteri di trascrizione di un nominativo sul quale si stanno facendo indagini per inserire i dati nella forma corretta.
+        </p>
+        <p>
+            Tutte le ricerche si effettuano utlizzando delle maschere che permettono di selezionare i dati mediante la tecnica <span>Query by Example</span>.
+            <h4>Dati tecnici</h4>
+            <p>
+                L'applicazione è stata completamente realizzata con strumenti Open Source; particolare attenzione è stata posta al disegno dei dati in modo tale da non vincolarsi ad un particolare Data Base; quindi è stato utilizzato un SQL strettamente standard.
+            </p>
+            <p>
+                I dati possono essere perciò ospitati su tutti i DB sia commerciali che Open Source. In particolare l'applicazione è stata testata su MySql, Postgresql, Sqlite ed Oracle.
+            </p>
+            <p>
+                Il framework utilizzato per la gestione amministrativa dei dati è Django 1.5. Si tratta di un tool potente e flessibile implementato in Python per il quale è disponibile hosting a buon mercato.
+            </p>
+            <p>
+                Inoltre, disponendo di un suo server HTTP, è facilmente installabile su piattaforme Windows, Linux e Mac senza bisogno di complicate operazioni di configurazione o l'uso di moduli aggiuntivi. In pratica si può scaricare ed è immediatamente disponibile.
+            </p>
+            <p>
+                Per quanto riguarda la consultazione dei dati si è utilizzato dal lato <span>server</span> dei files in formato CSV e dal lato
+                <span>Client</span> la tecnologia AJAX. In questa maniera si è potuto implementare l'applicativo per la consultazione senza utilizzare alcun DB.
+            </p>
+            <p>
+                Inoltre è possibile consultarlo anche in locale semplicemente utlizzando il Browser per leggere il file <b>index.html</b> (o semplicemente trascinando il file sul browser). E' stato testato con tutti i browser dell'ultima generazione (le prestazioni migliori si hanno con <span>Firefox</span>).
+            </p>
+            <p>
+                Funziona con tutti i sistemi operativi (Linux, Windows, Mac) e può essere residente su hard-disk, su chiavetta USB o su CD.
+            </p>
+            <p>
+                La tecnologia utilizzata oltre a rendere banale l'installazione dell'applicativo permette di utilizzare contratti di <span>Hosting</span> particolarmente economici.
+            </p>
+    </div>
+</body>
+
+</html>

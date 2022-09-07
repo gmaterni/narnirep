@@ -1,0 +1,71 @@
+<form id="form1" class="frm">
+  <table class="frm">
+    <tr>
+      <td ></td>
+      <td>
+        <label>Nome:</label>
+      </td>
+      <td>
+        <input type="text" name="nome" id="nome" value="" size="30" maxlength="50" />
+      </td>
+      <td>
+        <label>Cognome:</label>
+      </td>
+      <td>
+        <input type="text" name="cognome" id="cognome" value="" size="30" maxlength="50" />
+      </td>
+    </tr>
+    <tr>
+      <td ></td>
+      <td>
+        <label>Soprannome:</label>
+      </td>
+      <td>
+        <input type="text" name="detto" id="detto" value="" size="30" maxlength="40" />
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td >
+        <label class='lbl'>Patronimico</label>
+      </td>
+      <td>
+        <label>Nome:</label>
+      </td>
+      <td>
+        <input type="text" name="patr_nome" id="patr_nome" value="" size="30" maxlength="40" />
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td >
+        <label class='lbl'>Luogo Orig.</label>
+      </td>
+      <td>
+        <a href="javascript:lk({dataUrl:'lk/orig_toponimo.txt',lkId:'orig_toponimo',titolo:'Toponimo',w:'150px',h:'400',x:150,y:-20});">Toponimo: ?</a>
+      </td>
+      <td >
+        <input type="text" name="orig_toponimo" id="orig_toponimo" value="" size="30" maxlength="40" />
+      </td>
+      <td>
+        <a href="javascript:lk({dataUrl:'lk/orig_denominazione.txt',lkId:'orig_denominazione',titolo:'Denominazione',w:'150px',h:'400',x:150,y:-20});">Denominazione: ?</a>
+      </td>
+      <td>
+        <input type="text" name="orig_denominazione" id="orig_denominazione" value="" size="30" maxlength="40" />
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <!-- XXXX
+      <td> <a href="javascript:lk({dataUrl:'lk/qualifsoc.txt',lkId:'qualifsoc',titolo:'Qualif.Sociale',w:'250px',h:'auto',x:150,y:-20});">Qualif.Sociale: ?</a> </td>
+      <td> <input type="text" name="qualifsoc" id="qualifsoc" value="" size="30" maxlength="30" /> </td>
+      -->
+      <td> <a href="javascript:lk({dataUrl:'lk/prof_descr.txt',lkId:'prof_descr',titolo:'Professione',w:'250px',h:'400',x:50,y:-20});">Professione: ?</a> </td>
+      <td> <input type="text" name="prof_descr" id="prof_descr" value="" size="30" maxlength="30" /> </td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</form>

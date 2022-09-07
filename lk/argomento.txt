@@ -1,0 +1,150 @@
+Ambasciata
+Archivio pubblico
+Armi della comunità
+Arte: degli Scalpellini
+Arte: dei Barilari
+Arte: dei Bifolchi
+Arte: dei Falegnami
+Arte: dei Macellai
+Arte: dei Molinari dell'olio
+Arte: del Capo di sopra
+Arte: del Capo di sotto
+Arte: dell'Agricoltura
+Arte: della Lana
+Autorità ecclesiastiche: cardinale
+Autorità ecclesiastiche: commissario cavalcante
+Autorità ecclesiastiche: governatore
+Autorità ecclesiastiche: legato/commissario apostolico
+Autorità ecclesiastiche: pontefice
+Autorità ecclesiastiche: protettore della comunità
+Autorità ecclesiastiche: vescovo
+Banditi
+Botteghe/Case private/Terreni privati
+Cancelleria
+Cancelleria criminale
+Capitoli/Statuti
+Carceri/Prigionieri
+Cassa del Sigillo/degli Argenti/Depositi
+Cittadinanza
+Compagnie di ventura/Milizie
+Compravendita
+Confini/Passi
+Controversia/Causa/Lite
+Corsi d'acqua/Fossati/Canali/Acquedotti/Fognature
+Debiti/Crediti/Prestiti
+Eredità
+Festività religiose e profane
+Fiera/Mercato/Mercanti
+Forestieri
+Formina/Fontane/Cisterne/Pozzi/Lavatoi
+Furti/Delitti/Violenze
+Gabelle
+Gabelle: Cenciaria
+Gabelle: Generale
+Gabelle: dei frutti
+Gabelle: dei pesi e delle misure
+Gabelle: dei quattro denari
+Gabelle: del mezino
+Gabelle: del pedaggio
+Gabelle: del quatrino a libra
+Gabelle: del quatrino per foglietta
+Gabelle: della Camera Apostolica
+Gabelle: della Scannatura
+Gabelle: della farina
+Gabelle: della grascia
+Gabelle: della lagia
+Gabelle: della statera
+Gabelle: delle bettole e osterie
+Gabelle: dello Stallatico
+Gabelle: non pagamento/esenzione
+Giura
+Guardie/Mlizie/Scorte
+Identità
+Incarichi vari Palazzo comunale
+Incidenti/Incendi/Crolli
+Leggi suntuarie
+Lotto e giochi d'azzardo
+Mezzi e animali da trasporto/Spese di viaggio
+Monasteri/Conventi/Chiese/Arredi sacri
+Mulini
+Mura cittadine
+Occupazione di terreni e suolo pubblico/Abusi
+Orazioni pubbliche e processioni
+Osterie/Bettole/Ospitalità
+Palazzi comunali edilizia
+Palazzi comunali mobilio e accessori
+Ponti/Porto
+Porte cittadine
+Querela
+Regole del commercio
+Richiesta di grazia
+Ricognizione del territorio
+Salari
+Sanità: Chirurgo
+Sanità: Pestilenze
+Sanità: Primo e secondo medico
+Scuola: edifici
+Scuola: maestro pubblico
+Scuola: ripetitore
+Scuola: scolari/studenti universitari
+Sindacatura
+Strade
+Sussidio triennale dell'Umbria
+Terreni/Bandite/Pascoli/Bestiame/Raccolti
+Torri/Orologi
+Ufficiali: ambasciatore/agente della comunità/nunzio/oratore
+Ufficiali: avvocato della comunità/procuratore
+Ufficiali: barisello/balivo/baiolo
+Ufficiali: bussolo
+Ufficiali: cancelliere
+Ufficiali: cancelliere criminale
+Ufficiali: capitano delle battaglie/bombardiere
+Ufficiali: castallo
+Ufficiali: conduttore dell'Abbondanza
+Ufficiali: conduttore della Gabella del mezino
+Ufficiali: conduttore delle Inosservanze
+Ufficiali: consiglieri dei Sessanta
+Ufficiali: consiglieri del Consiglio Generale
+Ufficiali: consiglieri della Cernita
+Ufficiali: depositario dei Malefici
+Ufficiali: depositario del Danno Dato
+Ufficiali: depositario del Monte di Pietà
+Ufficiali: depositario dell'Abbondanza
+Ufficiali: depositario della fabbrica
+Ufficiali: depositario generale
+Ufficiali: elettori
+Ufficiali: esattore
+Ufficiali: grasceri
+Ufficiali: montisti del Monte di Pietà
+Ufficiali: montisti del grano
+Ufficiali: notaio
+Ufficiali: paciere
+Ufficiali: picarnerio/depositario dei pegni
+Ufficiali: pontanari
+Ufficiali: portanari
+Ufficiali: priori
+Ufficiali: regolatori
+Ufficiali: rettori di S. Francesco
+Ufficiali: rettori di Santa Croce
+Ufficiali: revisori dei libri
+Ufficiali: sindaco
+Ufficiali: sollecitatore
+Ufficiali: soprastanti Nundinarum
+Ufficiali: soprastanti alla fiera
+Ufficiali: soprastanti/prefetto della fabbrica
+Ufficiali: uditore
+Ufficiali: ufficiale del Danno Dato
+Ufficiali: ufficiali della Madonna della Quercia
+Ufficiali: vallario
+Ufficiali: vicario
+Venerabile ospedale
+Visitatio
+Visite/Passaggi delle autorità
+Viveri: grano e farina/Abbondanza
+Viveri: macello
+Viveri: merci di pizzicheria/Pizzicaria
+Viveri: olio
+Viveri: pane/Panetteria
+Viveri: pesca e caccia
+Viveri: sale/Salara
+Viveri: vino

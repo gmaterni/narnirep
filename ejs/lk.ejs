@@ -1,0 +1,20 @@
+<div class='lktop' >
+    <label><%=dataExt.titolo%></label> 
+    <button  type='button' onclick="UaEjsWndAdm.close('<%=id%>');">X</button>
+</div>
+
+<div class='lk' >
+<table class='lk' >
+  <tbody>
+<%
+for(var i=0; i<rows.length; i++){
+  var n=(i %2);
+  var r=rows[i];
+ %>
+ <tr class="row<%=n%>" onclick="UaEjsWndAdm.action('<%=id%>',<%=i%>);">
+      <td><%=r.descr%></td>
+   </tr>
+ <%}%>
+ </tbody>
+</table>
+</div>
